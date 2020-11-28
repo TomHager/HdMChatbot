@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a4eb6d0e-1cfc-4910-81d3-703ee771cc58",
+    "data": [
+      {
+        "text": "Hab ich während des Praktikums Prüfungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548428908
+  },
+  {
+    "id": "8bf68d5a-84f8-41f7-9838-7e3493f65ef1",
+    "data": [
+      {
+        "text": "Muss ich im Praxissemester Prüfungen schreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548428908
+  },
+  {
+    "id": "bec08386-5560-455e-ad34-5e60f0ed1f2e",
+    "data": [
+      {
+        "text": "Gibt es Prüfungen im Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548428908
+  },
+  {
+    "id": "7f05f9e4-d98a-4d1a-92c2-17e58a141533",
+    "data": [
+      {
+        "text": "Sind im praxissemester Prüfungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12a90f04-53a3-4ed4-9fde-162143d0f00a",
+    "data": [
+      {
+        "text": "Muss man im ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": ". Semester Prüfungen schreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

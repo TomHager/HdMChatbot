@@ -1,0 +1,28 @@
+{
+  "id": "685f2c76-8951-42c8-a793-493c3e438419",
+  "name": "Allgemein_küken",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das bin ich 🙈"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548092153,
+  "fallbackIntent": false,
+  "events": []
+}

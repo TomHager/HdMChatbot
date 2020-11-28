@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bef9b217-5a29-4a55-85ef-3495948b0d77",
+    "data": [
+      {
+        "text": "Wann kann man ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Auslandssemster machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3e028a7-5a98-4be5-a4cd-bf302ba403a7",
+    "data": [
+      {
+        "text": "In welchem Semester macht man normal ein Auslandssemester? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

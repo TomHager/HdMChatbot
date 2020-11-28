@@ -1,0 +1,28 @@
+{
+  "id": "347ce353-9f2d-48e0-bbd4-89b032a820d6",
+  "name": "Bewerbung_Fristgerecht",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Maßgeblich für die Einhaltung der Frist ist der Tag des Eingangs der Bewerbungsunterlagen an der Hochschule der Medien, z. B. auf dem Postweg oder durch die persönliche Abgabe. Es gilt nicht der Zeitpunkt der Onlinebewerbung oder das Datum des Poststempels."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547717666,
+  "fallbackIntent": false,
+  "events": []
+}

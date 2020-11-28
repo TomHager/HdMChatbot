@@ -1,0 +1,250 @@
+[
+  {
+    "id": "4580309e-de2a-4bd5-b839-ff1c95044a11",
+    "data": [
+      {
+        "text": "Praktikumsemster",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d72b4357-9eed-4217-8d3d-df2f7bd62f9b",
+    "data": [
+      {
+        "text": "Praxissemester ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "589ede9a-0525-4aeb-ac8f-b6c92045f67a",
+    "data": [
+      {
+        "text": "Wann mache ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikumssemester? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c06ecbb-64da-4be0-8b70-8e045135ace3",
+    "data": [
+      {
+        "text": "Wann kann ich mein Prkatikum machen ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81c12a67-73bf-49c5-b358-ca215537a012",
+    "data": [
+      {
+        "text": "wie sieht es ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Praxissemester aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92461539-e8c2-4318-a6a6-134481bd2ab0",
+    "data": [
+      {
+        "text": "Wann ist das Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547314354
+  },
+  {
+    "id": "bbd71338-6bf5-46ce-8acb-5f8ee7feb690",
+    "data": [
+      {
+        "text": "Wie läuft das Praxissemester ab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547042489
+  },
+  {
+    "id": "04a7b203-ba78-4817-9d6f-9554c454ee92",
+    "data": [
+      {
+        "text": "Wie läuft die Bewerbung für das Praxissemester ab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547042489
+  },
+  {
+    "id": "3b716d58-4e72-4e6f-956b-0b18091702f9",
+    "data": [
+      {
+        "text": "Ablauf Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547042489
+  },
+  {
+    "id": "69d30004-4ea3-4f14-ae10-37895c657f38",
+    "data": [
+      {
+        "text": "Ablauf Bewerbung Praxissemester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547042489
+  },
+  {
+    "id": "d9b0d085-7648-4577-ac84-07088c41b293",
+    "data": [
+      {
+        "text": "Bewerben um Praktikantenplatz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559227
+  },
+  {
+    "id": "4ea100dc-96a3-40c6-a127-28a524e3ce8e",
+    "data": [
+      {
+        "text": "Wo gibt es Praktikumsstellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559227
+  },
+  {
+    "id": "618078b2-d5bf-4f10-9887-18526552d094",
+    "data": [
+      {
+        "text": "Wie läuft das mit dem Bewerben ",
+        "userDefined": false
+      },
+      {
+        "text": "auf ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikumsplatz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658210
+  },
+  {
+    "id": "d663e350-48d8-4ad6-a6bf-686ad9ddd386",
+    "data": [
+      {
+        "text": "Wie finde ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikumsstelle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658210
+  },
+  {
+    "id": "68e3b0c7-febb-45ac-9158-81ef29aff759",
+    "data": [
+      {
+        "text": "Bekomme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikumsplatz zugewiesen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658210
+  },
+  {
+    "id": "4a93f350-53c6-4ddb-b5a6-e82584c3c23f",
+    "data": [
+      {
+        "text": "Wie bekomme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikumsplatz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658210
+  }
+]

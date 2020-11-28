@@ -1,0 +1,28 @@
+{
+  "id": "83335637-ed13-4f96-b7af-7c2c7daf1760",
+  "name": "Random_im_ernst",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Nein, im Detlef 😜"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548149646,
+  "fallbackIntent": false,
+  "events": []
+}

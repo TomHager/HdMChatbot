@@ -1,0 +1,28 @@
+{
+  "id": "2612ee79-32e3-4e83-93e1-a37931445a4a",
+  "name": "Zulassung_Anrechnung von Prüfungsleistungen der Berufsausbildung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Nur Prüfungsleistungen von anderen Hochschulen können angerechnet werden."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546626097,
+  "fallbackIntent": false,
+  "events": []
+}

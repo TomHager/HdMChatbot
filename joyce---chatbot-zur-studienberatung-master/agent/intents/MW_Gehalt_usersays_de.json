@@ -1,0 +1,199 @@
+[
+  {
+    "id": "e0437071-1c4f-4501-a6fd-288c16d371d7",
+    "data": [
+      {
+        "text": "werde ich mit dem Fach reich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19bc0ff2-86b5-461c-b9f6-e1bc6d01aa32",
+    "data": [
+      {
+        "text": "Was verdient man ungefähr nach dem Studium? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee253cfe-c493-456a-9942-8ed8be39da1d",
+    "data": [
+      {
+        "text": "Welches",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " Einstiegsgehalt bekomme ich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547313786
+  },
+  {
+    "id": "a1afb2b9-8b45-4bd5-ad89-d4c6e25fe865",
+    "data": [
+      {
+        "text": "Wie viel verdient man später?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311669
+  },
+  {
+    "id": "e14dbf09-5a52-4e68-a6f1-c8c43182614a",
+    "data": [
+      {
+        "text": "Wie hoch ist das typische Gehalt ",
+        "userDefined": false
+      },
+      {
+        "text": "eines",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Medienwirtschaftlers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545398573
+  },
+  {
+    "id": "3029c8eb-3aa1-4061-9ccf-9e34bc5d881e",
+    "data": [
+      {
+        "text": "Wie viel Geld bekomme ich mal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545398573
+  },
+  {
+    "id": "f88f94b5-ac2d-4cb4-986d-7bb666417040",
+    "data": [
+      {
+        "text": "Gehalt nach MW Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545398573
+  },
+  {
+    "id": "70d094f6-f45f-4308-bf49-86c54582f6d1",
+    "data": [
+      {
+        "text": "Wie viel Geld kann ich nach meinem MW Studium ",
+        "userDefined": false
+      },
+      {
+        "text": "verdienen",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545398573
+  },
+  {
+    "id": "3699d7e3-f2b8-4cf6-8681-6b53bf2649dc",
+    "data": [
+      {
+        "text": "Wie hoch ist das typische Gehalt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545151492
+  },
+  {
+    "id": "5b97900e-6528-4c25-9255-8db6d463bd24",
+    "data": [
+      {
+        "text": "Wie viel kann ich später ",
+        "userDefined": false
+      },
+      {
+        "text": "verdienen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545151492
+  },
+  {
+    "id": "98e933f8-dec7-44c3-9ea4-5770c5d099d8",
+    "data": [
+      {
+        "text": "Was ",
+        "userDefined": false
+      },
+      {
+        "text": "verdienen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Medienwirtschaftler?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545151492
+  },
+  {
+    "id": "aac91717-8d87-4dde-a196-1a0b59834192",
+    "data": [
+      {
+        "text": "Was kann ich später ",
+        "userDefined": false
+      },
+      {
+        "text": "verdienen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545151492
+  }
+]

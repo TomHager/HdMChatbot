@@ -1,0 +1,94 @@
+[
+  {
+    "id": "4f8a88e8-6cdd-4911-8364-10ec7c297978",
+    "data": [
+      {
+        "text": "Wie stehen die Chancen für einen Studienplatz an der HdM zugelassen zu werden?",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545926174
+  },
+  {
+    "id": "c45d4dfc-dba1-4101-8333-0c064293da7d",
+    "data": [
+      {
+        "text": "Wie hoch ist die Wahrscheinlichkeit ",
+        "userDefined": false
+      },
+      {
+        "text": "für eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Zulassung zum Studium an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545926174
+  },
+  {
+    "id": "52feb772-ecd2-47e5-8c1f-c046791adfcd",
+    "data": [
+      {
+        "text": "Zulassungschancen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545926174
+  },
+  {
+    "id": "45a2c443-83eb-45aa-863e-1a07cc2f1231",
+    "data": [
+      {
+        "text": "Wie stehen meine Chancen ",
+        "userDefined": false
+      },
+      {
+        "text": "für einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studienplatz zugelassen zu werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545926174
+  },
+  {
+    "id": "daa311de-3af0-4834-8de8-7682078078ed",
+    "data": [
+      {
+        "text": "Wie hoch sind meine Chancen ",
+        "userDefined": false
+      },
+      {
+        "text": "für einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studienplatz zugelassen zu werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545926174
+  }
+]

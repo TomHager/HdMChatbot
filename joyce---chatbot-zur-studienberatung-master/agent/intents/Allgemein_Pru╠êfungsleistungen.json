@@ -1,0 +1,38 @@
+{
+  "id": "1212ebe2-7aae-4789-987f-a7f5894c55c7",
+  "name": "Allgemein_Prüfungsleistungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Welche Prüfungsleistung zu erbringen ist, variiert von Vorlesung zu Vorlesung."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Auf der jeweiligen Seite der Vorlesungsmodule kannst Du nachschauen, um welche Prüfungsleistung es sich handelt: https://www.hdm-stuttgart.de/studierende/stundenplan/studieninhalte/studiengang?sgang_ID\u003d550039"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das sind die Abkürzungen der häufigsten Prüfungsleistungen:\nHA \u003d Hausarbeit\nKL \u003d Klausurarbeit\nPA \u003d Praktische Arbeit\nPP \u003d Praktische Arbeit und Präsentation\nRE \u003d Referat"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640381,
+  "fallbackIntent": false,
+  "events": []
+}

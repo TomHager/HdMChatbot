@@ -1,0 +1,114 @@
+[
+  {
+    "id": "f5c5b319-6a54-42b3-9e84-45197005dc34",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Medieninformatik",
+        "alias": "StudiengangNichtIntegriert",
+        "meta": "@StudiengangNichtIntegriert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546639914
+  },
+  {
+    "id": "ee97ce35-4308-4e1c-ab73-9c6d7f91a93b",
+    "data": [
+      {
+        "text": "Sag mir etwas zu ",
+        "userDefined": false
+      },
+      {
+        "text": "Medieninformatik",
+        "alias": "StudiengangNichtIntegriert",
+        "meta": "@StudiengangNichtIntegriert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546639914
+  },
+  {
+    "id": "099dd2cb-5479-4441-8d78-5b14a8bd21dc",
+    "data": [
+      {
+        "text": "Erzähl mir etwas über ",
+        "userDefined": false
+      },
+      {
+        "text": "Medieninformatik",
+        "alias": "StudiengangNichtIntegriert",
+        "meta": "@StudiengangNichtIntegriert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546639914
+  },
+  {
+    "id": "208543e0-4b22-4fca-98e1-be5a049e0a7c",
+    "data": [
+      {
+        "text": "Medieninformatik",
+        "alias": "StudiengangNichtIntegriert",
+        "meta": "@StudiengangNichtIntegriert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545907373
+  },
+  {
+    "id": "ff24aaeb-12ae-4bfd-9d9f-c16e14d10ea2",
+    "data": [
+      {
+        "text": "Was kannst du mir über ",
+        "userDefined": false
+      },
+      {
+        "text": "Medieninformatik",
+        "alias": "StudiengangNichtIntegriert",
+        "meta": "@StudiengangNichtIntegriert",
+        "userDefined": false
+      },
+      {
+        "text": " sagen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545907373
+  },
+  {
+    "id": "30e8bd30-7dcf-45c7-be89-4b2bbe272991",
+    "data": [
+      {
+        "text": "Kannst du mir etwas über ",
+        "userDefined": false
+      },
+      {
+        "text": "Medieninfomatik",
+        "alias": "StudiengangNichtIntegriert",
+        "meta": "@StudiengangNichtIntegriert",
+        "userDefined": true
+      },
+      {
+        "text": " sagen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545907373
+  }
+]

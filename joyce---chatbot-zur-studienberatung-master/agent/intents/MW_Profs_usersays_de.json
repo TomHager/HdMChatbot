@@ -1,0 +1,84 @@
+[
+  {
+    "id": "5d220f11-3498-41b9-95c7-b098df5014d8",
+    "data": [
+      {
+        "text": "Welcher Professor macht was?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341226
+  },
+  {
+    "id": "cb99fd26-cdc1-4c69-b928-d5b13ed22950",
+    "data": [
+      {
+        "text": "Was sind das ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " für Profs in MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341226
+  },
+  {
+    "id": "067ec273-a753-4d69-b07e-39b01e99849d",
+    "data": [
+      {
+        "text": "Bei wem kann ich Vorlesungen besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341226
+  },
+  {
+    "id": "60449bb4-0f11-40c9-9a4c-7ce3572e5a4a",
+    "data": [
+      {
+        "text": "Von wem werde ich unterrichtet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341226
+  },
+  {
+    "id": "290d0123-39bd-4274-9295-c54fa5b407bf",
+    "data": [
+      {
+        "text": "Wie ist BWL?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b84ced37-76f5-45d8-858e-22c32fd0654b",
+    "data": [
+      {
+        "text": "Wer unterrichtet BWL?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

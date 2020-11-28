@@ -1,0 +1,58 @@
+{
+  "id": "b16edd84-54e5-472d-ad0f-894c4fbf5629",
+  "name": "Bewerbung_Bewerbung in Elternzeit/FSJ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5163dd24-414c-40c8-a730-eaf4010f812d",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "4869dbfa-76c3-4c20-a65c-2700be6cab9a",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time1",
+          "value": "$time1",
+          "isList": false
+        },
+        {
+          "id": "6665c561-5a5d-448e-b266-ff922dcb2998",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time2",
+          "value": "$time2",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Solltest Du Dein Studium aufgrund eines Freiwilligendienstes oder der Pflege eines Kindes/Angehörigen nicht sofort beginnen können, kannst Du Dich trotzdem bereits zu Beginn oder während des Dienstes bewerben."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Erhälst Du darauf ein Zulassungsangebot, kann dieses im Portal Hochschulstart „zurückgestellt“ werden."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547718972,
+  "fallbackIntent": false,
+  "events": []
+}

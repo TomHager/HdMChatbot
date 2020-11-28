@@ -1,0 +1,28 @@
+{
+  "id": "bcb26db5-bfc4-426a-95c8-8b326c19f036",
+  "name": "Studieninhalte_gewichtung_grundstudium_hauptstudium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das Grundstudium zählt 15%, das Hauptstudium 70% und die Bachelorarbeit am Ende des Studium ebenfalls 15%"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548341711,
+  "fallbackIntent": false,
+  "events": []
+}

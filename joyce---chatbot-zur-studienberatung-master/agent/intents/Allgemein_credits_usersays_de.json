@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8757c6b8-c2b8-4db2-859a-fd7c7f3e2344",
+    "data": [
+      {
+        "text": "Wer hat dich entwickelt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548411266
+  },
+  {
+    "id": "889b3f4a-07b1-4fd7-8c94-584033ec3540",
+    "data": [
+      {
+        "text": "Wie heißen deine Eltern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e32051c4-ebab-43f6-a7bd-80a61cc38662",
+    "data": [
+      {
+        "text": "Wer hat dich designt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89b1d300-a815-4a84-8135-fb1016997008",
+    "data": [
+      {
+        "text": "Wer ist dein vater",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b2eada1-7a5e-43f2-a76c-71e52e7d4ab2",
+    "data": [
+      {
+        "text": "wer hat dich programmiert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

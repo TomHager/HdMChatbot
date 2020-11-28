@@ -1,0 +1,37 @@
+{
+  "id": "be934de3-d05f-4697-a802-5215df3efbdb",
+  "name": "Bewerbung_Stand der Bewerbung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "93e8bb48-dbe7-466a-a535-43e7e37ab291",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Über den Stand Deiner eingereichten Bewerbung kannst Du Dich jederzeit hier informieren: https://vw-online.hdm-stuttgart.de/wimma/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547718161,
+  "fallbackIntent": false,
+  "events": []
+}

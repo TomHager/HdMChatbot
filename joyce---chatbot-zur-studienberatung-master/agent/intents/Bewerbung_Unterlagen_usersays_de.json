@@ -1,0 +1,110 @@
+[
+  {
+    "id": "dc49edff-e434-461b-af82-ef86833172ae",
+    "data": [
+      {
+        "text": "Wann muss ich meine Bewerbung abgeben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "085360bb-9d73-4272-bd8a-d58deb0bb059",
+    "data": [
+      {
+        "text": "Was brauche ich für Dokumente, um mich bewerben zu können?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857016
+  },
+  {
+    "id": "2485ceee-e7f3-48cf-a5b9-fa83f97cea1b",
+    "data": [
+      {
+        "text": "Art der Bewerbungsunterlagen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857016
+  },
+  {
+    "id": "fa960da3-2d9f-4e2f-8262-de5f9dfe8cd4",
+    "data": [
+      {
+        "text": "Welche Art von Unterlagen brauche ich für die Bewerbung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857016
+  },
+  {
+    "id": "1e0d728d-4095-4f25-bb0b-613d092b6eec",
+    "data": [
+      {
+        "text": "Muss ich meiner Bewerbung Unterlagen beilegen? Wenn ja welche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857016
+  },
+  {
+    "id": "0a28bb35-1ad1-4f5e-8844-9ba5566249e0",
+    "data": [
+      {
+        "text": "Welche Unterlagen werden bei der Bewerbung gefordert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857016
+  },
+  {
+    "id": "4b41eb37-7bd9-435b-b432-a00991144391",
+    "data": [
+      {
+        "text": "Welche Unterlagen brauche ich für meine Bewerbung an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857016
+  },
+  {
+    "id": "fd6f1afc-e24c-48c7-8ea2-f1e982455138",
+    "data": [
+      {
+        "text": "Bewerbungsunterlagen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857016
+  },
+  {
+    "id": "f75cbf1d-bb08-4dc4-8e9e-2f2051793512",
+    "data": [
+      {
+        "text": "Welche Unterlagen muss ich meiner Bewerbung beilegen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857016
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "45b67558-e3fe-4599-b6b9-692de3df6576",
+  "name": "Praxissemester_AnzahlVerträge",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6b7bd6b3-bbdf-4581-841c-80c53c9c7657",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Da das integrierte Praxissemester Teil des Studiums ist, stellt die HdM ebenfalls eine Vertragspartei dar. Somit wird der Praktikumsvertrag erst rechtskräftig, wenn neben einem Unternehmensvertreter und Dir auch der Praktikantenamtsleiter unterschrieben hat (trilateraler Vertrag). Deshalb brauchst Du drei Originalexemplare Deines Vertrages."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547714134,
+  "fallbackIntent": false,
+  "events": []
+}

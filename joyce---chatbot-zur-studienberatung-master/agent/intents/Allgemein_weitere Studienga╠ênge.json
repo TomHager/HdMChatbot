@@ -1,0 +1,28 @@
+{
+  "id": "c81c2cd9-05a6-44f1-832e-eabb01e69e4c",
+  "name": "Allgemein_weitere Studiengänge",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Eine Übersicht über weitere Studiengänge (alle Studiengänge an der HdM) findest Du hier: https://www.hdm-stuttgart.de/studieninteressierte/studium/bachelor"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547721790,
+  "fallbackIntent": false,
+  "events": []
+}

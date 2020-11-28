@@ -1,0 +1,58 @@
+{
+  "id": "b3be93cc-4fa6-4f2c-bea7-b326bc057eb2",
+  "name": "Bewerbung_im Voraus bewerben",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "62e41f21-1dd9-4ae2-b0ff-c772f8e0190f",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "9111e55a-8562-48ea-bf96-8701b3b1bcaa",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "d0b1eddc-83e5-46ff-beaa-a0aeb84109e0",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time1",
+          "value": "$time1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "An der HdM ist es nicht möglich, sich zu bewerben und den Studienplatz zurückzustellen oder zu reservieren. Du kannst dich also immer nur in dem Semester bewerben, in dem Du auch dein Studium beginnen willst."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ausnahmen gibt es, wenn Du einen Freiwilligendienst absolvierst (zum Beispiel: FSJ, FÖJ) oder eine Pflegeverantwortung/Elternzeit hast. Wenn Du Fragen hast, kannst Du dich gerne an das Studienbüro wenden."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547717844,
+  "fallbackIntent": false,
+  "events": []
+}

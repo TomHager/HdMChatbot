@@ -1,0 +1,154 @@
+[
+  {
+    "id": "aeed9351-de2c-47b8-8c62-91f575cce277",
+    "data": [
+      {
+        "text": "was kann ich soziales an der HDM machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "611ccbc5-fd21-4e01-8194-ce9f17f7567f",
+    "data": [
+      {
+        "text": "Was kann man Soziales an der HdM machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b2a8ea3-9645-4571-8006-35914eca911d",
+    "data": [
+      {
+        "text": "Was kann ich neben meinem Studium ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547037296
+  },
+  {
+    "id": "841dc146-4630-4e04-90d4-e584bff705cf",
+    "data": [
+      {
+        "text": "Gibt es Hochschulgruppen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547037296
+  },
+  {
+    "id": "52bcbc16-db27-4ef4-9ac8-09a6adf72d9f",
+    "data": [
+      {
+        "text": "Welche Hochschulinitiativen gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547037296
+  },
+  {
+    "id": "d432c11e-c8a8-472f-b1e9-62afe268115d",
+    "data": [
+      {
+        "text": "Zeige mir was ich an der HdM neben dem Studium her machen kann",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547037296
+  },
+  {
+    "id": "c619895c-9bd9-42ba-aafe-7a0660ce11e7",
+    "data": [
+      {
+        "text": "Welche Hochschulgruppen gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547037296
+  },
+  {
+    "id": "c465a8e8-3f9e-46b5-b1c4-18ada781d8d3",
+    "data": [
+      {
+        "text": "Hat die HdM ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Auswahl an Hochschulgruppen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547037296
+  },
+  {
+    "id": "75a5c0ec-74f6-4fcf-99de-4b8b1c5e6f07",
+    "data": [
+      {
+        "text": "Was für Initiativen gibt es an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547037296
+  },
+  {
+    "id": "bf639fd0-dec6-44c0-bdd7-25c1b2b0041e",
+    "data": [
+      {
+        "text": "Wie kann ich mich an der Hochschule engagieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547037296
+  },
+  {
+    "id": "8c516e85-b4b3-416e-a07e-ee6068e97ef6",
+    "data": [
+      {
+        "text": "Hochschulinitiativen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547037296
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "6fce46a0-eeb4-4f95-b4ac-4c88489329f5",
+  "name": "Allgemein_Welche Hochschulinitiativen gibt es?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4462f4c5-5780-4591-90b9-8021db127484",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "c7ef6897-278e-4294-9600-9c57494d26e9",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "An der HdM gibt es ein vielfältiges Angebot an Hochschulgruppen, unterstützt durch die Verfasste Studierendenschaft. Eine Liste aller Hochschulgruppen an der HdM findest Du hier: http://vs.hdm-stuttgart.de/mitmachen"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Nicht fündig geworden? Dann schau beim Angebot der Uni Stuttgart vorbei: https://stuvus.uni-stuttgart.de/organe/hochschulgruppen/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640771,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "62aeb090-9dac-4e44-905f-2e4cd6019063",
+    "data": [
+      {
+        "text": "Wie viel zählt das Grundstudium im Vergleich zum Hauptstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341711
+  },
+  {
+    "id": "fb1fdd66-041b-45a2-ac94-b72072508969",
+    "data": [
+      {
+        "text": "Gewichtung Grund- und Hauptstudium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341711
+  },
+  {
+    "id": "60d242be-7b8d-484e-9595-d805afcde491",
+    "data": [
+      {
+        "text": "Wie viel Prozent macht das Hauptstudium aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341711
+  },
+  {
+    "id": "57a6a587-6332-4f20-bda6-c0592a38b07b",
+    "data": [
+      {
+        "text": " Wie wichtig ist das Grundstudium für die spätere Endnote?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341711
+  },
+  {
+    "id": "c69546a4-f501-4b5f-b048-ded933f59062",
+    "data": [
+      {
+        "text": "Ist das Grundstudium wichtig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341711
+  },
+  {
+    "id": "8de3c53c-a7bf-4d45-8709-8fa78a63f16f",
+    "data": [
+      {
+        "text": "Wie viel zählt die Bachelor Arbeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341711
+  },
+  {
+    "id": "48ce0dec-2007-4cdd-ba73-63c576cae7a3",
+    "data": [
+      {
+        "text": "Wie wichtig ist die Bachelor Arbeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341711
+  },
+  {
+    "id": "85746d69-cb6f-455b-abf9-f97db9e3df8a",
+    "data": [
+      {
+        "text": "Wie viel Prozent machen die Noten aus dem Grundstudium aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

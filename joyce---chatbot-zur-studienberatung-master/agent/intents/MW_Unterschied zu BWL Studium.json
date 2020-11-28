@@ -1,0 +1,33 @@
+{
+  "id": "2234fc1f-68e3-4649-9f22-33c2ba08e952",
+  "name": "MW_Unterschied zu BWL Studium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Der Studiengang Medienwirtschaft kombiniert ökonomische Aspekte und das Management der Medien mit Fragen der Konzeption und Produktion von Medien. Auch die Reflektion über Medien, ihre gesellschaftliche Bedeutung und ihre Wirkung werden betrachtet, sowie deren technische Grundlagen und Gestaltung."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die ökonomischen Grundlagen machen etwas mehr als die Hälfte aus, die andere Hälfte ist medienbezogen und kann je nach Schwerpunkt vertieft werden."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548656518,
+  "fallbackIntent": false,
+  "events": []
+}

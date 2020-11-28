@@ -1,0 +1,49 @@
+{
+  "id": "d1fede9b-56ce-42e1-866f-5add1c910dc1",
+  "name": "MW_Stundenplan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7f4f5e1d-d7f9-4a69-b8d9-afd7f900b6b6",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "c2e1559c-d33d-4856-a3f7-78c41abd5815",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Der Vorlesungsplan, orientiert sich am Ablaufplan des MW-Studiums: https://www.hdm-stuttgart.de/download/studienverlaufsplaene/MW7.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Eine genau Übersicht über die einzelnen Veranstaltungen findest Du unter diesem Link, unter \"Kompetenzprofile\" (unten auf der Internet-Seite): https://www.hdm-stuttgart.de/studierende/stundenplan/studieninhalte/studiengang?sgang_ID\u003d550039"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548656898,
+  "fallbackIntent": false,
+  "events": []
+}

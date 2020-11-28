@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c1cdf123-5085-43e8-bca2-905cb1ca1c22",
+    "data": [
+      {
+        "text": "Was gibts bei der Medianight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548425361
+  },
+  {
+    "id": "18306387-622c-4fe9-8f93-2509e7ae6c83",
+    "data": [
+      {
+        "text": "Wofür gibt es die Medianight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548425361
+  },
+  {
+    "id": "56848276-cd54-4a51-8294-b952f66fe9a2",
+    "data": [
+      {
+        "text": "Was kann man bei der Medianight machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548425361
+  },
+  {
+    "id": "24f0f84b-4e48-43ae-ad31-87d0a3ecbf98",
+    "data": [
+      {
+        "text": "Was gibt es bei der Medianight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548425361
+  },
+  {
+    "id": "c0957cea-3904-456e-b4e1-6328d2048bec",
+    "data": [
+      {
+        "text": "Was ist die medianight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0957cea-3904-456e-b4e1-6328d2048bec",
+    "data": [
+      {
+        "text": "Was ist die medianicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

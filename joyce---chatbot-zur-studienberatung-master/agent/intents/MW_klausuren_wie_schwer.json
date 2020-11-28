@@ -1,0 +1,28 @@
+{
+  "id": "f355db39-07ac-45a5-9f6a-caae333ac173",
+  "name": "MW_klausuren_wie_schwer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Pauschal kann ich dir diese Frage nicht beantworten. Ich kann dir jedoch sagen, dass mit der richtigen Vorbereitung und Motivation alle Prüfungen machbar sind."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548418269,
+  "fallbackIntent": false,
+  "events": []
+}

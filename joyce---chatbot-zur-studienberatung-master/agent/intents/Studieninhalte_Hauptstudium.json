@@ -1,0 +1,38 @@
+{
+  "id": "4b07ddb8-8bfd-4910-b50a-9ac40585f10f",
+  "name": "Studieninhalte_Hauptstudium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Im Hauptstudium vertiefst du dein Wissen. Es besteht die Möglichkeit, dich für den Schwerpunkt \"Management\" oder \"Konzeption \u0026 Analyse\" zu entscheiden."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Neben der Spezialisierung bieten Wahlfächer Freiheiten bei der Gestaltung des Studiums nach individuellen Stärken. Im fünften Semester findet das Praxissemester statt."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Schau Dir dazu den Übersichtsplan unter diesem Link, bei Kompetenzprofile unter \"Module des Hauptstudiums (Pflicht sowie Wahlpflicht)\" (unten auf der Internet-Seite) an: https://www.hdm-stuttgart.de/studierende/stundenplan/studieninhalte/studiengang?sgang_ID\u003d550039"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547037844,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "80539bf2-e825-4799-a18e-7c5e029601af",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Auslandsaufenthalt anrechnen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626004
+  },
+  {
+    "id": "ddf70cd5-fac2-4c51-ac9f-b76d8321c363",
+    "data": [
+      {
+        "text": "Ich war im Ausland, bringt mir das was für meine Bewerbung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626004
+  },
+  {
+    "id": "adfa1ef6-fdde-42a3-b99e-c24a6b1779e0",
+    "data": [
+      {
+        "text": "Bringt es mir was, das ich im Ausland war?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626004
+  },
+  {
+    "id": "1bc2a2ca-92e5-4f7f-9fe9-682c9d20480c",
+    "data": [
+      {
+        "text": "Wird ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Auslandsaufenthalt bei der Zulassung an der HdM berücksichtigt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545926680
+  },
+  {
+    "id": "c5901cb5-2f92-4e7c-8169-88906c96e47d",
+    "data": [
+      {
+        "text": "Wird mein Auslandsaufenthalt bei der Zulassung berücksichtigt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545926680
+  },
+  {
+    "id": "4451be39-49e5-4656-9c2d-d6466d2be92c",
+    "data": [
+      {
+        "text": "Anrechnung von Auslandsaufenthalten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545926680
+  },
+  {
+    "id": "375dbddb-a0db-4f71-86fd-e0f735c6c03c",
+    "data": [
+      {
+        "text": "Ich war vor meinem Studium im Ausland. Bringt mir das etwas bei der Zulassung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545926680
+  },
+  {
+    "id": "1ddad62b-1c89-42b3-8c25-419b2a87882c",
+    "data": [
+      {
+        "text": "Hilft es, wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Auslandsjahr gemacht habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545926680
+  }
+]

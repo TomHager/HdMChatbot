@@ -1,0 +1,49 @@
+{
+  "id": "df2a70be-1964-4891-a94a-0a12111ed99d",
+  "name": "Allgemein_mensa hdm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cb1ea65e-ee51-4fff-b284-3fec231359a2",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "f7be5b2e-b34a-4730-9034-0259045ec43f",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die HdM hat eine erstklassige Mensa ;)"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Viele Studenten gehen zum essen aber auch in die Mensa der Uni Stuttgart."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640288,
+  "fallbackIntent": false,
+  "events": []
+}

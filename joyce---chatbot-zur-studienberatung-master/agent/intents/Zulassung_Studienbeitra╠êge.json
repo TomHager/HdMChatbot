@@ -1,0 +1,28 @@
+{
+  "id": "794caad7-5af0-4fde-b4d6-e5b11109cca8",
+  "name": "Zulassung_Studienbeiträge",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Eine Übersicht über mögliche anfallende Kosten findest Du hier: https://www.hdm-stuttgart.de/studieninteressierte/bewerber/kosten"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545925143,
+  "fallbackIntent": false,
+  "events": []
+}

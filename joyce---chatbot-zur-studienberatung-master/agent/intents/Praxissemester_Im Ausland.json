@@ -1,0 +1,28 @@
+{
+  "id": "05ca83b8-72cc-4120-9b0e-2d892d1906b8",
+  "name": "Praxissemester_Im Ausland",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Bei Fragen rund um ein Auslandspraktikum kann Frau Schumacher vom Akademischen Auslandsamt der HdM weiterhelfen (0711 8923-2039, schumacher@hdm-stuttgart.de )."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547713700,
+  "fallbackIntent": false,
+  "events": []
+}

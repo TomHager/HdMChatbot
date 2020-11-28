@@ -1,0 +1,110 @@
+[
+  {
+    "id": "7912493a-21e5-455b-97c9-0b15f8ccacb1",
+    "data": [
+      {
+        "text": "Und was ist prüfungsrelevant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91eb1afc-1d68-4df0-aa88-8965dc1a8bb8",
+    "data": [
+      {
+        "text": "Wie bereite ich mich am besten für die Klausur Mediensysteme vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d48d2bcc-4491-464a-b71e-ebd264f1570f",
+    "data": [
+      {
+        "text": "Wo finde ich Probeklausur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9f0950d-6e35-466d-9f81-34c88a502534",
+    "data": [
+      {
+        "text": "Was muss ich für die Klausur können?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548092716
+  },
+  {
+    "id": "25b324c7-698b-40e0-883a-0f96e8ddf207",
+    "data": [
+      {
+        "text": "Wie bereite ich mich zur BWL Klausur vor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548092716
+  },
+  {
+    "id": "602bb155-acda-4ed7-9b79-ada26eeaa90a",
+    "data": [
+      {
+        "text": "Wie bereite ich mich für die Klausuren vor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548092716
+  },
+  {
+    "id": "b3f7f1a0-6b57-4afa-95cb-cfc5e6dd30da",
+    "data": [
+      {
+        "text": "Was kommt in der Klausur dran?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548092716
+  },
+  {
+    "id": "d95b0055-05e4-4c2e-abb1-20b8aac3cb02",
+    "data": [
+      {
+        "text": "Wie bereite ich mich zum VWL Klausur vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6399b118-37aa-4eee-a06c-fa2087d0b8a9",
+    "data": [
+      {
+        "text": "Was kommt in der Prüfung dran?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

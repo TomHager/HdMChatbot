@@ -1,0 +1,120 @@
+[
+  {
+    "id": "879080ca-2654-4cb7-964d-744d8c32b07f",
+    "data": [
+      {
+        "text": "Kann ich mich ohne Motivationsschreiben bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625569
+  },
+  {
+    "id": "0ad6abc5-973d-409f-8f9e-d3a038390f69",
+    "data": [
+      {
+        "text": "Braucht man immer ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Motivationsschreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625569
+  },
+  {
+    "id": "503d4577-76d3-4288-b380-5bdc0396d172",
+    "data": [
+      {
+        "text": "Brauche ich für meine Bewerbung ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Motivationsschreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909793
+  },
+  {
+    "id": "f9d57a80-58d5-4a85-92e0-1ab4011399a6",
+    "data": [
+      {
+        "text": "Benötige ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Motivationsschreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909793
+  },
+  {
+    "id": "b9b6570a-a1fd-485f-bdbb-4af2e010142a",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Motivationsschreiben gefordert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909793
+  },
+  {
+    "id": "38b76e68-3701-40f7-b037-bb30d96c0972",
+    "data": [
+      {
+        "text": "Brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Motivationsschreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909793
+  }
+]

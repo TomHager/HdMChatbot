@@ -1,0 +1,179 @@
+[
+  {
+    "id": "6e8c8d54-1088-4487-8981-d8e8fa90414a",
+    "data": [
+      {
+        "text": "Ab wann kann man sich bewerben ? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fddafc27-0be9-41a2-9daf-c28cf909e675",
+    "data": [
+      {
+        "text": "Bewerbungszeitraum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bf926b9-c127-4474-8e8b-25804cb073b3",
+    "data": [
+      {
+        "text": "toll, ab wann kann ich mich bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "960bfe9d-f5eb-49ce-8c79-e86792ce4af9",
+    "data": [
+      {
+        "text": "toll, und wann kann ich mich bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "370fa47f-7434-4fab-8910-90dd1e4db1bf",
+    "data": [
+      {
+        "text": "super, und ab wann kann ich mich bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0304104b-6c86-484b-9ff8-eaf10965026f",
+    "data": [
+      {
+        "text": "Bis wann muss ich mich bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546868409
+  },
+  {
+    "id": "f142c558-33cd-4b7e-b8fa-e5e7a499618d",
+    "data": [
+      {
+        "text": "Bewerbungsschluss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546561020
+  },
+  {
+    "id": "1f78eee6-8bc7-4d50-a1c8-34e649433e9c",
+    "data": [
+      {
+        "text": "Gibt es Bewerbungsfristen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546561020
+  },
+  {
+    "id": "106e3a81-84ff-430e-a7c6-34e7a7e81a82",
+    "data": [
+      {
+        "text": "Bewerbungsfrist Wintersemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546561020
+  },
+  {
+    "id": "f2168299-7d28-4193-81c8-f053402e0cdc",
+    "data": [
+      {
+        "text": "Bewerbungsfrist Sommersemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546561020
+  },
+  {
+    "id": "11e862cd-e970-4a72-8f82-80a2ed2a31e7",
+    "data": [
+      {
+        "text": "Wann ist für das Sommersemester die Bewerbungsfrist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690859
+  },
+  {
+    "id": "3297ca8f-43aa-4706-ac6c-7ffc47974b88",
+    "data": [
+      {
+        "text": "Wann ist für das Wintersemester die Bewerbungsfrist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690859
+  },
+  {
+    "id": "375681ee-c256-4976-95b4-abb4f9d39c5e",
+    "data": [
+      {
+        "text": "Wann ist der Bewerbungsschluss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690859
+  },
+  {
+    "id": "a35484e1-7bad-4b6c-984a-7e7ee95ede74",
+    "data": [
+      {
+        "text": "Wann kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "auf einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studienplatz bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690859
+  }
+]

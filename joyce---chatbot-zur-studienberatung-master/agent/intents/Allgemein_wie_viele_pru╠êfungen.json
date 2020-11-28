@@ -1,0 +1,33 @@
+{
+  "id": "61959065-f1fa-4366-a917-831398104919",
+  "name": "Allgemein_wie_viele_prüfungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das kommt darauf an, welche Veranstaltungen Du belegst. \nIm Grundstudium musst Du tendenziell mehr schriftliche Prüfungen schreiben, als im Hauptstudium."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Im Stundenplan kannst du immer die Art der Prüfungsleistung nachschauen wenn Du dein Semester planst. \nEs kommt also auf Dich an."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548410751,
+  "fallbackIntent": false,
+  "events": []
+}

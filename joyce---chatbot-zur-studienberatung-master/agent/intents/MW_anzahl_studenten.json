@@ -1,0 +1,28 @@
+{
+  "id": "83784c93-b7e4-4653-a765-ed8ca4e89ecc",
+  "name": "MW_anzahl_studenten",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Es sind ungefähr 400 Studierende"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548411494,
+  "fallbackIntent": false,
+  "events": []
+}

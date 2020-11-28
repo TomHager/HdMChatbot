@@ -1,0 +1,154 @@
+[
+  {
+    "id": "f78066a3-5ec3-45df-8656-2246370c085d",
+    "data": [
+      {
+        "text": "wo kann ich wohnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1724d2cf-d5fe-4e61-9f56-ea50d4d7939e",
+    "data": [
+      {
+        "text": "Wie finde ich am besten ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Wohnung in ",
+        "userDefined": false
+      },
+      {
+        "text": "Stuttgart",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722877
+  },
+  {
+    "id": "b42df0c4-4408-44be-a036-4458a4c06304",
+    "data": [
+      {
+        "text": "Ist es schwer ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Wohnung in ",
+        "userDefined": false
+      },
+      {
+        "text": "Stuttgart",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " zu finden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722877
+  },
+  {
+    "id": "0eff44c2-7ebe-4b3f-8e21-f049102d9d3c",
+    "data": [
+      {
+        "text": "Hast Du Tipps für die Wohnungssuche in ",
+        "userDefined": false
+      },
+      {
+        "text": "Stuttgart",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722877
+  },
+  {
+    "id": "941cdff8-efd8-4ec2-80e9-76188605c1e1",
+    "data": [
+      {
+        "text": "Kannst Du mich bei der Wohnungssuche unterstützen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722686
+  },
+  {
+    "id": "bd0df0ee-5442-4617-9928-876a83766ce7",
+    "data": [
+      {
+        "text": "Wo kann ich wohnen, wenn ich an der HdM studiere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722686
+  },
+  {
+    "id": "44422fc4-aa98-4801-8cc8-e9d8790d5ce1",
+    "data": [
+      {
+        "text": "Wohnungssuche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722686
+  },
+  {
+    "id": "fcb4bc91-0b39-4d24-9ce8-cfb54c3c15b3",
+    "data": [
+      {
+        "text": "Wie läuft die Wohnungssuche in ",
+        "userDefined": false
+      },
+      {
+        "text": "Stuttgart",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722686
+  }
+]

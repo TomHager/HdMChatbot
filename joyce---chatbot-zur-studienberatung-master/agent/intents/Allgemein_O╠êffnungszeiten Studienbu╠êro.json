@@ -1,0 +1,38 @@
+{
+  "id": "cc39ee13-25dc-465d-83db-b03e31eb0296",
+  "name": "Allgemein_Öffnungszeiten Studienbüro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das Studienbüro ist für alle Fragen rund um allgemeine studentische Angelegenheiten. Hierzu gehören die Durchführung des Zulassungsverfahrens, die Immatrikulation, die Rückmeldung, die Beurlaubung sowie die Exmatrikulation."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Öffnungszeiten Studienbüro:\nMontag bis Donnerstag: 9:00 - 12:30 Uhr \nDonnerstag: 13:30 bis 16:30 Uhr"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Eine Liste der Ansprechpartner jeweilig für jeden Studiengang, findest Du hier: https://www.hdm-stuttgart.de/studieninteressierte/info/studienbuero"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547641059,
+  "fallbackIntent": false,
+  "events": []
+}

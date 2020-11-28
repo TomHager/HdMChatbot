@@ -1,0 +1,38 @@
+{
+  "id": "103e06da-0f30-4f64-88d5-07820138fcba",
+  "name": "Allgemein_Wie sind die Chancen auf dem Arbeitsmarkt?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Unsere Absolventen finden in der Regel schnell einen Job nach dem Studium. Das zeigte sich erst kürzlich in unserer Absolventenbefragung."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Studienabsolventen des Studiengangs Medienwirtschaft besitzen sehr gute Chancen im Management von Medienunternehmen tätig zu werden. Zu den Arbeitsfeldern zählen die klassischen Branchen Fernsehen, Radio oder Verlage genauso wie Online, mobile Medien und digitale Wirtschaft. Außerdem qualifizieren sich Absolventen für Kommunikations-Jobs in Wirtschaftsunternehmen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Für viele MWler gilt der Grundsatz: nach dem Studium ist vor dem Studium. Sie machen im Anschluss an den Bachelor oft ein Masterstudium."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548657221,
+  "fallbackIntent": false,
+  "events": []
+}

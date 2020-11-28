@@ -1,0 +1,50 @@
+{
+  "id": "93a3e734-b10b-4b45-989c-0f9d57362841",
+  "name": "Allgemein_Vorteile eines Hochschul Studiums im Vergleich zur Uni?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "18b37828-a6b6-4ae3-9787-0b2fb7636633",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "50329a22-5b61-40d5-8110-106fe469a923",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "An Universitäten besitzt Du viele Freiheiten, die aber auch viel Verantwortung mit sich bringen. Der Grad an Freiheit ist an einer Hochschule zwar ähnlich aber die Rahmenorganisation ist anders."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hochschulen sind in der Regel kleiner, persönlicher und praxisnäher. Kleinere Gruppen und ein individuellerer Zuschnitt Deines Studiums auf Deine Interessen sprechen besonders für ein Studium an einer Hochschule."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640753,
+  "fallbackIntent": false,
+  "events": []
+}

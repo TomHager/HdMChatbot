@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ff07522f-3719-4518-9611-38168263bd51",
+    "data": [
+      {
+        "text": "Wie viele Verträge brauche ich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547713978
+  },
+  {
+    "id": "e80bff75-1e2f-4dea-b190-495c274180a5",
+    "data": [
+      {
+        "text": "Warum braucht die HdM auch ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Vertragsausfertigung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547713978
+  }
+]

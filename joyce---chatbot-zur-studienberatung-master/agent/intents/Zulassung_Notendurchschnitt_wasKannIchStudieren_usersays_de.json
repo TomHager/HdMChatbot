@@ -1,0 +1,90 @@
+[
+  {
+    "id": "4685cf47-9e1d-41ae-8281-5e2ced38409c",
+    "data": [
+      {
+        "text": "Was kann ich mit einem ",
+        "userDefined": false
+      },
+      {
+        "text": "X",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " abi an der Hdm studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547695464
+  },
+  {
+    "id": "05c0b29e-5759-4866-a5cc-45449646f78f",
+    "data": [
+      {
+        "text": "Was kann ich ander hdm mit einem ",
+        "userDefined": false
+      },
+      {
+        "text": "X",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " schnitt studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547695543
+  },
+  {
+    "id": "d98ae12d-d7fe-416a-acdd-494b15fde468",
+    "data": [
+      {
+        "text": "Ich hab ein ",
+        "userDefined": false
+      },
+      {
+        "text": "X",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " abi. was kann ich damit studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547695464
+  },
+  {
+    "id": "87ba930f-115d-42d9-9bf5-10949b4f396a",
+    "data": [
+      {
+        "text": "Ich habe einen Notendurchschnitt von ",
+        "userDefined": false
+      },
+      {
+        "text": "X",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": ". Was könnte ich an der HdM damit studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547695464
+  }
+]

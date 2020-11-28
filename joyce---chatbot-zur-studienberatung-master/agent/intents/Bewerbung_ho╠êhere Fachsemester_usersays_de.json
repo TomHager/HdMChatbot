@@ -1,0 +1,152 @@
+[
+  {
+    "id": "bb07ae15-5abe-4211-8c68-4b335ed7f031",
+    "data": [
+      {
+        "text": "Auf ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " höheres Fachsemester bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625434
+  },
+  {
+    "id": "5bd58328-4367-4a4a-9138-6fd7b7a2a0a7",
+    "data": [
+      {
+        "text": "Darf ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " höheres Semester bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625434
+  },
+  {
+    "id": "25b2a70c-bd88-4a0a-a64f-0341df82b013",
+    "data": [
+      {
+        "text": "Ich habe bereits an ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Universität studiert. Kann ich mich dann ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "alias": "time1",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " höheres Fachsemester bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545865020
+  },
+  {
+    "id": "db66220e-a738-428d-94c2-6fb6cb34f271",
+    "data": [
+      {
+        "text": "Ich habe bereits an ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Hochschule etwas ähnliches studiert. Kann ich mich dann ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "alias": "time1",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " höheres Fachsemester bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545865020
+  },
+  {
+    "id": "66a5096d-01c9-4464-8b61-bb38a8ffd105",
+    "data": [
+      {
+        "text": "Ist es möglich mich für höhere Fachsemester zu bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545865020
+  },
+  {
+    "id": "1dcb017a-0057-4416-a1ed-3eea9b80f8d3",
+    "data": [
+      {
+        "text": "Bewerbung für höhere Fachsemester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545865020
+  },
+  {
+    "id": "7182573b-f559-4a76-9c3e-b2bcb454cec1",
+    "data": [
+      {
+        "text": "Kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " höheres Fachsemester bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545865020
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "76c32fae-52ef-4d42-bbee-03c866dd1d88",
+    "data": [
+      {
+        "text": "Muss ich für das Studium irgendwelche Beiträge zahlen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545925143
+  },
+  {
+    "id": "cf319c24-ddca-45a1-916f-49bd76cec656",
+    "data": [
+      {
+        "text": "Gibt es Gebühren die während des Studiums anfallen werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545925143
+  },
+  {
+    "id": "9be14cae-3c02-4538-9ebc-d18668ccfa9b",
+    "data": [
+      {
+        "text": "Fallen Gebühren an, die ich während dem Studium zahlen muss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545925143
+  },
+  {
+    "id": "f0c69461-a15b-4ca9-a725-372ad076caa8",
+    "data": [
+      {
+        "text": "Studienbeiträge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545925143
+  },
+  {
+    "id": "28d6356b-f9a8-43af-a089-6b5116d33b32",
+    "data": [
+      {
+        "text": "Was muss ich für Gebühren/Beiträge für das Studium bezahlen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545925143
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "4bd59ce7-87ef-4e79-8396-6c12fd905d5b",
+  "name": "Praxissemester_Ausbildung anrechnen PS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "485e77a8-cb55-4341-afab-5daa65e4d52f",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Es ist für jeden MW-Studenten verpflichtend, ein 26-wöchiges Praktikum zu absolvieren."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547506658,
+  "fallbackIntent": false,
+  "events": []
+}

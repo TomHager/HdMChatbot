@@ -1,0 +1,33 @@
+{
+  "id": "3fd2abfe-e813-45e1-a1b4-91f39bb1ffb2",
+  "parentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "rootParentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "name": "HilfeAnfrage - Zulassung",
+  "auto": true,
+  "contexts": [
+    "HilfeAnfrage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HilfeAnfrage.HilfeAnfrage-zulassung",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hier sind ein paar Beispielfragen zum Thema Zulassung:\n-Welche Zulassungsvoraussetzungen gibt es?-\n-Wann bekomme ich Bescheid, ob ich eine Zulassung erhalte?-\n-Wie und wann läuft die Immatrikulation/Einschreibung?-\n-Wie hoch sind meine Chancen für einen Studienplatz zugelassen zu werden? -\n-Sind für einen Studiengang an der Hochschule der Medien Vorpraktika erforderlich?-"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546689915,
+  "fallbackIntent": false,
+  "events": []
+}

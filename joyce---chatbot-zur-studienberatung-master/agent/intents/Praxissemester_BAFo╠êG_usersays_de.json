@@ -1,0 +1,95 @@
+[
+  {
+    "id": "6e1f8d8c-ceda-4886-86c7-a191b4a97571",
+    "data": [
+      {
+        "text": "Ist Bafög während einem Praxissemester möglich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559414
+  },
+  {
+    "id": "d8dd2d79-d0b4-4bf1-88ee-5f76244b6bb1",
+    "data": [
+      {
+        "text": "Bafög und Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559414
+  },
+  {
+    "id": "e3e315c2-dbc0-4ccc-8b0e-cb88dafd2bbe",
+    "data": [
+      {
+        "text": "Bafög während Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559414
+  },
+  {
+    "id": "b99c3a76-62c8-4851-98b9-707f80166c5b",
+    "data": [
+      {
+        "text": "Ich beziehe ",
+        "userDefined": false
+      },
+      {
+        "text": "momentan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " BAFöG, geht das auch während des Praxissemesters?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658747
+  },
+  {
+    "id": "cc082de0-fbb1-48c0-9b7e-af29ac1506cf",
+    "data": [
+      {
+        "text": "BAFöG während Praxissemester möglich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658747
+  },
+  {
+    "id": "703f90db-570e-46f4-9fc2-ffbf47bb0e12",
+    "data": [
+      {
+        "text": "Kann ich während des Praxissemesters weiterhin BAFöG beziehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658747
+  },
+  {
+    "id": "ad9e39fb-2afb-4a2d-bd2a-e825c6dbd9dd",
+    "data": [
+      {
+        "text": "Bekomme ich während des Praxissemesters weiterhin BAFöG?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658747
+  }
+]

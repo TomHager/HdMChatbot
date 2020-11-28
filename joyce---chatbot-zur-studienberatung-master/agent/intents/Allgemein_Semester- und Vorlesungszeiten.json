@@ -1,0 +1,28 @@
+{
+  "id": "9d9e21e6-9c9c-4198-b3c2-0f6a9e74c886",
+  "name": "Allgemein_Semester- und Vorlesungszeiten",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Vorlesungszeit des Sommersemesters ist von Mitte März bis Ende Juni. Anschließend folgt eine dreiwöchige Prüfungszeit.\nVorlesungszeit des Wintersemesters ist von Anfang Oktober bis Ende Januar. Anschließend folgt eine dreiwöchige Prüfungszeit."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640401,
+  "fallbackIntent": false,
+  "events": []
+}

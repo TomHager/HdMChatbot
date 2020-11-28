@@ -1,0 +1,28 @@
+{
+  "id": "24e1743d-8ca4-4f6a-8150-f95a0f798b6b",
+  "name": "MW_Abschluss",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du erlangst den Bachelor of Arts (B.A.)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546558201,
+  "fallbackIntent": false,
+  "events": []
+}

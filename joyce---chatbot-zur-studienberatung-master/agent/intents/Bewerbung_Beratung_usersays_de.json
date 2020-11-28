@@ -1,0 +1,124 @@
+[
+  {
+    "id": "6a6ba0db-b887-446a-851d-fe1aa2f8488c",
+    "data": [
+      {
+        "text": "Termin studienfachliche Beratung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545905111
+  },
+  {
+    "id": "126a6f0d-0088-4d0a-af7d-5c2122062574",
+    "data": [
+      {
+        "text": "Ich möchte mehr Informationen über den Studiengang in ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " persönlichen Gespräch erfahren. Wo kann ich mich melden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545905111
+  },
+  {
+    "id": "1dc520f7-2021-43a6-9d2f-8bdb0abf23eb",
+    "data": [
+      {
+        "text": "Mache ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Termin mit der studienfachlichen Beratung für mich aus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545905111
+  },
+  {
+    "id": "1598c706-4626-4014-bd91-b7fe7da72e92",
+    "data": [
+      {
+        "text": "Kannst Du ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Termin zur studienfachlichen Beratung für mich ausmachen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545905111
+  },
+  {
+    "id": "f80389aa-49df-467a-9926-8f5ff0eb8255",
+    "data": [
+      {
+        "text": "Wie kann ich mich beraten lassen, wenn ich nicht weiß, wie der Studiengang genau aussieht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545905111
+  },
+  {
+    "id": "f4ce44e9-abcc-432e-b7cc-254e28aaa470",
+    "data": [
+      {
+        "text": "Wie bekomme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Termin ",
+        "userDefined": false
+      },
+      {
+        "text": "für eine",
+        "alias": "time1",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " studienfachliche Beratung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545905111
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "c97bda74-2e6d-4d0e-9d4f-bf3625326f33",
+    "data": [
+      {
+        "text": "Wie schwer ist das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eeab17e9-ef6b-4e37-b60d-154d994788a2",
+    "data": [
+      {
+        "text": "Sind die Prüfungen schwer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "63d17626-b51c-4fa1-aa8e-e90e20e1c606",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studium herausfordernd?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547640353
+  },
+  {
+    "id": "ac8e694b-72f8-47bd-91e2-99c06abfa8ba",
+    "data": [
+      {
+        "text": "Ist das Studium schwierig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547640353
+  },
+  {
+    "id": "ebf734d7-d495-47fa-b943-315fe2c80b0f",
+    "data": [
+      {
+        "text": "Wie viel Aufwand ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Medienwirtschaftstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547313731
+  },
+  {
+    "id": "36177987-a140-4938-bd7a-77547a49b8df",
+    "data": [
+      {
+        "text": "Ist das Studium schwer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1547313019
+  }
+]

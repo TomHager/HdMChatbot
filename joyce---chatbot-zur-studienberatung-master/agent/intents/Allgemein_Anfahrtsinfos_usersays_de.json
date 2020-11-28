@@ -1,0 +1,158 @@
+[
+  {
+    "id": "396ff79b-c671-4a1a-887c-7d08272a3f16",
+    "data": [
+      {
+        "text": "wo befindet sich die hdm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a8d2cf2-884f-40c2-8ad5-dfc34dd33058",
+    "data": [
+      {
+        "text": "Ort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6d723c3-668b-4ef1-91ef-e6f6e8af0440",
+    "data": [
+      {
+        "text": "Wo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acb8ddad-6f9a-4673-8435-500e7a1c3505",
+    "data": [
+      {
+        "text": "Welche Haltestelle hat die HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545410200
+  },
+  {
+    "id": "c005e8ff-1085-4a66-9b4c-6158b6772f9d",
+    "data": [
+      {
+        "text": "Kann ich an der Hochschule parken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545408378
+  },
+  {
+    "id": "83248a3c-48be-4832-98a7-22d0205745ee",
+    "data": [
+      {
+        "text": "Wie finde ich zur Hochschule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545408378
+  },
+  {
+    "id": "baf4de6e-ad0d-4e8c-97ae-501af4c03118",
+    "data": [
+      {
+        "text": "Wie komme ich an die HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545408378
+  },
+  {
+    "id": "152e1293-2f88-4014-964a-1678d97a5b42",
+    "data": [
+      {
+        "text": "Wie komme ich zur HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545408378
+  },
+  {
+    "id": "d35543f4-67cf-4a71-9cb3-656924394de7",
+    "data": [
+      {
+        "text": "Anfahrtsweg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545408378
+  },
+  {
+    "id": "2633b5ca-bd25-413d-af88-b9e499b4e05d",
+    "data": [
+      {
+        "text": "Wie ist die Adresse der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129934
+  },
+  {
+    "id": "5b16613a-c3c6-4f21-aa10-26323f3e10ed",
+    "data": [
+      {
+        "text": "Wo ist die Hochschule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129934
+  },
+  {
+    "id": "d6efd407-3d38-4add-8206-b586b025804b",
+    "data": [
+      {
+        "text": "Wo ist die HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129934
+  },
+  {
+    "id": "4f91f38d-a48e-4ad1-81c3-b1b105403976",
+    "data": [
+      {
+        "text": "Wie finde ich die HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129934
+  }
+]

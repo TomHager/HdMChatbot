@@ -1,0 +1,37 @@
+{
+  "id": "f15e32f3-4f48-46c4-b845-b40f546815e0",
+  "name": "Fallback-StudiengangNichtIntegriert",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "be9b0356-f122-45da-bd12-7455846556a1",
+          "required": false,
+          "dataType": "@StudiengangNichtIntegriert",
+          "name": "StudiengangNichtIntegriert",
+          "value": "$StudiengangNichtIntegriert",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Entschuldige, aber ich kann Dir Deine Frage zu diesem Studiengang leider nicht beantworten, da ich mich hier aktuell noch nicht auskenne. \nDu kannst Dich aber gerne unter dem folgenden Link darüber informieren:\n$StudiengangNichtIntegriert"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546691290,
+  "fallbackIntent": false,
+  "events": []
+}

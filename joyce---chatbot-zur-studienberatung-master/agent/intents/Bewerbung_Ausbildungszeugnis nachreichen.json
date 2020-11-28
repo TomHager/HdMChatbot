@@ -1,0 +1,28 @@
+{
+  "id": "d190f940-d179-498a-b826-8f67022a4afc",
+  "name": "Bewerbung_Ausbildungszeugnis nachreichen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Es besteht die Möglichkeit ein vorläufiges Zeugnis der IHK oder HK vorlegen, die bescheinigt, dass Du Deine Berufsausbildung erfolgreich abgeschlossen haben. Das endgültige Abschlusszeugnis sollte dann nach Erhalt direkt nachgereicht werden."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547714660,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "8ff545de-8250-402c-887e-8389737474fd",
+    "data": [
+      {
+        "text": "Was ist \"Medienwirtschaft\"?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1546560473
+  },
+  {
+    "id": "bbd10345-728c-4f2b-8b08-b32127231030",
+    "data": [
+      {
+        "text": "was ist MW",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "adf0aa6e-a484-42de-8ed5-9ce80d2102ad",
+    "data": [
+      {
+        "text": "erzähle mir etwas über medienwirtschaft",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce2351f6-f166-4a7c-95b1-a4acab1374c9",
+    "data": [
+      {
+        "text": "Ist Medienwirtschaft ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Kombination aus Medien und Wirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560473
+  },
+  {
+    "id": "cabbaa85-ffc9-4b35-a3a3-eb093e4a1c86",
+    "data": [
+      {
+        "text": "Namensherkunft Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560473
+  },
+  {
+    "id": "b89f219e-8cdd-44f2-8fc8-1a3263af1745",
+    "data": [
+      {
+        "text": "Was heißt \"Medienwirtschaft\"?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690231
+  },
+  {
+    "id": "2528f968-2f7e-4c98-8265-382d9ceeb935",
+    "data": [
+      {
+        "text": "Aus was besteht Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690231
+  },
+  {
+    "id": "6fa33cc6-a581-44d1-b1bd-f08b703c76bb",
+    "data": [
+      {
+        "text": "Was bedeutet \"Medienwirtschaft\"?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690231
+  },
+  {
+    "id": "1c593704-da9b-4b07-88e4-9b79b66121c6",
+    "data": [
+      {
+        "text": "Was kann ich mir unter \"Medienwirtschaft\" vorstellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690231
+  }
+]

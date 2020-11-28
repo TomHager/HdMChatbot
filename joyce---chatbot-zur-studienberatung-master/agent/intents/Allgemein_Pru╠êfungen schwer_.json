@@ -1,0 +1,37 @@
+{
+  "id": "1f7e3dfa-6e9a-421e-be38-c8b1abfe5541",
+  "name": "Allgemein_Prüfungen schwer?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "331d85d2-8710-4354-9cce-d702a09d2743",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Keine Sorge, die Prüfungen und das Studium insgesamt sind gut zu schaffen. Aber ein bisschen musst du schon dafür tun. ;)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640353,
+  "fallbackIntent": false,
+  "events": []
+}

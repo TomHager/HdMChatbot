@@ -1,0 +1,52 @@
+{
+  "id": "05455f74-245a-4ee8-b93b-499f979dace0",
+  "name": "MW_Gehalt",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eeb97bb7-cb17-48ff-8e4a-ed4bf504edc9",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "name": "music-artist",
+          "value": "$music-artist",
+          "isList": false
+        },
+        {
+          "id": "148e874a-bbc1-47b4-af80-4583d35e62ab",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "0bf6ae60-647e-4cf9-9036-70040be9cfc4",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das kann ich Dir pauschal nicht beantworten, denn es ist stark von der jeweiligen Branche, der Aufgabe und dem Standort abhängig. Hinweise kannst Du mitunter auf Jobplattformen finden oder Du fragst bei den MW Alumnis (ehemaligen MW Studierenden) nach."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547313786,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "905e8d3d-4af2-4fdf-ae66-0f01095911a8",
+  "name": "MW_hauptstudium_gewichtung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

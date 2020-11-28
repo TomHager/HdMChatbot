@@ -1,0 +1,33 @@
+{
+  "id": "3140d63d-3dac-48bb-89f2-41f63b3a267e",
+  "name": "MW_Veranstaltungen GS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Im Grundstudium, d. h. im ersten und zweiten Semester, gibt es einen vorgegebenen Stundenplan, da alle Veranstaltungen Pflichtveranstaltungen sind."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Schau Dir dazu den Übersichtsplan unter diesem Link, bei Kompetenzprofile unter \"Module des Grundstudiums\" (unten auf der Internet-Seite) an: https://www.hdm-stuttgart.de/studierende/stundenplan/studieninhalte/studiengang?sgang_ID\u003d550039"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547037919,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "8a84102e-ab49-41d8-ab6d-2d42dfa2398c",
+  "name": "Allgemein_wie_sind_die_kommilitonen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Verfasste Studierendenschaft organisiert regelmäßig Events und bietet Hochschulinitiativen an, bei denen Du neue Leute kennen lernen kannst."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Davon abgesehen wirst Du erfahrungsgemäß auch während des Studiums viele Leute kennen lernen, mit denen Du dich sicher gut verstehen wirst."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548408790,
+  "fallbackIntent": false,
+  "events": []
+}

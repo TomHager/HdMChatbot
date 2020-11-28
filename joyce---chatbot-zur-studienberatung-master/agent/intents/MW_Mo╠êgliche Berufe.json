@@ -1,0 +1,37 @@
+{
+  "id": "2d936f78-117a-4418-95b1-349545c9f171",
+  "name": "MW_Mögliche Berufe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3f2c882d-65df-43e7-a00f-cf89ccf955e7",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die MW Absolventen gehen zumeist entweder in ein Medienunternehmen oder in andere (Industrie-)Unternehmen wie Bosch oder Daimler. Aber auch die Arbeit in Start-ups oder eine eigene Gründung dieser erfreut sich großer Beliebtheit.\nBesonders beliebt sind die Tätigkeitsfelder Marketing und Kommunikation inklusive Online Marketing und Social Media Marketing, sowie Produkt- und Projektmanagement."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548656795,
+  "fallbackIntent": false,
+  "events": []
+}

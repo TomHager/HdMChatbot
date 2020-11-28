@@ -1,0 +1,27 @@
+{
+  "id": "6aab03a1-c63c-43ee-b06a-4bd62a8bb7b7",
+  "name": "Allgemein_swh",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "47c47841-53a5-47df-8f14-905b41261973",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

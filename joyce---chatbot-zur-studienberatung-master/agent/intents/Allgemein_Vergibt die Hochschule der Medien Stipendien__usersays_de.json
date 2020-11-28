@@ -1,0 +1,126 @@
+[
+  {
+    "id": "38e16e80-0487-4c6c-8138-f65a16855a98",
+    "data": [
+      {
+        "text": "Kann ich mit Stipendium an der HdM studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545406295
+  },
+  {
+    "id": "99b874ed-69ee-4289-a18e-13b0aae8e051",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Stipendium an der HdM bekommen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545406295
+  },
+  {
+    "id": "a3ed05aa-bdd8-475e-afd3-1f6332890a4e",
+    "data": [
+      {
+        "text": "Welche Art von Stipendien gibt es an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545406295
+  },
+  {
+    "id": "d236d84b-5b85-4058-9c0a-512a831d72df",
+    "data": [
+      {
+        "text": "Stipendien an der Hdm?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545406295
+  },
+  {
+    "id": "1a0fbb3d-63fb-48fc-9be1-fefbb3db314d",
+    "data": [
+      {
+        "text": "Wie bekomme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Stipendium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545132784
+  },
+  {
+    "id": "6e83bca2-28f9-4b00-862b-4f401d047570",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " HdM Stipendium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545132784
+  },
+  {
+    "id": "13806518-b863-4c7a-bf5d-052e2e65cfae",
+    "data": [
+      {
+        "text": "Gibt es Stipendien?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545132784
+  },
+  {
+    "id": "0c32b83e-9730-41a4-8945-e8fd8bd2c32d",
+    "data": [
+      {
+        "text": "Vergibt die Hochschule der Medien Stipendien?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545132784
+  }
+]

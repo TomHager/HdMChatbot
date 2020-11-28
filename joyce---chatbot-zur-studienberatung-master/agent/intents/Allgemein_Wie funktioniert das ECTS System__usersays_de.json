@@ -1,0 +1,96 @@
+[
+  {
+    "id": "5ff20d36-0914-49ba-bfc0-6ad3b0ab433a",
+    "data": [
+      {
+        "text": "Wie funktioniert das mit den ECTS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545409585
+  },
+  {
+    "id": "88e2518f-9b15-4bba-a964-032fc67410d1",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ECTS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545409585
+  },
+  {
+    "id": "b3b72721-23ab-4e2e-8af6-d5ec7076615d",
+    "data": [
+      {
+        "text": "ECTS System",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545409585
+  },
+  {
+    "id": "5adad0fd-2700-4c48-a332-f8a573a96b9f",
+    "data": [
+      {
+        "text": "Was bedeutet ECTS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545128122
+  },
+  {
+    "id": "4dae33cd-9a06-4447-9723-90df6c6bd7e0",
+    "data": [
+      {
+        "text": "Was sind ECTS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545128122
+  },
+  {
+    "id": "be1d3f67-abee-4954-8102-6d4ee8ef42de",
+    "data": [
+      {
+        "text": "Was sind ECTS Punkte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545128122
+  },
+  {
+    "id": "392b4281-a568-4f6b-be9c-83c7a5a66529",
+    "data": [
+      {
+        "text": "Wie funktioniert das ECTS System?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545128122
+  }
+]

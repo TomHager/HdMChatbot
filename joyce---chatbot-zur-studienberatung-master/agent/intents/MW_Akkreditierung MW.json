@@ -1,0 +1,29 @@
+{
+  "id": "5636578a-ba62-4362-ae44-da5e9d0586fb",
+  "name": "MW_Akkreditierung MW",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ja. Für die gesamte Hochschule wurde das Akkreditierungsverfahren in den Jahren 2005 und 2006 durchgeführt. Die Reakkreditierung des Studiengangs Medienwirtschaft fand im Sommersemester 2013 statt."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545480649,
+  "fallbackIntent": false,
+  "events": []
+}

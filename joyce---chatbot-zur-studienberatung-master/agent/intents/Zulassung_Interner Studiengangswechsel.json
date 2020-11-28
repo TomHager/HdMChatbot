@@ -1,0 +1,28 @@
+{
+  "id": "0078a469-e676-481c-8a37-3408032045a1",
+  "name": "Zulassung_Interner Studiengangswechsel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Gewitzte Idee – leider ist das aber so nicht möglich. Wenn Du den Studiengang an der HdM wechseln möchtest, heißt das, dass Du Dich neu bewerben musst. Bei einer Neubewerbung hast Du keinen Vorteil, wenn Du schon an der HdM eingeschrieben bist. \nWenn Du mehr darüber wissen möchtest, wie Deine Chancen auf einen Studienplatz stehen oder ob es vielleicht mehrere Studiengänge gibt, die Deinen Interessen entsprechen, kannst Du Dich an die Zentrale Studienberatung wenden. Kontaktdaten findest du hier: https://www.hdm-stuttgart.de/studieninteressierte/info/studienberatung"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548241229,
+  "fallbackIntent": false,
+  "events": []
+}

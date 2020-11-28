@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6c1f1ccc-a063-43fb-aca6-2523dcba894e",
+    "data": [
+      {
+        "text": "Anmeldefrist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5521391f-14d4-4c1d-b5ee-9bc55278fe2b",
+    "data": [
+      {
+        "text": "Ist meine Bewerbung fristgerecht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625324
+  },
+  {
+    "id": "51300cbb-4e7e-4ca3-825f-85e0b702be73",
+    "data": [
+      {
+        "text": "Ab wann gilt meine Bewerbung als fristgerecht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545861213
+  },
+  {
+    "id": "e9e80c7f-1464-4be9-bb1e-8b88401abf17",
+    "data": [
+      {
+        "text": "Wann weiß ich ob meine Bewerbung fristgerecht eingereicht wurde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545861213
+  },
+  {
+    "id": "5ac74c8f-22fb-49dc-bdb1-935914a988ca",
+    "data": [
+      {
+        "text": "Bewerbung fristgerecht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545861213
+  },
+  {
+    "id": "e871d9ea-08b7-41f0-a58e-87259f7440b9",
+    "data": [
+      {
+        "text": "Wann ist meine Bewerbung fristgerecht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545861213
+  },
+  {
+    "id": "cca48d85-d4ba-4f5f-825f-61c7ea444810",
+    "data": [
+      {
+        "text": "Wann gilt meine Bewerbung als fristgerecht eingereicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545861213
+  }
+]

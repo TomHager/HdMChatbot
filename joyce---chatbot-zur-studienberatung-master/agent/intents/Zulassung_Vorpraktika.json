@@ -1,0 +1,37 @@
+{
+  "id": "04bd10b1-a421-4a40-b20b-0e235d8289dc",
+  "name": "Zulassung_Vorpraktika",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f496b17c-2aef-41c3-a135-87466ec3cda0",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das hängt vom jeweiligen Studiengang ab. Im Studiengang Medienwirtschaft ist aber kein Vorpraktikum erforderlich."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546627281,
+  "fallbackIntent": false,
+  "events": []
+}

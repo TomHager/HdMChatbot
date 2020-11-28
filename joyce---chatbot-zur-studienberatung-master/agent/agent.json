@@ -1,0 +1,41 @@
+{
+  "description": "Chatbot zur Studienberatung",
+  "language": "de",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "joyce-16948",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "d190f940-d179-498a-b826-8f67022a4afc"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Europe/Madrid",
+  "webhook": {
+    "url": "https://us-central1-joyce-16948.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.5,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2beta1",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "d6d8bcfd-3149-44ee-95a6-c09886aa59b0",
+    "data": [
+      {
+        "text": "Sollte ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Vorpraktikum vor dem Studium machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480781
+  },
+  {
+    "id": "61d9ac52-661b-47d3-be57-cc039260a7aa",
+    "data": [
+      {
+        "text": "Hat ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Vorpraktikum Auswirkungen auf die Zulassung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480781
+  },
+  {
+    "id": "6ffaea7e-7b7e-4bc6-9679-4660a118b970",
+    "data": [
+      {
+        "text": "Benötige ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Vorpraktikum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480781
+  },
+  {
+    "id": "4219041f-ad35-4f74-adba-ba958c1f260a",
+    "data": [
+      {
+        "text": "Muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Vorpraktikum machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480781
+  }
+]

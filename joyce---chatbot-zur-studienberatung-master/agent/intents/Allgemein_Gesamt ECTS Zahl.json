@@ -1,0 +1,36 @@
+{
+  "id": "4b7e62e2-1058-4995-aaec-42c12ee724db",
+  "name": "Allgemein_Gesamt ECTS Zahl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1aa74862-2ba5-40ca-894e-87d06326a458",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das MW-Studium umfasst eine Mindestanzahl von 210 ECTS-Punkten, die sich in der Regel auf sieben Semester verteilen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548341759,
+  "fallbackIntent": false,
+  "events": []
+}

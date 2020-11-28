@@ -1,0 +1,42 @@
+{
+  "id": "c071d425-e66a-45e8-9231-a9c630095274",
+  "name": "Bewerbung_Master",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "43af1f22-7342-4b26-a3da-438114573574",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Liegt Dein Abschlusszeugnis bis zur Bewerbungsfrist noch nicht vor, kannst Du erst einmal Deinen aktuellen Notenspiegel vorläufig einreichen (mit ermittelter, gewichteter Durchschnittsnote und Angabe der Gesamt-ECTS) sowie die Anmeldung zur Abschlussarbeit."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Spätestens zum Vorlesungsbeginn müssen alle Deine Prüfungsleistungen abgelegt und bestanden sein und Deine Exmatrikulationsbescheinigung vorliegen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547717896,
+  "fallbackIntent": false,
+  "events": []
+}

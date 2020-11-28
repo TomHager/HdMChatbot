@@ -1,0 +1,28 @@
+{
+  "id": "ad012b56-c489-4bc4-8286-ef8a7f2c5760",
+  "name": "Allgemein_Wie ist die HdM ausgestattet?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die HdM ist technisch gut ausgestattet. Es gibt zum Beispiel den Technikpool, in dem sich alle Studierende von Diktiergeräten bis hin zu Filmkameras alles ausleihen können. Außerdem gibt es Film- und Tonstudios, sowie viele Technikräume und Labore, je nach Studiengang."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640882,
+  "fallbackIntent": false,
+  "events": []
+}

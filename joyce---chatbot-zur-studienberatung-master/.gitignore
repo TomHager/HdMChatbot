@@ -1,0 +1,7 @@
+*.log
+
+middleware/\.idea/
+
+middleware/__pycache__/
+
+middleware/info\.log\.1

@@ -1,0 +1,47 @@
+{
+  "id": "cabdd81e-4ee8-4147-9234-4410f1c1b105",
+  "name": "Allgemein_Vergibt die Hochschule der Medien Stipendien?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "740d577e-714b-4d2d-a889-d79e7899f135",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Hochschule der Medien nimmt teil am Deutschlandstipendium. Informationen hierzu werden online zur Verfügung gestellt: https://www.hdm-stuttgart.de/studierende/studium/deutschlandstipendium"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "In Deutschland können darüber hinaus Anfragen an die Stiftungen der politischen Parteien, an kirchliche Einrichtungen und Verbände sowie an große Firmen gerichtet werden. Zahlreiche Hinweise zu Stipendien und Förderprogrammen für Auslandsaufenthalte stehen auf der Homepage des Deutschen Akademischen Austauschdienstes: https://www.daad.de/de/"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "An der Hochschule der Medien kann das Akademische Auslandsamt Auskunft zu Stipendien per Telefon (0711 8923-2039) oder E-Mail (schuhmacher@hdm-stuttgart.de) geben."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640636,
+  "fallbackIntent": false,
+  "events": []
+}

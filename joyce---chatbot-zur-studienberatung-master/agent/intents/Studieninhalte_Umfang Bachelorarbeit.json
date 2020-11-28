@@ -1,0 +1,28 @@
+{
+  "id": "fdb5d15d-2582-4c6e-8bcb-d3027dbe2272",
+  "name": "Studieninhalte_Umfang Bachelorarbeit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Der Umfang der Abschlussarbeit muss der Aufgabenstellung angemessen sein. Er liegt i.d.R. bei 60 DIN A4-Seiten ohne Literaturverzeichnis."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548657153,
+  "fallbackIntent": false,
+  "events": []
+}

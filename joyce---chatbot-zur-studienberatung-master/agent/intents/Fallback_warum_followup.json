@@ -1,0 +1,34 @@
+{
+  "id": "56b3316d-9313-489a-8e52-b295551b8353",
+  "parentId": "9b5e8fb2-92db-4214-8438-7f48c497c71d",
+  "rootParentId": "2ce90761-90cb-4b5b-85f9-9604110f895b",
+  "name": "Fallback_warum_followup",
+  "auto": true,
+  "contexts": [
+    "DefaultFallbackIntent-fallback-followup",
+    "Fallback_followup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-fallback.Fallback_followup-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Auch ich lerne nie aus 😊"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548241011,
+  "fallbackIntent": false,
+  "events": []
+}

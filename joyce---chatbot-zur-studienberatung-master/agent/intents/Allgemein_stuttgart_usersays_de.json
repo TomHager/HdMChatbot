@@ -1,0 +1,119 @@
+[
+  {
+    "id": "dc2abf19-47a3-47c5-8043-34da8a852333",
+    "data": [
+      {
+        "text": "Was geht in ",
+        "userDefined": false
+      },
+      {
+        "text": "Stuttgart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548422989
+  },
+  {
+    "id": "ba2433a3-bab7-45e9-b25b-1f93240264e5",
+    "data": [
+      {
+        "text": "Warum sollte ich nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Stuttgart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ziehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548422989
+  },
+  {
+    "id": "f95bbda4-8f4f-4979-9074-a6830105d4a8",
+    "data": [
+      {
+        "text": "Was kann man in ",
+        "userDefined": false
+      },
+      {
+        "text": "Stuttgart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548422989
+  },
+  {
+    "id": "23654e52-37a3-4d02-812e-637398c795b4",
+    "data": [
+      {
+        "text": "Was hat ",
+        "userDefined": false
+      },
+      {
+        "text": "Stuttgart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " zu bieten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548422989
+  },
+  {
+    "id": "a9b304c7-7645-4a27-aadf-d2652dd921bf",
+    "data": [
+      {
+        "text": "Warum soll ich in ",
+        "userDefined": false
+      },
+      {
+        "text": "Stuttgart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548422989
+  },
+  {
+    "id": "f23304c1-f754-4bcd-a7db-8279710e8d1d",
+    "data": [
+      {
+        "text": "Was kann man in Stuttgart auch noch machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

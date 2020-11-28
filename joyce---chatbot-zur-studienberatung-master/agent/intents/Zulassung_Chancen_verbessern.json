@@ -1,0 +1,28 @@
+{
+  "id": "51a7316c-216c-498b-99ad-7069dc9320d1",
+  "name": "Zulassung_Chancen_verbessern",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "\"Alle Studiengänge der HdM rechnen einen Notenbonus für eine abgeschlossene Berufsausbildung in einem relevanten Feld an (ob deine Ausbildung zählt und welchen Bonus du bekommst, kannst Du im Studienbüro erfragen).\nAußerdem bieten einige Studiengänge zusätzlich die Möglichkeit, einen Notenbonus für ein Praktikum oder ein Motivationsschreiben zu bekommen. Welche Studiengänge welche Boni vergeben, kannst du nachlesen, wenn Du dem unten angegebenen Link folgst.  \nNachweise über Praktika/Motivationsschreiben (in Fächern, die darauf keinen Bonus geben), freiwilliges Engagement oder Empfehlungsschreiben werden bei der Bewerbung nicht berücksichtigt. Du musst sie also nicht bei der Bewerbung einreichen. \nhttps://www.hdm-stuttgart.de/studieninteressierte/bewerber/studienplatzvergabe\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547695232,
+  "fallbackIntent": false,
+  "events": []
+}

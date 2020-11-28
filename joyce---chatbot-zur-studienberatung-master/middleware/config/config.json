@@ -1,0 +1,8 @@
+{
+  "project_id": "joyce-16948",
+  "lang": "en",
+  "env_name": "chatbot",
+  "cost_per_text_request": 0.002,
+  "monthly_cost_cap": 10,
+  "cap_reached_message": "Ich kann dir jetzt nicht antworten."
+}

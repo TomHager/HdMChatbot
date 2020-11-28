@@ -1,0 +1,53 @@
+{
+  "id": "8778d600-f81f-44cf-acf5-32b58bbb79e5",
+  "name": "Bewerbung_bis wann Unterlage nachreichen?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c1cd0b74-c35f-4992-b26b-f9e460c6aaec",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "a98e03dc-fd7b-41b0-966e-6defb12117bb",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "0fc28400-81ce-4508-8853-ae32857afc11",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wenn Du das Fachabitur an einem Berufskolleg in Baden-Württemberg machst, kannst Du Dein Abschlusszeugnis bis zum 25.07. nachreichen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548252809,
+  "fallbackIntent": false,
+  "events": []
+}

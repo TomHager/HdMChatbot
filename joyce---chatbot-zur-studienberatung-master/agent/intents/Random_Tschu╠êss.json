@@ -1,0 +1,28 @@
+{
+  "id": "9714ce5c-da23-4f8d-b60c-8da302e52c53",
+  "name": "Random_Tschüss",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Mach´s gut!  Ich hoffe, ich konnte Dir helfen. :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547905814,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "aae4bd01-ba71-492e-bdb6-938089b93fad",
+  "name": "Praxissemester_Voraussetzungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "In jedem Fall ist Voraussetzung für das Praxissemester, dass Du das Grundstudium sowie die Pflichtmodule \"Steuerung von Medienprojekten\" und \"Recht\" erfolgreich abgeschlossen hast. Hinzu kommen folgende Regelungen für die verschiedenen Schwerpunkte:"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ohne Schwerpunktsetzung gilt für Dich:\nMindestens zwei der sechs Module \"Wirtschaft III\", \"Strategie und Führung\", \"Management Information\", \"AV-Technik 2\", \"Crossmedia-Technik\" und \"Medientheorie\" wurden erfolgreich abgeschlossen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Mit dem Schwerpunkt \"Management\" gilt für Dich:\nMindestens zwei der drei Module \"Wirtschaft III\", \"Strategie und Führung\" und \"Management Information\" wurden erfolgreich abgeschlossen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Mit dem Schwerpunkt \"Konzeption und Analyse\" gilt für Dich:\nMindestens zwei der drei Module \"AV-Technik 2\", \"Crossmedia-Technik\" und \"Medientheorie\" wurden erfolgreich abgeschlossen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547492012,
+  "fallbackIntent": false,
+  "events": []
+}

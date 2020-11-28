@@ -1,0 +1,37 @@
+{
+  "id": "0871ee87-255c-4e64-bfa0-317cd673c10d",
+  "name": "MW_Grundkenntnisse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "79c4ae84-2ec6-4599-aefc-ad58df8668a0",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Eine grundsätzliche \"Passion for Media\" sollte gegeben sein, d.h. es sollte Dich interessieren wie Medien entstehen, kommunizieren und funktionieren. Auch wirtschaftliche Zusammenhänge werden tiefer beleuchtet, weshalb auch das zu Deinen Interessen gehören sollte."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548092896,
+  "fallbackIntent": false,
+  "events": []
+}

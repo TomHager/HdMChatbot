@@ -1,0 +1,31 @@
+{
+  "id": "0c88399e-aef1-48ee-9e47-416e915cf5ad",
+  "name": "Allgemein_Wie ist dein Name?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Ich heiße Joyce ☺️🐥",
+            "Ich bin Joyce, Dein Infobot für Medienwirtschaft. 😊"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547639959,
+  "fallbackIntent": false,
+  "events": []
+}

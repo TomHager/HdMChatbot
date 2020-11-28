@@ -1,0 +1,28 @@
+{
+  "id": "2933788a-5949-4613-9423-d149eaef1559",
+  "name": "MW_Vorpraktikum",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Nein, ein Vorpraktikum ist für die Bewerbung nicht nötig. Es hat auch keine Auswirkungen auf deine Zulassung."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545480781,
+  "fallbackIntent": false,
+  "events": []
+}

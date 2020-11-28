@@ -1,0 +1,28 @@
+{
+  "id": "0eb2f63e-95bf-42f7-95f0-535f49992775",
+  "name": "Praxissemester_BAFöG",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ja."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546559414,
+  "fallbackIntent": false,
+  "events": []
+}

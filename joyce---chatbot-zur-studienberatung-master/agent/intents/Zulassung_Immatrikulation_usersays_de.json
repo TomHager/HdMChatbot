@@ -1,0 +1,108 @@
+[
+  {
+    "id": "bbb7ed50-2c2d-489a-9ab3-a147d385c93d",
+    "data": [
+      {
+        "text": "Wie funktioniert die Einschreibung an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "977f2c78-8386-4ebe-abdb-793ed86caab6",
+    "data": [
+      {
+        "text": "Einschreiben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924492
+  },
+  {
+    "id": "d2f11c3d-a93f-46bf-8552-f139e5ffc9bd",
+    "data": [
+      {
+        "text": "Immatrikulation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924492
+  },
+  {
+    "id": "b44fdaa2-b26f-49ee-b20b-06c7dd02eed1",
+    "data": [
+      {
+        "text": "Wo kann ich mich einschreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924492
+  },
+  {
+    "id": "94698510-ae60-4a67-9419-26a571a65ec9",
+    "data": [
+      {
+        "text": "Wie kann ich mich immatrikulieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924492
+  },
+  {
+    "id": "4b628e01-199f-461e-ac87-087f48a9243d",
+    "data": [
+      {
+        "text": "Ich wurde an der HdM angenommen, wie schreibe ich mich nun ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924492
+  },
+  {
+    "id": "2afa92b9-5e5a-4cf8-9fb6-2b6409543213",
+    "data": [
+      {
+        "text": "Wie funktioniert das mit der Einschreibung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924492
+  },
+  {
+    "id": "086dd77a-8477-4198-9768-48d686927444",
+    "data": [
+      {
+        "text": "Wie und wann läuft die Immatrikulation/Einschreibung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924492
+  }
+]

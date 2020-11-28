@@ -1,0 +1,37 @@
+{
+  "id": "c01b29f5-4ee1-4a4b-8b92-67ec729e18b6",
+  "name": "MW_frauenquote",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6e404b76-b8e8-4861-b85e-865e687b7e73",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Spielt das für dich eine Rolle bei der Studienwahl? 😉 Die Frauenquote liegt beim Studiengang Medienwirtschaft im Durchschnitt bei 2/3."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548427430,
+  "fallbackIntent": false,
+  "events": []
+}

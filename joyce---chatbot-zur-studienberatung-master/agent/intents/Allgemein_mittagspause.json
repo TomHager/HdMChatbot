@@ -1,0 +1,28 @@
+{
+  "id": "43754b9b-7379-4d45-8115-19fb7c61b874",
+  "name": "Allgemein_mittagspause",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ja, die Mittagspause geht von 13:15 Uhr bis 14:15 Uhr. Mahlzeit!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548427711,
+  "fallbackIntent": false,
+  "events": []
+}

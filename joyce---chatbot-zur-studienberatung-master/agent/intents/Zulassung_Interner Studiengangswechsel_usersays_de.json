@@ -1,0 +1,119 @@
+[
+  {
+    "id": "4a781d7f-eada-4ab6-a7c3-4e49f93fdd33",
+    "data": [
+      {
+        "text": "Kann ich meinen Studiengang auf meinen Wunsch-Studiengang wechseln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626586
+  },
+  {
+    "id": "3aa21f00-9558-4801-8443-1ed3f1e9be03",
+    "data": [
+      {
+        "text": "Kann ich einfach den Studiengang wechseln ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626586
+  },
+  {
+    "id": "5c693865-0549-40b3-a105-c060042f6587",
+    "data": [
+      {
+        "text": "Kommt ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Wechsel des Studienganges innerhalb der HdM ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Neubewerbung ",
+        "userDefined": false
+      },
+      {
+        "text": "gleich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910188
+  },
+  {
+    "id": "9a5dac2a-832e-4d2f-8d7e-565b71806c06",
+    "data": [
+      {
+        "text": "Hat man ",
+        "userDefined": false
+      },
+      {
+        "text": "bei einem",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Wechsel zwischen Studiengängen innerhalb der HdM Vorteile?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910188
+  },
+  {
+    "id": "c577a737-cd4e-437a-8d9a-33b2ee4bf993",
+    "data": [
+      {
+        "text": "Kann ich mich zuerst ",
+        "userDefined": false
+      },
+      {
+        "text": "auf einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studiengang einschreiben um danach auf meinen Wunsch-Studiengang zu wechseln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910188
+  },
+  {
+    "id": "ab196c8a-0044-4df0-87e9-c23eae11d679",
+    "data": [
+      {
+        "text": "Kann ich mich für irgendeinen Studiengang an der HdM einschreiben und dann in meinen Wunsch-Studiengang wechseln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910188
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "6d21acea-f9d5-40c0-b90c-9802b19aedf1",
+  "name": "Praxissemester_Anforderungen Praktikantenstelle",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Praktikantenstelle muss die Möglichkeit bieten, technisches, wirtschaftliches, konzeptionell-gestalterisches und/oder organisatorisches Know-how aus der/dem Medienbranche/-bereich zu erwerben. Die finale Anerkennung obliegt dem Praktikantenamtsleiter."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547713526,
+  "fallbackIntent": false,
+  "events": []
+}

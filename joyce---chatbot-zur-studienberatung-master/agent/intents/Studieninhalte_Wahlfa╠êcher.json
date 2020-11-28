@@ -1,0 +1,33 @@
+{
+  "id": "0b132003-3c41-4315-93e6-fe68d425e596",
+  "name": "Studieninhalte_Wahlfächer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du hast ab dem Hauptstudium die Möglichkeit, Deinen Vorlesungsplan individuell und an Deinen Stärken orientiert auszurichten. Neben den Wahlfächern Deines Studiengangs, kannst Du bis zu 15 ECTS aus Veranstaltungen anderer Studiengänge belegen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Schau Dir dazu den Übersichtsplan unter diesem Link, bei Kompetenzprofile unter \"Module des Hauptstudiums (Pflicht sowie Wahlpflicht)\" (unten auf der Internet-Seite) an: https://www.hdm-stuttgart.de/studierende/stundenplan/studieninhalte/studiengang?sgang_ID\u003d550039"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547042032,
+  "fallbackIntent": false,
+  "events": []
+}

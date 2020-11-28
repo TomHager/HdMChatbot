@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d7d17ac7-4170-4b4a-9f17-d8dda047e99b",
+    "data": [
+      {
+        "text": "was treibst du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548429655
+  },
+  {
+    "id": "e0eae4c0-cd03-4680-96ed-b81b4d376e58",
+    "data": [
+      {
+        "text": "was geht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548429655
+  },
+  {
+    "id": "87783d65-96cf-41a3-acad-6d54a10c20d9",
+    "data": [
+      {
+        "text": "was machst du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548429655
+  },
+  {
+    "id": "1bf5c120-96b7-4f25-9d47-a2a22f833f88",
+    "data": [
+      {
+        "text": "Was machst du gerade?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

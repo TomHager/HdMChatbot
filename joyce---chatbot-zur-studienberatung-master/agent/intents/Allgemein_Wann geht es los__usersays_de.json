@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1ea6d0d9-2155-4bc1-83aa-6ddd31ee7eb2",
+    "data": [
+      {
+        "text": "Wann geht es los mit dem Semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545406542
+  },
+  {
+    "id": "e9ced526-7c27-4168-b93a-85631b8164f2",
+    "data": [
+      {
+        "text": "Beginn des Semesters",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545406542
+  },
+  {
+    "id": "1d5f5482-0ecc-4c65-8986-04eac617d634",
+    "data": [
+      {
+        "text": "Semesterstart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545406542
+  },
+  {
+    "id": "b8d4b3b6-cc89-4395-b864-b89603d00c9d",
+    "data": [
+      {
+        "text": "Wann geht es los?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545132287
+  },
+  {
+    "id": "0d7bf1e2-ebe9-4ddd-a122-2dcdf946eaa7",
+    "data": [
+      {
+        "text": "Wann beginnt das Semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545132287
+  },
+  {
+    "id": "b67c8ebb-d146-4976-916b-7cbc04d0557c",
+    "data": [
+      {
+        "text": "Wann ist Semesterstart?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545132287
+  },
+  {
+    "id": "bdd556a8-a928-4cba-8593-185843b28888",
+    "data": [
+      {
+        "text": "Wann beginnen die Vorlesungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545132287
+  }
+]

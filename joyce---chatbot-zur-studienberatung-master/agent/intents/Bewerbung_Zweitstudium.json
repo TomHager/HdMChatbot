@@ -1,0 +1,50 @@
+{
+  "id": "2b4d37e4-0de6-4f9b-a9db-b791d5c26b37",
+  "name": "Bewerbung_Zweitstudium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f8dd8932-7a1b-463f-b95f-00a57154a55c",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "13fb126f-2b6d-4046-b520-57bb3beefb8a",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time1",
+          "value": "$time1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wer bereits ein Studium an einer Hochschule in Deutschland erfolgreich abgeschlossen hat und sich für ein zweites Studium bewirbt, gilt als Zweitstudienbewerber mit besonderen Zulassungsbestimmungen. \nWer ein erstes Studium im Ausland oder einer nicht staatlich anerkannten Hochschule in Deutschland erfolgreich abgeschlossen hat, kann sich regulär für ein Erststudium bewerben."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Achtung: Seit Wintersemester 2017/2018 werden in Baden-Württemberg Studiengebühren für ein Zweitstudium erhoben.\nBewerber für ein Zweitstudium können sich nur für einen Studiengang bewerben."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547718478,
+  "fallbackIntent": false,
+  "events": []
+}

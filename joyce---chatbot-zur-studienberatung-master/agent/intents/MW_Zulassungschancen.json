@@ -1,0 +1,45 @@
+{
+  "id": "712ba753-db32-46d5-852d-f31a825ecf3e",
+  "name": "MW_Zulassungschancen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "db1d9266-edff-49fa-a83e-9417306705e3",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "942f7012-47f5-45c7-914a-b2e77c3b49d9",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Eine pauschale Aussage über Deine Zulassungschancen zu treffen ist ziemlich schwierig, weil hier viele Faktoren eine Rolle spielen (zum Beispiel: Deine Noten, eventuelle Anrechnungen von Ausbildung oder anderen Boni, die Bewerberlage in diesem Jahr). So wird eine Antwort auf diese Frage schnell ziemlich komplex – deshalb kann man sie am besten in einem persönlichen Gespräch klären. \nWenn du Fragen zu Deinen Zulassungschancen hast, kannst Du Dich gerne an die Zentrale Studienberatung (oder die Fachstudienberatung bei MW, Herrn Ruppert) wenden. \nMehr Infos zum Thema Studienplatzvergabe und welche Faktoren Deine Zulassung beeinflussen, kannst Du hier nachlesen:\nhttps://www.hdm-stuttgart.de/studieninteressierte/bewerber/studienplatzvergabe"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547694406,
+  "fallbackIntent": false,
+  "events": []
+}

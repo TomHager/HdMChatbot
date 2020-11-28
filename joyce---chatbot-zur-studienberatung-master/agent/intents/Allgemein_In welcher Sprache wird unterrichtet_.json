@@ -1,0 +1,28 @@
+{
+  "id": "3020f809-1760-493a-ac15-17a628141d39",
+  "name": "Allgemein_In welcher Sprache wird unterrichtet?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "In der Regel werden die Vorlesungen in deutscher Sprache, vereinzelt auch in Englisch angeboten. Der Bachelor Studiengang Print Media Technologies wird ausschließlich in englischer Sprache angeboten (https://www.hdm-stuttgart.de/studieninteressierte/studium/bachelor/steckbrief?sgang_ID\u003d550067)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640214,
+  "fallbackIntent": false,
+  "events": []
+}

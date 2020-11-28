@@ -1,0 +1,74 @@
+[
+  {
+    "id": "180438b4-dd99-4dbb-a369-dffb534b5b40",
+    "data": [
+      {
+        "text": "Darf ich mich auf mehrere Studiengänge bewerben ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625393
+  },
+  {
+    "id": "48dbc5a7-af54-4646-861c-235fc9f11fb2",
+    "data": [
+      {
+        "text": "Geht es, dass ich mich für mehrere Studiengänge bewerben kann?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545864266
+  },
+  {
+    "id": "ebdaad6c-773d-4ccf-9159-542721a31afd",
+    "data": [
+      {
+        "text": "Was wenn ich mich für mehrere Studiengänge interessiere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545864266
+  },
+  {
+    "id": "bcbdb843-7c46-4d47-a795-b1899ca50540",
+    "data": [
+      {
+        "text": "Ist es möglich sich für mehrere Studiengänge gleichzeitig zu bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545864266
+  },
+  {
+    "id": "d1cd3492-e79f-4004-bc08-16f0c49d035e",
+    "data": [
+      {
+        "text": "Für mehrere Studiengänge gleichzeitig bewerben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545864266
+  },
+  {
+    "id": "e5dab7f7-849d-4a85-b9c5-9358f0681cb4",
+    "data": [
+      {
+        "text": "Kann ich mich auf mehrere Studiengänge gleichzeitig bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545864266
+  }
+]

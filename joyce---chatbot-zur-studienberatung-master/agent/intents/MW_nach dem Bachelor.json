@@ -1,0 +1,37 @@
+{
+  "id": "17c34d22-3049-4cc7-99e4-aaca5d54300c",
+  "name": "MW_nach dem Bachelor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b5c00576-59b7-4a73-b7f1-9e3373ded16c",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ein Bachelorstudium berechtigt Dich, einen darauf aufbauenden, inhaltlich verwandten Masterstudiengang an der Hochschule der Medien oder an einer anderen Hochschule zu belegen. Typischerweise schießt sich an ein MW Studium an der HdM das konsekutive Masterstudium \"Medienmanagement\" oder \"Unternehmenskommunikation\" an. Einige Studierende steigen aber auch direkt in den Beruf ein."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547314256,
+  "fallbackIntent": false,
+  "events": []
+}

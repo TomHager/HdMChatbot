@@ -1,0 +1,36 @@
+{
+  "id": "9cb775d4-18ca-4ab5-ba80-05ea577180ac",
+  "name": "Random_Name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "69115fcc-8917-46f2-862b-044cbfd880ba",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Der Name \"Joyce\" wurde mir gegeben, damit ich Dich bei der \"Choice\", also der Wahl, was Du in Zukunft einmal machen wirst unterstütze."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548864056,
+  "fallbackIntent": false,
+  "events": []
+}

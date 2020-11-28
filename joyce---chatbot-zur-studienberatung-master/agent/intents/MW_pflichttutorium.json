@@ -1,0 +1,28 @@
+{
+  "id": "7b8ec727-434e-44b4-8473-3b2ab1824738",
+  "name": "MW_pflichttutorium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ja, innerhalb des Studiums musst Du ein Tutorium als Prüfungsleistung absolvieren."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548424638,
+  "fallbackIntent": false,
+  "events": []
+}

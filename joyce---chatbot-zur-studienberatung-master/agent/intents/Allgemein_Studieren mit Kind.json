@@ -1,0 +1,44 @@
+{
+  "id": "4a46ca86-434d-472f-bad3-1caa84b59ff0",
+  "name": "Allgemein_Studieren mit Kind",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5e78f6c6-4f6a-41d9-8cc5-6f6cb463cbc5",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "3bce2055-e050-4722-a306-add9d28148ab",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Alle Infos und Ansprechpartner rund ums Studium mit Kindern und Familie, findest Du hier: https://www.hdm-stuttgart.de/studieninteressierte/rund_ums_studium/studieren_mit_kind"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640553,
+  "fallbackIntent": false,
+  "events": []
+}

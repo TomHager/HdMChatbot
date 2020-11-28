@@ -1,0 +1,42 @@
+{
+  "id": "e2073c81-5a97-4699-8797-7be9ad111c95",
+  "name": "Allgemein_Wohnheimplätze",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "91cb2990-2353-466a-91b0-c6a715407095",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Mit einer Zuteilung eines Studienplatzes an der Hochschule der Medien ist nicht automatisch die Vermittlung einer Unterkunft verbunden. Ansprechpartner für Wohnheimszimmer ist die Wohnheimsverwaltung des Studierendenwerk Stuttgart."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ausländischen Studierenden kann das Akademische Auslandsamt der Hochschule helfen. Informationen zu den einzelnen Wohnheimen sowie Formulare für die Bewerbung um einen Wohnheimsplatz findest Du unter: https://www.studierendenwerk-stuttgart.de/wohnen/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547641023,
+  "fallbackIntent": false,
+  "events": []
+}

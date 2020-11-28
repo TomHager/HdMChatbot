@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3a4563b3-431c-4649-af15-bc88af7fad6d",
+    "data": [
+      {
+        "text": "Möchtest du dich mit mir treffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547639653
+  },
+  {
+    "id": "f518b607-f015-4cca-9bcb-a66000d63a59",
+    "data": [
+      {
+        "text": "Hast du Zeit dich zu treffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547639653
+  },
+  {
+    "id": "81a6adc8-ce6f-40ed-9ce8-2a84d7f74a30",
+    "data": [
+      {
+        "text": "Können wir uns mal treffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547639653
+  }
+]

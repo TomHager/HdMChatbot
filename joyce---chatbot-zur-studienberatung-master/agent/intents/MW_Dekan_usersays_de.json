@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cb19cc95-1aba-46a8-b7d2-2add730565e3",
+    "data": [
+      {
+        "text": "Dekan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e884bdc7-6932-49aa-92f6-07d4a9af66f1",
+    "data": [
+      {
+        "text": "Wie heißt der Studiendekan? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb741738-e1be-4be0-b084-391b74a00dc2",
+    "data": [
+      {
+        "text": "Wer ist Herr kühnle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b63ba62-5818-4140-9695-6d52a35fe311",
+    "data": [
+      {
+        "text": "Wer betreut den Studiengang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547723383
+  },
+  {
+    "id": "2a3f5237-63bf-48ef-a56c-2ae5caa09e4d",
+    "data": [
+      {
+        "text": "Wie heißt der Dekan von Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547314309
+  },
+  {
+    "id": "a1a612ea-745d-479e-a3b3-53bc48365eb8",
+    "data": [
+      {
+        "text": "Welcher Professor leitet den Studiengang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311393
+  },
+  {
+    "id": "5076113f-468c-4606-9a78-65d9d838f428",
+    "data": [
+      {
+        "text": "Wer ist Studiendekan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311393
+  },
+  {
+    "id": "398deb89-ecc5-4dbc-a7a3-8377dac12700",
+    "data": [
+      {
+        "text": "Wer ist der Studiendekan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311367
+  },
+  {
+    "id": "f68a6143-046d-41c5-ac6b-7c3c8657ef33",
+    "data": [
+      {
+        "text": "Wer ist Dekan von Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311367
+  },
+  {
+    "id": "37f11dad-98ad-4ff5-ab23-05c74cc62faa",
+    "data": [
+      {
+        "text": "Wer ist der Dekan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311367
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "07200d87-75f3-4eba-8568-8561d7ebcde1",
+    "data": [
+      {
+        "text": "Muss ich Abiotur haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e476648-166b-4e7a-afe2-a8afd0ef8829",
+    "data": [
+      {
+        "text": "Muss ich Abitur haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25a0a113-feca-4f18-bc34-3deb4adfad66",
+    "data": [
+      {
+        "text": "Ohne Abitur studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546561166
+  },
+  {
+    "id": "8dde5d4b-a895-4c6e-99f7-1cfa5f7e6df6",
+    "data": [
+      {
+        "text": "Brauche ich Abitur um MW zu studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545856002
+  },
+  {
+    "id": "cde766a7-d9fb-4776-8ff8-994fdcaf7aeb",
+    "data": [
+      {
+        "text": "Bewerbung an der HdM ohne Abitur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545856002
+  },
+  {
+    "id": "fe95ae09-63d1-448c-9b30-65fc837eb82a",
+    "data": [
+      {
+        "text": "Mit welchen Abschluss kann ich mich an der HdM bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545856002
+  },
+  {
+    "id": "671c1ca3-f9ac-4a67-824c-a5a26e052d05",
+    "data": [
+      {
+        "text": "Mit welchem Abschluss kann ich an der HdM studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545856002
+  },
+  {
+    "id": "8ead79a5-93a5-4f11-8791-dca41d55faaf",
+    "data": [
+      {
+        "text": "Ist es möglich nur mit Hochschulreife studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545856002
+  },
+  {
+    "id": "cc124dbd-ac6e-4119-bd1c-fba0f0d9f7f0",
+    "data": [
+      {
+        "text": "Ohne Abitur studieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545856002
+  },
+  {
+    "id": "a9337237-5059-4252-9b29-6c27ee0f4612",
+    "data": [
+      {
+        "text": "Kann ich ohne Abitur/Fachhochschulreife studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545856002
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1718b6cb-6e0f-474b-b545-3a0bb88014b1",
+    "data": [
+      {
+        "text": "Wie lasse ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Ausbildung anrechnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625926
+  },
+  {
+    "id": "b5ffccb6-9b55-4bad-a4a3-5796faa45a89",
+    "data": [
+      {
+        "text": "kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Ausbildung anrechnen lassen ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625926
+  },
+  {
+    "id": "af1d606a-4c4c-4b14-a846-5ce5a424ccd8",
+    "data": [
+      {
+        "text": "Darf ich meine Berufsausbildung anrechnen ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625926
+  },
+  {
+    "id": "5477beeb-e235-433f-b137-d1f21b698053",
+    "data": [
+      {
+        "text": "Können ",
+        "userDefined": false
+      },
+      {
+        "text": "alle",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " Berufsausbildung angerechnet werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545928869
+  },
+  {
+    "id": "5551f881-a530-4e31-af1e-da9dde293a8f",
+    "data": [
+      {
+        "text": "Anrechenbare Berufsausbildungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545928869
+  },
+  {
+    "id": "8f68fcd8-c0aa-466f-b280-015485a98669",
+    "data": [
+      {
+        "text": "Gibt es nur bestimmte Berufsausbildungen, die angerechnet werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545928869
+  },
+  {
+    "id": "d8f94e50-920b-473f-b120-358929e2823b",
+    "data": [
+      {
+        "text": "Welche Art von Berufsausbildungen werden mir angerechnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545928869
+  },
+  {
+    "id": "d62ffcc1-c23d-423b-a5d5-edf8ff2ca559",
+    "data": [
+      {
+        "text": "Welche Berufsausbildungen werden mir angerechnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545928869
+  }
+]

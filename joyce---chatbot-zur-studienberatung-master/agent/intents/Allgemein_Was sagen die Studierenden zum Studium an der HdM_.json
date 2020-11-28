@@ -1,0 +1,42 @@
+{
+  "id": "f65febbc-cf37-4002-b161-192080feb297",
+  "name": "Allgemein_Was sagen die Studierenden zum Studium an der HdM?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5fe55e49-444d-4e00-bd00-6b768a23b5aa",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hier findest Du eine Auswahl von Videos, die Dir zeigen wie es ist, an der HdM zu studieren: https://www.youtube-nocookie.com/embed/4HOkqYHOxX8"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Falls Du noch mehr Videos sehen möchtest, schau doch mal auf dem YouTube Kanal der HdM vorbei: https://www.youtube.com/user/HdMStuttgart"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547729475,
+  "fallbackIntent": false,
+  "events": []
+}

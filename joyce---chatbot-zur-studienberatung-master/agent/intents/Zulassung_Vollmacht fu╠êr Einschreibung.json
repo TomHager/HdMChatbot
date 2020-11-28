@@ -1,0 +1,50 @@
+{
+  "id": "5edee289-cf85-4d99-9d95-ce9df478e291",
+  "name": "Zulassung_Vollmacht für Einschreibung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "150b800b-3b5b-43e0-aab6-2b9915cf23e9",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "68d76441-9dd1-4836-9a3b-62f71343748e",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "749a7003-1081-436e-be26-34349083ea02",
+          "dataType": "@sys.time",
+          "name": "time1",
+          "value": "$time1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Eine Einschreibung ist nur persönlich möglich und kann nicht durch eine Vollmacht an Dritte beauftragt werden."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545924871,
+  "fallbackIntent": false,
+  "events": []
+}

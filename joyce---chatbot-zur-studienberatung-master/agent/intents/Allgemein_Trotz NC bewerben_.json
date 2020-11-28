@@ -1,0 +1,29 @@
+{
+  "id": "ef602be3-22d9-42df-9daf-f4631e5f64e7",
+  "name": "Allgemein_Trotz NC bewerben?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wir wissen im Voraus nicht, welche Verfahrensnote Du brauchst, um einen Studienplatz zu bekommen -  die Notenwerte, die Dir kommuniziert werden, basieren immer auf Bewerbungsverfahren, die schon gelaufen sind. Da die bereits vergangenen Verfahren aber keinen Einfluss darauf haben, wie das jetzige Verfahren läuft und wer sich bewirbt (bzw. welche Verfahrensnoten diese Bewerber mitbringen), ist ihre Aussagekraft begrenzt. \nAuch wenn Deine Verfahrensnote unter dem Durchschnitt der letzten Zulassungsrunden liegt, hast Du im neuen Verfahren also erstmal eine Chance auf einen Studienplatz. Es kann außerdem sein, dass eine Zulassung durch ein Nachrückverfahren möglich ist. \nWenn Du mehr darüber wissen möchtest, wie Deine Chance auf einen Studienplatz ist, kannst Du die Zentrale Studienberatung oder die fachliche Studienberatung im Studiengang Medienwirtschaft kontaktieren. Kontaktdaten und Sprechzeiten findest du hier: https://www.hdm-stuttgart.de/studieninteressierte/info/studienberatung"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548242844,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "b2b6c9f8-5e98-4d55-a1af-5724321f6c00",
+    "data": [
+      {
+        "text": "Was kann ich wählen, wenn ich im Hauptstudium bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041511
+  },
+  {
+    "id": "0513ea3a-4876-488e-9757-228fdf16391a",
+    "data": [
+      {
+        "text": "Welche Wahl Möglichkeiten gibt es in MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041511
+  },
+  {
+    "id": "0e2367d3-5374-410f-96ae-ef5411f99132",
+    "data": [
+      {
+        "text": "Spezialisierung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041511
+  },
+  {
+    "id": "2f805415-fac3-4a84-9a65-712241b5831c",
+    "data": [
+      {
+        "text": "Welche Möglichkeiten habe ich, mich zu spezialisieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041511
+  },
+  {
+    "id": "c33bb342-0087-4025-ae02-d0d043215761",
+    "data": [
+      {
+        "text": "Wie spezialisiere ich mich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041511
+  },
+  {
+    "id": "251da47e-cada-41c6-8f83-bae8d191d705",
+    "data": [
+      {
+        "text": "Was für Fächer kann ich später wählen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041511
+  },
+  {
+    "id": "9f4d9a9b-1224-466c-a089-a2cef5e4e38f",
+    "data": [
+      {
+        "text": "Wahlfächer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041511
+  },
+  {
+    "id": "9b307936-923b-48c2-8e1a-51bc83b0411c",
+    "data": [
+      {
+        "text": "Wie kann ich mich spezialisieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041511
+  },
+  {
+    "id": "7d3ab4ff-e089-42c0-bb42-83243d391d9a",
+    "data": [
+      {
+        "text": "Was kann ich wählen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041511
+  },
+  {
+    "id": "6d5d946d-f983-4189-bfe5-39dad3859d42",
+    "data": [
+      {
+        "text": "Welche Wahlfächer gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041511
+  }
+]

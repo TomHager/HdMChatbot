@@ -1,0 +1,275 @@
+[
+  {
+    "id": "c97e10ac-5cd7-4f25-b9b3-7d6e707ba17f",
+    "data": [
+      {
+        "text": "Was muss ich für Interessen haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d41cc07e-b865-42b8-9e78-406bf1a20172",
+    "data": [
+      {
+        "text": "Interessen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5b752d0-1a9e-4e5f-842d-ca1d7415b206",
+    "data": [
+      {
+        "text": "WELCHE INTERESSEN SOLLTE ICH MITBRINGEN ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0eea0c0-be46-45a0-92fc-d6297b887cbb",
+    "data": [
+      {
+        "text": "Können ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a89021b-8ae6-4e9f-87e6-b81cd0c28fe6",
+    "data": [
+      {
+        "text": "Was kann ich ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29a7efcc-e934-4036-ab75-7f6203a7ff62",
+    "data": [
+      {
+        "text": "Was sollte mich interessieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6a9c41b-d790-481d-8db4-8c88d44d1f43",
+    "data": [
+      {
+        "text": "was muss ich für Begabungen haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e403089-a657-4673-a6f0-edcff1dd1a53",
+    "data": [
+      {
+        "text": "Welche Stärken soll ich mitbringen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1b5cd69-a5cd-4f15-89ae-a84f519b64a9",
+    "data": [
+      {
+        "text": "Persönliche Stärken ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "850c0942-a997-4b3b-ad00-9104b72f5f7f",
+    "data": [
+      {
+        "text": "Talente",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f364bf0-97d4-471c-8098-4fe6d5ef9a63",
+    "data": [
+      {
+        "text": "Wie gut muss ich sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "024879f0-ce35-45a3-b55f-368b0863ec45",
+    "data": [
+      {
+        "text": "Muss ich technisch begabt sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ef6dee2-783b-4f02-90eb-07c0903494ee",
+    "data": [
+      {
+        "text": "Soll ich Medienwirtschaft studieren ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bebb7e4a-e977-4601-8a03-06aee7712144",
+    "data": [
+      {
+        "text": "Was muss ich vorher können ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d710f44c-bb0e-4b2a-811a-387dd56b6132",
+    "data": [
+      {
+        "text": "Soll ich MW studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e1fc543-fe67-4df3-8659-3bbad77c2a4b",
+    "data": [
+      {
+        "text": "welche vorkenntnisse benötige ich ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " mw studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b5b3476-9174-412f-b549-83336c32cbe0",
+    "data": [
+      {
+        "text": "Grundkenntnisse MW",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545855210
+  },
+  {
+    "id": "0841ce2a-08d6-4250-bcfd-63eb005a4d9c",
+    "data": [
+      {
+        "text": "Was für Neigungen sollte ich haben um Medienwirtschaft studieren zu können?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545479974
+  },
+  {
+    "id": "234ce41c-7456-45c7-b30b-2e8fb7a683df",
+    "data": [
+      {
+        "text": "Was muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bevor ich mit Medienwirtschaft anfange?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545479974
+  },
+  {
+    "id": "0d1669b1-0118-45e0-a658-f73eae3c1187",
+    "data": [
+      {
+        "text": "Brauche ich Vorkenntnisse oder Neigungen für Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545479974
+  },
+  {
+    "id": "e312b85f-7162-4942-98fb-4595a680fd10",
+    "data": [
+      {
+        "text": "Welche Grundkentnisse, Talente und Neigungen benötige ich, um Medienwirtschaft zu studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545479974
+  }
+]

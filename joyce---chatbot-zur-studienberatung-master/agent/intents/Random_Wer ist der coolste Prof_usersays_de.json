@@ -1,0 +1,204 @@
+[
+  {
+    "id": "0979ed5a-d0b4-406f-bbba-cbbb9c63df86",
+    "data": [
+      {
+        "text": "cool!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "688c9ce5-529a-48d1-9089-b2d03e5e4210",
+    "data": [
+      {
+        "text": "Wer ist ",
+        "userDefined": false
+      },
+      {
+        "text": "der zweite",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " beste Dozent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05efbca5-d35f-4e01-be3d-542500404604",
+    "data": [
+      {
+        "text": "Bester Professor? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9dc9864-47f1-43ce-86ca-99a3a5407bec",
+    "data": [
+      {
+        "text": "Coolster Professor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47ce963b-bd70-4e7b-b7c5-cd6b0bd6135a",
+    "data": [
+      {
+        "text": "Wer ist der beste Professor ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6eedd95a-0ed4-4731-984a-7c51317386a5",
+    "data": [
+      {
+        "text": "Welcher Professor ist am geilsten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4c794b7-78e8-40f7-8b35-7e38545aa217",
+    "data": [
+      {
+        "text": "Ist Michael Weißhaupt nett?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "146c0bc2-3e3e-448f-803e-4a42a52600c0",
+    "data": [
+      {
+        "text": "Professoren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cfac19b-3869-4597-b2dd-6da6e17e5070",
+    "data": [
+      {
+        "text": "Welchen Prof magst du am meisten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "266e7ddf-a4e9-4837-83d1-cdcf60be7615",
+    "data": [
+      {
+        "text": "Wie sind die Profs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e61e6ad3-6d92-47ab-88a9-98f8ad48a20a",
+    "data": [
+      {
+        "text": "Nette Professoren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733134
+  },
+  {
+    "id": "0eb9190e-d56b-45c1-b368-9e6e39451c64",
+    "data": [
+      {
+        "text": "sind Professoren nett?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733134
+  },
+  {
+    "id": "af9551ad-8d88-4f1e-ac03-cd91ff894204",
+    "data": [
+      {
+        "text": "sind die professoren in MW cool?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733134
+  },
+  {
+    "id": "c71a9a74-c7d5-477f-9e2f-77d05bb03291",
+    "data": [
+      {
+        "text": "habt ihr coole Profs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733134
+  },
+  {
+    "id": "e16b7d84-3468-452d-92d8-997f211a0440",
+    "data": [
+      {
+        "text": "cooler prof",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733134
+  },
+  {
+    "id": "5c2b832c-cced-45fd-a126-c06569d22b57",
+    "data": [
+      {
+        "text": "Wer ist der coolste Prof?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733134
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "06e3bbca-da40-43a9-a78e-65ae1defe723",
+  "name": "Studieninhalte_Verlaufsplan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Sieh dir hier den Studienverlaufsplan an: https://www.hdm-stuttgart.de/download/studienverlaufsplaene/MW7.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546560545,
+  "fallbackIntent": false,
+  "events": []
+}

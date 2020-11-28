@@ -1,0 +1,33 @@
+{
+  "id": "8a356ef7-0b92-4bc8-8171-f5020ee9754a",
+  "name": "Bewerbung_Deutsch Prüfung Nachweis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ausländische Studienbewerber können ihren Nachweis über die bestandene Deutsch-Prüfung auch zur Immatrikulation bzw. spätestens bis zwei Wochen nach Vorlesungsbeginn einreichen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Falls der Nachweis dann noch nicht vorliegt, ist eine Einschreibung für das Studium an der Hochschule nicht mehr möglich."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547719205,
+  "fallbackIntent": false,
+  "events": []
+}

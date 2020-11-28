@@ -1,0 +1,42 @@
+{
+  "id": "97c35555-687c-4092-8662-b4bbe96a6800",
+  "name": "Allgemein_Sprachkursangebot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb75afed-56ad-4594-9ec1-d270b6ecba72",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Der HdM gehört ein eigenes Sprachenzentrum an. Hier findest Du alle Infos über das aktuelle Kursangebot und die Anmeldung: https://www.hdm-stuttgart.de/studierende/abteilungen/sprachenzentrum"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hinweis: Informiere Dich frühzeitig, da die Sprachkurse immer sehr schnell belegt sind. Fakultative Sprachkurse können von HdM Studierenden auch am Sprachenzentrum der Universität Stuttgart belegt werden."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640833,
+  "fallbackIntent": false,
+  "events": []
+}

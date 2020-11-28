@@ -1,0 +1,37 @@
+{
+  "id": "ecc0bcf1-1983-4da4-bcc6-03efef69b2c3",
+  "name": "Allgemein_Soll ich studieren?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ff6b8fbb-4cc2-4b1a-a449-9e967425e25f",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das ist eine sehr komplexe Frage, bei der eventuell Beratungsbedarf besteht. Wende dich für ein persönliches Gespräch bitte an die Zentrale Studienberatung. Kontaktdaten und Informationen zu den Sprechzeiten findest du hier: https://www.hdm-stuttgart.de/studieninteressierte/info/studienberatung"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548245362,
+  "fallbackIntent": false,
+  "events": []
+}

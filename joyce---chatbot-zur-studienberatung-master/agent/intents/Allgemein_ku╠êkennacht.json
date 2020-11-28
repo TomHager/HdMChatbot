@@ -1,0 +1,28 @@
+{
+  "id": "27ef9ca4-d89f-496a-866b-2c5274c587b5",
+  "name": "Allgemein_kükennacht",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Kükennacht ist eine Veranstaltung der verfassten Studierendenschaft. Hier kannst du andere Küken, also Studienanfänger, kennenlernen und mit ihnen feiern!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548426372,
+  "fallbackIntent": false,
+  "events": []
+}

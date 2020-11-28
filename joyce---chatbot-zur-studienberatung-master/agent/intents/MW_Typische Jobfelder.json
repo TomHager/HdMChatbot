@@ -1,0 +1,28 @@
+{
+  "id": "7c1c5e76-b231-4619-857c-0eca5a76a0fb",
+  "name": "MW_Typische Jobfelder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die MW-Absolventen gehen zumeist entweder in ein Medienunternehmen oder in andere (Industrie-)Unternehmen wie Bosch oder Daimler. Besonders beliebt sind die Tätigkeitsfelder Marketing und Kommunikation inklusive Online Marketing und Social Media Marketing, sowie Produkt- und Projektmanagement."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547311627,
+  "fallbackIntent": false,
+  "events": []
+}

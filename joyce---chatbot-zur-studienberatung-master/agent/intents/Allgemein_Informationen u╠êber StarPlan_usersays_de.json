@@ -1,0 +1,132 @@
+[
+  {
+    "id": "b9522f7f-aa52-4212-a9e1-e845fab1057e",
+    "data": [
+      {
+        "text": "Wie mache ich meinen stundenplan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04ed13e0-c9bb-4d2e-9db6-07d373808d7d",
+    "data": [
+      {
+        "text": "Wie funktioniert StarPlan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039446
+  },
+  {
+    "id": "8309be45-1194-4754-8a8b-73a5acbea2c3",
+    "data": [
+      {
+        "text": "StarPlan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039446
+  },
+  {
+    "id": "33b40b2d-c730-4669-a2dc-abd2432404e1",
+    "data": [
+      {
+        "text": "Stundenplan zusammenstellen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039446
+  },
+  {
+    "id": "c2a2fc3b-9681-451f-bd1e-4ecfa602b2b5",
+    "data": [
+      {
+        "text": "Wie funktioniert das mit dem Stundenplan Tool?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039446
+  },
+  {
+    "id": "b9dce36b-0126-48d0-a01e-1d2baa014897",
+    "data": [
+      {
+        "text": "Wo kann ich meinen Stundenplan einsehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039446
+  },
+  {
+    "id": "6a1a7829-b5e3-4fdb-9213-6d0be4765f9f",
+    "data": [
+      {
+        "text": "Muss ich mir meinen Stundenplan ",
+        "userDefined": false
+      },
+      {
+        "text": "selbst",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " zusammenstellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039446
+  },
+  {
+    "id": "d3a3310d-1040-4f02-8ba0-94148fe8edc8",
+    "data": [
+      {
+        "text": "Wie funktioniert das Tool Splan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039446
+  },
+  {
+    "id": "1e0565c9-e2c2-4e8a-88cc-20da0a1a55c8",
+    "data": [
+      {
+        "text": "Splan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039446
+  },
+  {
+    "id": "d5b98211-cb8f-48be-8420-665906e69c71",
+    "data": [
+      {
+        "text": "Wie kann ich meinen Stundenplan zusammenstellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039446
+  }
+]

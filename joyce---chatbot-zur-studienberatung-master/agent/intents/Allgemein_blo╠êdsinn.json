@@ -1,0 +1,32 @@
+{
+  "id": "3fc64a3a-534b-4e92-82bd-c2d6804d5b00",
+  "name": "Allgemein_blödsinn",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Ok...",
+            "Ich denk mal, läuft bei dir.",
+            "Ich glaub du stellst mir besser Fragen zum Studium 😉"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548094421,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "87b83ef7-997e-4666-826e-58a8e3462dde",
+    "data": [
+      {
+        "text": "Bis wann kann ich Unterlagen nachreichen ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625134
+  },
+  {
+    "id": "a99a1270-1bbf-401f-bf4d-dd929be53505",
+    "data": [
+      {
+        "text": "Wie lange kann ich Unterlagen nachreihen ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625134
+  },
+  {
+    "id": "f21b8add-b043-46bb-8bd3-6b9212df384b",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Frist in der ich Unterlagen nachreichen kann?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545858304
+  },
+  {
+    "id": "06d26233-26f7-4168-a4f0-bdabde430335",
+    "data": [
+      {
+        "text": "Bis wann sollte ich meine Unterlagen nachreichen, wenn ich erst ",
+        "userDefined": false
+      },
+      {
+        "text": "Ende Juli",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " mein Zeugnis bekomme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545858304
+  },
+  {
+    "id": "7fc73bd0-d445-4c8e-955d-9420809eda7c",
+    "data": [
+      {
+        "text": "Bis wann Unterlagen nachreichen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545858304
+  },
+  {
+    "id": "d8665f77-9dc3-4b5b-bebe-60a6c03aa61e",
+    "data": [
+      {
+        "text": "Bis wann muss ich mein Zeugnis nachreichen, wenn ich erst ",
+        "userDefined": false
+      },
+      {
+        "text": "Ende Juli",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " fertig werde?!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545858304
+  },
+  {
+    "id": "08e77f06-8208-434f-b27c-0f00e145cfe0",
+    "data": [
+      {
+        "text": "Ich mache mein Fachabitur ",
+        "userDefined": false
+      },
+      {
+        "text": "an einem",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " Berufskolleg und bekomme mein Zeugnis erst ",
+        "userDefined": false
+      },
+      {
+        "text": "Ende Juli",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": ". Kann ich mich dann trotzdem für das Wintersemester bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545858304
+  }
+]

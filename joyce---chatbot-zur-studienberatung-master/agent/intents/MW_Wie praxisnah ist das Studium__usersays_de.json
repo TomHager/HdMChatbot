@@ -1,0 +1,74 @@
+[
+  {
+    "id": "9a6649b2-4ec0-4a40-bd66-b4a08745bc09",
+    "data": [
+      {
+        "text": "Wie hoch ist der Praxisanteil in Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545234853
+  },
+  {
+    "id": "10873f49-415b-41d5-a300-2e77bd14641a",
+    "data": [
+      {
+        "text": "Wie wichtig ist der Praxisbezug im MW Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545234853
+  },
+  {
+    "id": "6fcff9d8-c159-46f6-add1-312d3e1c6da2",
+    "data": [
+      {
+        "text": "Wie sieht die Verteilung zwischen Theorie und Praxis aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545234853
+  },
+  {
+    "id": "f4406e31-456e-4d8e-89c2-433990bdba4d",
+    "data": [
+      {
+        "text": "Wie sieht der Praxisbezug im Studium konkret aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545234853
+  },
+  {
+    "id": "db94abee-1d1d-4ffb-957c-fb9430a4304c",
+    "data": [
+      {
+        "text": "Was bedeutet das genau?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545234853
+  },
+  {
+    "id": "2d01412e-75d9-4029-af11-455fccfca3c4",
+    "data": [
+      {
+        "text": "Wie praxisnah ist das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545234853
+  }
+]

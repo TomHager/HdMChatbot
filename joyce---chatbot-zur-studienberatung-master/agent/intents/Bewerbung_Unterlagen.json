@@ -1,0 +1,38 @@
+{
+  "id": "33609fd2-9f41-4eee-b3f1-0253c1519da7",
+  "name": "Bewerbung_Unterlagen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hier findest Du eine Checkliste mit allen benötigten Unterlagen für Deine Bewerbung:"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Bachelor-Studiengänge: https://www.hdm-stuttgart.de/studieninteressierte/bewerber/HdM_Checkliste_Bachelor_Bewerbung_SoSe2019.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Master-Studiengänge: https://www.hdm-stuttgart.de/studieninteressierte/bewerber/HdM_Checkliste_Master_Bewerbung%20SoSe2019.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547718247,
+  "fallbackIntent": false,
+  "events": []
+}

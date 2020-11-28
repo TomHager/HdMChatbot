@@ -1,0 +1,41 @@
+{
+  "id": "deda6510-29ca-41e3-a1c2-e2eed85e2805",
+  "name": "Praxissemester_Verschieben",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "03fc2f32-6f5e-4da9-9078-5a2ced54c271",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das Praxissemester kann nur in Ausnahmefällen verschoben werden. Voraussetzung dafür ist eine rechtzeitige Antragstellung und die Genehmigung des Praktikantenamtsleiters und des Studiendekans."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wichtige FAQs rund ums Thema Praxissemester findest Du hier: https://www.hdm-stuttgart.de/am/studium/hauptstudium/praktikantenamt/Praktikantenamt.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547654367,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "1a64dca2-4bcc-4432-93f2-c603b93884f4",
+  "name": "Allgemein_credits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ich wurde als interdisziplinäres Projekt von MW, MI und CS3 Studierenden programmiert:"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Projektbetreuer: Prof. Dr. Boris Kühnle und Prof. Walter Kriha"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Frontend von Alex Wallrabenstein, Tim Tenckhoff, Florian Pohlmann, Julia Koken, Marcel Hasenbalg, Phillipp Seeberger und Sophia Scholpp"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das Backend von Daniel Bruckner, Theresa Ruther, Jonas Wurster, Alex Allerdings, Marvin Blessing und Niklas Wille"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548411266,
+  "fallbackIntent": false,
+  "events": []
+}

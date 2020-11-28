@@ -1,0 +1,42 @@
+{
+  "id": "efe4e43b-9d21-495e-9f60-a2745a2da914",
+  "name": "Studieninhalte_Grund- und Hauptstudium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e8ddf5c1-2147-4ea3-bac8-ac9592d4c03f",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Im Grundstudium erwirbst du Kenntnisse in der (Medien-)Ökonomie, Technik, Gestaltung und Kommunikationswissenschaft. Schau Dir dazu den Übersichtsplan unter diesem Link, bei Kompetenzprofile unter \"Module des Grundstudiums\" (unten auf der Internet-Seite) an: https://www.hdm-stuttgart.de/studierende/stundenplan/studieninhalte/studiengang?sgang_ID\u003d550039"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Im Hauptstudium vertiefst du dein Wissen. Schau Dir dazu den Übersichtsplan unter diesem Link, bei Kompetenzprofile unter \"Module des Hauptstudiums (Pflicht sowie Wahlpflicht)\" (unten auf der Internet-Seite) an: https://www.hdm-stuttgart.de/studierende/stundenplan/studieninhalte/studiengang?sgang_ID\u003d550039"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547721200,
+  "fallbackIntent": false,
+  "events": []
+}

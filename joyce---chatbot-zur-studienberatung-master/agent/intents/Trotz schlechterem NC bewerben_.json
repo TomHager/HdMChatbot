@@ -1,0 +1,33 @@
+{
+  "id": "3c4de271-33c5-4ef0-9c17-f198bf471f3d",
+  "parentId": "27655321-fb82-4b92-a300-afd194d7a2bd",
+  "rootParentId": "27655321-fb82-4b92-a300-afd194d7a2bd",
+  "name": "Trotz schlechterem NC bewerben?",
+  "auto": true,
+  "contexts": [
+    "NCinMedienwirtschaft-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "NCinMedienwirtschaft.NCinMedienwirtschaft-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du solltest Dich auf jeden Fall bewerben, denn ob Du einen Studienplatz bekommst, entscheidet sich erst im jeweiligen Auswahlverfahren und hängt nicht nur von den Noten ab."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545137205,
+  "fallbackIntent": false,
+  "events": []
+}

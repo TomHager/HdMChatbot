@@ -1,0 +1,143 @@
+[
+  {
+    "id": "e99c41e4-9201-46ec-8fb9-478e2f1c4c1b",
+    "data": [
+      {
+        "text": "wie viele bewerber gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be7f6647-20f0-402d-afd0-d4b98efe6521",
+    "data": [
+      {
+        "text": "Wie hoch ist die Annahmequote?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654652
+  },
+  {
+    "id": "4f9aee1f-31c3-4898-b139-5a6a16f41e21",
+    "data": [
+      {
+        "text": "Wie viele Leute werden angenommen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654652
+  },
+  {
+    "id": "f4b7d7c4-330b-4aa3-afca-6fb93c210087",
+    "data": [
+      {
+        "text": "Wie viele Studenten gibt es im Studiengang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654652
+  },
+  {
+    "id": "20152b77-502f-4abd-8e93-85e405e916cf",
+    "data": [
+      {
+        "text": "Wie groß ist der Studiengang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654652
+  },
+  {
+    "id": "620e26a9-f890-495a-a942-74b750867ac7",
+    "data": [
+      {
+        "text": "Wie hoch ist die Aufnahmequote?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311204
+  },
+  {
+    "id": "2cb99f46-b90e-4e08-a786-8a650ff76b86",
+    "data": [
+      {
+        "text": "Wie viele Bewerber werden für Medienwirtschaft genommen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546861010
+  },
+  {
+    "id": "c55681bf-b6e1-4158-bba7-a85bc18b3150",
+    "data": [
+      {
+        "text": "Kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "im Winter",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " und Sommersemester bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480935
+  },
+  {
+    "id": "70e5edc4-84af-4eb0-bcb4-dcd92d85baab",
+    "data": [
+      {
+        "text": "Pro Semester wie viele Studenten dürfen mit MW anfangen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480935
+  },
+  {
+    "id": "814c100e-87c0-4946-9731-9f8f920f2dcb",
+    "data": [
+      {
+        "text": "Wie viele Studenten werden zugelassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480935
+  },
+  {
+    "id": "a830e0d8-e221-432a-9ffa-c2ea0f3a928f",
+    "data": [
+      {
+        "text": "Wie viele Studenten werden pro Semester zugelassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480935
+  }
+]

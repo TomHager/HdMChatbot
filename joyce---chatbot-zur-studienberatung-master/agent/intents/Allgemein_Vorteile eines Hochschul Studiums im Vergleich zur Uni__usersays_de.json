@@ -1,0 +1,190 @@
+[
+  {
+    "id": "abeae40a-b0de-4b66-881e-bccbbb27a2c8",
+    "data": [
+      {
+        "text": "Vorteile ",
+        "userDefined": false
+      },
+      {
+        "text": "eines",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Hochschul Studiums im Vergleich zur Uni?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407756
+  },
+  {
+    "id": "317784a4-dbc2-4296-8cab-f5b4e7848dd8",
+    "data": [
+      {
+        "text": "Warum sollte ich an der HDM studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545211244
+  },
+  {
+    "id": "cb6878ec-8771-4507-ada0-29e31a4c021a",
+    "data": [
+      {
+        "text": "Warum sollte ich ",
+        "userDefined": false
+      },
+      {
+        "text": "an einer",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " FH studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545211244
+  },
+  {
+    "id": "e0408ebb-141c-4f48-9921-0baa660777ba",
+    "data": [
+      {
+        "text": "Wieso sollte ich an der HDM studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545211244
+  },
+  {
+    "id": "78e73b73-151f-4565-8e3c-bb05e9ac5769",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "an einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Hochschule besser als ",
+        "userDefined": false
+      },
+      {
+        "text": "an einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Uni?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545127895
+  },
+  {
+    "id": "696986d1-4fb3-480b-98ae-7d414dd7a36b",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "an einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Hochschule besser als ",
+        "userDefined": false
+      },
+      {
+        "text": "an einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Universität?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545127895
+  },
+  {
+    "id": "1c882992-db9a-4594-afa1-6311ecf5045d",
+    "data": [
+      {
+        "text": "Was sind Unterschiede zwischen ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Hochschule und ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Universität?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545127895
+  },
+  {
+    "id": "8a65015d-230d-4784-a95b-d309f762e023",
+    "data": [
+      {
+        "text": "Was sind die Vorteile wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "an einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Hochschule studiere im Vergleich ",
+        "userDefined": false
+      },
+      {
+        "text": "zu einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Universität?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545127895
+  }
+]

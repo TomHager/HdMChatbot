@@ -1,0 +1,37 @@
+{
+  "id": "9e8c2649-b982-4a0b-b92d-cff8ba0f522a",
+  "name": "Allgemein_Fernstudium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c15c3181-fd1d-4c3c-aff9-bef6a1e40c10",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Nein, die HdM bietet keine Fernstudiengänge an."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547639478,
+  "fallbackIntent": false,
+  "events": []
+}

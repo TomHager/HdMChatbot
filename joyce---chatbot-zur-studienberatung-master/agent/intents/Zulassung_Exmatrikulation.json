@@ -1,0 +1,28 @@
+{
+  "id": "1dd4992e-63f2-466d-8861-29387aea782f",
+  "name": "Zulassung_Exmatrikulation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du kannst jederzeit eine Exmatrikulation beantragen. Hier findest Du das passende Formular: https://www.hdm-stuttgart.de/studierende/handbuch/eintrag?handbuch_student_ID\u003d189"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548429357,
+  "fallbackIntent": false,
+  "events": []
+}

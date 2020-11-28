@@ -1,0 +1,37 @@
+{
+  "id": "344335fe-70af-478b-b634-c93e35dca924",
+  "name": "Zulassung_Notendurchschnitt_wasKannIchStudieren",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6cc0c463-5e51-4178-a167-c06b1f1f2ba0",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Bei der Wahl Deines Studienfaches solltest Du zuallererst auf Deine Interessen, Fähigkeiten und Ziele achten – denn schließlich musst du Dich über mindestens 7 Semester dazu motivieren, Dich intensiv mit einem Fach auseinanderzusetzen. \nWenn Du mehr darüber wissen möchtest, wie es mit Deinen Chancen auf Zulassung so steht und welche Studiengänge vielleicht zu Deinen Interessen passen, kannst Du Dich an die Zentrale Studienberatung wenden. Kontaktdaten und Informationen zu den Sprechzeiten findest du hier: https://www.hdm-stuttgart.de/studieninteressierte/info/studienberatung"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548326838,
+  "fallbackIntent": false,
+  "events": []
+}

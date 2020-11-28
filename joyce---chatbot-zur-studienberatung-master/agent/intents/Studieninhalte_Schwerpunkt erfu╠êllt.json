@@ -1,0 +1,28 @@
+{
+  "id": "13b2beaa-86ce-451b-83bb-efe0d6179e5d",
+  "name": "Studieninhalte_Schwerpunkt erfüllt",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Um einen Schwerpunkt zu erfüllen, musst du die entsprechenden Wahlfächer belegen und die Stelle deines Praxissemesters sowie die Thematik deiner Bachelorarbeit danach ausrichten."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546560353,
+  "fallbackIntent": false,
+  "events": []
+}

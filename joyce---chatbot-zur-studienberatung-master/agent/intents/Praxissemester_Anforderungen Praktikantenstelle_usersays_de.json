@@ -1,0 +1,125 @@
+[
+  {
+    "id": "d3ed53fc-73cb-473a-ba48-0992452adc53",
+    "data": [
+      {
+        "text": "praxisssemestee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d517516-4474-44ca-b5c4-f50205ea2527",
+    "data": [
+      {
+        "text": "Rahmenbedingungen Praktikumsstelle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559270
+  },
+  {
+    "id": "3cd737f3-01da-4a3b-b5ab-5d20394569e1",
+    "data": [
+      {
+        "text": "Anforderungen Praktikumsstelle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559270
+  },
+  {
+    "id": "333e7e7c-0c2f-4984-b19c-7652a32a0404",
+    "data": [
+      {
+        "text": "Kriterien Praktikumsstelle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559270
+  },
+  {
+    "id": "1cfb7e66-2fc9-4ada-a22e-0d9ff8be3461",
+    "data": [
+      {
+        "text": "Welche Kriterien muss meine Praktikumsstelle erfüllen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658370
+  },
+  {
+    "id": "bc3f37a1-ed0f-4d51-99ce-f9b13e99f71c",
+    "data": [
+      {
+        "text": "Was muss bei der ",
+        "userDefined": false
+      },
+      {
+        "text": "Stelle",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gegeben sein damit das Praktikum anerkannt wird?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658370
+  },
+  {
+    "id": "76d073e9-432a-4de1-aa3a-353411668212",
+    "data": [
+      {
+        "text": "Was für Anforderungen muss ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikumsstelle erfüllen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658370
+  },
+  {
+    "id": "74eb8e3f-6553-4a0b-8cdb-fcd50e6ea2b6",
+    "data": [
+      {
+        "text": "Welche Kriterien gelten zur Anerkennung ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikantenstelle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658370
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "818ece2b-ad2d-48ec-9b02-1882ce6facd5",
+    "data": [
+      {
+        "text": "Brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Vorpraktikum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546627281
+  },
+  {
+    "id": "255e94e2-dd86-4890-88ec-7e9b22f6203d",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Vorpraktikum berücksichtigen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546627281
+  },
+  {
+    "id": "5e0dd736-f0e3-49d7-8084-74d45aa80973",
+    "data": [
+      {
+        "text": "Werden Vorpraktikas bei der Zulassung berücksichtigt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545929974
+  },
+  {
+    "id": "4e51dc74-afba-42a4-9736-a94b921915e5",
+    "data": [
+      {
+        "text": "Vorpraktika",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545929974
+  },
+  {
+    "id": "7b3ee66e-e6d2-408b-9336-300703a9a212",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Vorpraktikum für die Zulassung an der HdM wichtig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545929974
+  },
+  {
+    "id": "534a3613-5ddf-4356-9e0a-096094de125e",
+    "data": [
+      {
+        "text": "Brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Vorpraktikum, um an der HdM studieren zu können?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545929974
+  },
+  {
+    "id": "bfaaccdb-e6a0-474c-aa3c-6669dd255023",
+    "data": [
+      {
+        "text": "Sind ",
+        "userDefined": false
+      },
+      {
+        "text": "für einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studiengang an der Hochschule der Medien Vorpraktika erforderlich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545929974
+  }
+]

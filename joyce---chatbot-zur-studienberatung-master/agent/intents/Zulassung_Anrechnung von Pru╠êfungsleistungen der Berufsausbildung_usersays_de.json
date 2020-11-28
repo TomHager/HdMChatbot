@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ce7856cc-9413-403f-bfce-57828440062b",
+    "data": [
+      {
+        "text": "Wie rechne ich Prüfungen aus meiner Ausbildungszeit an?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626097
+  },
+  {
+    "id": "6c83bda5-15cb-4695-94dd-0521bc1c7984",
+    "data": [
+      {
+        "text": "Darf ich meine Ausbildungs Prüfungen anrechnen ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626097
+  },
+  {
+    "id": "93bab709-8571-4245-ba15-e388c23c1387",
+    "data": [
+      {
+        "text": "Kann ich die Prüfungen meiner Ausbildung anrechnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626097
+  },
+  {
+    "id": "fdd9b83e-4978-46af-b462-fe337524eba1",
+    "data": [
+      {
+        "text": "Zählen Prüfungsleistungen aus meiner Ausbildungszeit auch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545928411
+  },
+  {
+    "id": "d49821a1-83a1-4ae5-b40b-54113d81bc99",
+    "data": [
+      {
+        "text": "Ich habe eine Ausbildung abgeschlossen. Kann ich diese Prüfungsleistungen ebenfalls anrechnen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545928411
+  },
+  {
+    "id": "689a73af-6211-461e-a9e7-bf674b40ee26",
+    "data": [
+      {
+        "text": "Anrechnung von Prüfungsleistungen aus der Berufsausbildung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545928411
+  },
+  {
+    "id": "5d399896-e0a3-4203-8e59-2c0f2adc9719",
+    "data": [
+      {
+        "text": "Geht es, dass ich mir Leistungen aus meiner Berufsausbildung anrechnen lassen kann?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545928411
+  },
+  {
+    "id": "e61919e9-8dab-4768-9eae-bebca6770961",
+    "data": [
+      {
+        "text": "Kann ich Prüfungsleistungen aus meiner Berufsausbildung anrechnen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545928411
+  }
+]

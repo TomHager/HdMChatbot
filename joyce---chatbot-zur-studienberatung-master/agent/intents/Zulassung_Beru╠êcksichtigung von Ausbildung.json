@@ -1,0 +1,37 @@
+{
+  "id": "3bad3a77-2f0c-4281-bd9a-e9f1f0a6f406",
+  "name": "Zulassung_Berücksichtigung von Ausbildung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7c4ad27f-49d9-4012-9842-f9743670c335",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das hängt ganz vom jeweiligen Studiengang ab. Für Medienwirtschaft gilt: Mit einer abgeschlossenen und affinen Berufsausbildung, z.B. fast alle kaufmännischen Ausbildungen, kannst Du Dir maximal 0,3 Punkte auf Deine Durchschnittsnote gutschreiben lassen. Genauere Auskunft kann Dir die Studienberatung geben. Die Kontaktdaten und Sprechzeiten findest du hier:\nhttps://www.hdm-stuttgart.de/studieninteressierte/info/studienberatung"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548242775,
+  "fallbackIntent": false,
+  "events": []
+}

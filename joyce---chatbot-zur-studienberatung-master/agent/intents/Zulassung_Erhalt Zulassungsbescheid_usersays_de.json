@@ -1,0 +1,155 @@
+[
+  {
+    "id": "02699967-9dfd-499f-a11c-7f6ee36da36d",
+    "data": [
+      {
+        "text": "Wann bekomme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Brief für die Zulassung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626410
+  },
+  {
+    "id": "a796de97-349a-4b45-8215-7897a78b953e",
+    "data": [
+      {
+        "text": "Wann bekomme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " E-Mail ob ich Zugelassen wurde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626410
+  },
+  {
+    "id": "2643f779-a974-4d71-8ec9-84a209c86c1e",
+    "data": [
+      {
+        "text": "Woher weis ich ob ich Zugelassen wurde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626410
+  },
+  {
+    "id": "68d20a78-853e-4486-9951-199f5531257a",
+    "data": [
+      {
+        "text": "Wann bekomme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Antwort ob ich Zugelassen bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626410
+  },
+  {
+    "id": "ca3cde2f-b532-4e99-9f3a-9ceab2515ffb",
+    "data": [
+      {
+        "text": "Wie lange muss man ",
+        "userDefined": false
+      },
+      {
+        "text": "auf einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Zulassungsbescheid warten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910662
+  },
+  {
+    "id": "437c8959-0c16-4fa5-9776-f53ab137fdbe",
+    "data": [
+      {
+        "text": "Wann gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Bescheid für die Zulassung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910662
+  },
+  {
+    "id": "0bcfdee5-c460-43f7-8bb7-f13d4d80ea0a",
+    "data": [
+      {
+        "text": "Wann weiß ich ob ich zur HdM zugelassen worden bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910662
+  },
+  {
+    "id": "b58adcd9-1bff-4013-b579-d7139c401c8c",
+    "data": [
+      {
+        "text": "Wann bekomme ich Bescheid, ob ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Zulassung erhalte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910662
+  }
+]

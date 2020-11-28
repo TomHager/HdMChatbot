@@ -1,0 +1,84 @@
+[
+  {
+    "id": "e4a4b0fb-e9cd-4b31-b62e-f4787bef1e6b",
+    "data": [
+      {
+        "text": "Wie kann ich Unterlagen nachträglich einreichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545861797
+  },
+  {
+    "id": "ec0fde8f-a1df-4b55-919e-14f2de802996",
+    "data": [
+      {
+        "text": "Kann ich Unterlagen auch nachträglich noch einsehen und vervollständigen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545861797
+  },
+  {
+    "id": "748673c2-be54-40ac-9005-b9ae930144ee",
+    "data": [
+      {
+        "text": "Kann ich nochmals Unterlagen nachreichen, falls ich etwas vergessen habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545861797
+  },
+  {
+    "id": "0d0488c0-3a55-4a80-84b0-9c27189436ec",
+    "data": [
+      {
+        "text": "Ich bin mir nicht sicher, ob ich ",
+        "userDefined": false
+      },
+      {
+        "text": "alle",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " Unterlagen eingereicht habe - wo kann ich das rausfinden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545861797
+  },
+  {
+    "id": "740296cb-9ecd-4c6f-800d-9fe7eac167fa",
+    "data": [
+      {
+        "text": "Was ist, wenn ich vergessen habe, wichtige Unterlagen einzureichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545861797
+  },
+  {
+    "id": "ffa9e4bb-5652-4c9b-ada4-b307c6a6bf71",
+    "data": [
+      {
+        "text": "Was ist, wenn ich versehentlich vergesse, wichtige Unterlagen einzureichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545861797
+  }
+]

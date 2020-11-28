@@ -1,0 +1,62 @@
+[
+  {
+    "id": "d5b00cfa-b863-4cc2-b1de-34c2fc858801",
+    "data": [
+      {
+        "text": "Gibt es viel Technikvorlesungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548423727
+  },
+  {
+    "id": "8127ce50-94b5-4020-92bb-361d3c815d98",
+    "data": [
+      {
+        "text": "Technikanteil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548423727
+  },
+  {
+    "id": "39645a1c-20d4-4071-a881-2a77e9d7e007",
+    "data": [
+      {
+        "text": "Wie groß ist der Technikanteil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548423727
+  },
+  {
+    "id": "7298af5c-8211-4e4f-a1e9-2d50fa7834bb",
+    "data": [
+      {
+        "text": "Ist es viel Technik?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548423727
+  },
+  {
+    "id": "094037f2-e27e-4041-8252-8ebef95d3523",
+    "data": [
+      {
+        "text": "Wie viel Technik kommt im Studium vor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

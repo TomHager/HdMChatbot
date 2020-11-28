@@ -1,0 +1,42 @@
+{
+  "id": "470f9215-09c7-41a7-8e2a-eab21bba7cad",
+  "name": "MW_Jobchancen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "85814f3e-3002-488c-a483-a19ffd67d419",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Studienabsolvten aus dem Studiengang Medienwirtschaft besitzen sehr gute Chancen später im Management von Medienunternehmen zu arbeiten."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Zu den Arbeitsfeldern zählen die klassischen Branchen Fernsehen, Radio oder Verlage genauso wie die neuen Medienmärkte Online, mobile Medien und digitale Wirtschaft. Außerdem erlangst Du auch Qualifizierungen für Kommunikations-Jobs in Wirtschaftsunternehmen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547041225,
+  "fallbackIntent": false,
+  "events": []
+}

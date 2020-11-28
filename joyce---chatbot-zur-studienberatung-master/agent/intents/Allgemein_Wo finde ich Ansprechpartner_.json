@@ -1,0 +1,53 @@
+{
+  "id": "dce19ddb-c597-4b73-9b4b-a1535bb295e2",
+  "name": "Allgemein_Wo finde ich Ansprechpartner?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bfb7826e-312c-427b-b456-b24a9250a062",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "c0d3f3cd-5459-4903-85ec-45e928c5c834",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das ist abhängig von deinem Anliegen.\nFür Informationen rund um den Studiengang Medienwirtschaft den Studiendekan Prof. Dr. Boris Kühnle: kuehnle@hdm-stuttgart.de oder Max Ruppert ruppert@hdm-stuttgart.de"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Für formale Fragen zur Zulassung ist hier der Link zum Studienbüro:\nhttps://www.hdm-stuttgart.de/studieninteressierte/info/studienbuero"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die zentrale Studienberatung ist ebenfalls eine Anlaufstelle, gerade wenn es um Fragen geht, die keine Formalien betreffen: https://www.hdm-stuttgart.de/studieninteressierte/info/studienberatung"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640995,
+  "fallbackIntent": false,
+  "events": []
+}

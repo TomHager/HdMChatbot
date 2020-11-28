@@ -1,0 +1,29 @@
+{
+  "id": "d9df4de7-d838-465c-b3a2-bb224a665c90",
+  "name": "Beleidigung_Ruhe_Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "🤐"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547632163,
+  "fallbackIntent": false,
+  "events": []
+}

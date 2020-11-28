@@ -1,0 +1,39 @@
+{
+  "id": "46a07ca7-b04f-4c20-a869-66dd4f7c6c47",
+  "name": "Random_baujahr",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9725049f-3b91-495b-a448-5835b80de3a8",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Es gibt mich seit Januar 2019 🐣",
+            "Seit Januar 2019 🐣"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548411699,
+  "fallbackIntent": false,
+  "events": []
+}

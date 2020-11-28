@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0b2117d1-1a4f-43f2-be3d-ad8a774da77e",
+    "data": [
+      {
+        "text": "Sollte ich zur Kükennacht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548426372
+  },
+  {
+    "id": "1bc0afc1-d812-42d3-9fdb-e89418d03686",
+    "data": [
+      {
+        "text": "Wofür ist die Kükennacht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548426372
+  },
+  {
+    "id": "9ffcf351-da1d-4a78-aa0f-6b0e281b6bd9",
+    "data": [
+      {
+        "text": "Was geht bei der Kükennacht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548426372
+  },
+  {
+    "id": "d3156875-1e86-41f2-b994-d4d12aedb173",
+    "data": [
+      {
+        "text": "Gibt es Rituale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b34b459e-1fd7-4e08-891f-6b39f0374bd9",
+    "data": [
+      {
+        "text": "Was ist die Kükennacht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

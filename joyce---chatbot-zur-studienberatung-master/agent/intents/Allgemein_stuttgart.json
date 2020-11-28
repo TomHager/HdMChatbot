@@ -1,0 +1,28 @@
+{
+  "id": "de42b373-5e5f-4be1-bbaa-6cc6aea3e2d2",
+  "name": "Allgemein_stuttgart",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Stuttgart hat einiges zu bieten! Es gibt ein aufregendes Nachtleben, viele Museen und Galerien, leckeres Essen und im Sommer viele verschiedene Straßenfeste – es lohnt sich!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548422989,
+  "fallbackIntent": false,
+  "events": []
+}

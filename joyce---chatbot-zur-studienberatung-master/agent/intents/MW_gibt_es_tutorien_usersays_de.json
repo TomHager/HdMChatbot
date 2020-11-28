@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ddd55885-c950-4810-aa25-2090bac54bc8",
+    "data": [
+      {
+        "text": "Was für Tutorien gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548419164
+  },
+  {
+    "id": "8a3312a6-ef97-4c5b-b1ab-5f595d316792",
+    "data": [
+      {
+        "text": "Werden tutorien angeboten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548419164
+  },
+  {
+    "id": "de0fca49-0a07-4e93-ad8c-ba6f6534f517",
+    "data": [
+      {
+        "text": "welche tutorien gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548419164
+  },
+  {
+    "id": "9052e7f4-dbfa-4ce9-b35f-8f1de58857dd",
+    "data": [
+      {
+        "text": "was gibt es für tutorien?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548419164
+  },
+  {
+    "id": "819f01b7-b492-4bb3-b26a-76436da2269c",
+    "data": [
+      {
+        "text": "Gibt es Tutorien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "41a9627c-c068-4e8e-8fdc-beb3d67f6c48",
+  "name": "Praxissemester_Unterlagen_danach",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Alle relevanten Unterlagen, die Du nach dem Praxissemester einreichen musst, kannst Du hier nachgelesen: https://mw.hdm-stuttgart.de/medienwirtschaft/studierende/praxissemester/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547714068,
+  "fallbackIntent": false,
+  "events": []
+}

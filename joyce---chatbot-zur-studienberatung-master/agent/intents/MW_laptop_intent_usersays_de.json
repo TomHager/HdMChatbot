@@ -1,0 +1,70 @@
+[
+  {
+    "id": "773e9268-1885-42d9-95ab-851fd5dbcfb0",
+    "data": [
+      {
+        "text": "brauche ich einen laptop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "9f80fdfe-8b0e-41ed-b620-4004ae0e1957",
+    "data": [
+      {
+        "text": "ist ein notebook notwendig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "3dbce87e-3cdb-48d1-9522-a4e3f3524b94",
+    "data": [
+      {
+        "text": "Brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Notebook für das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547564718
+  },
+  {
+    "id": "9d094157-ab3b-4788-8fc2-c5a19a5fc450",
+    "data": [
+      {
+        "text": "Brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Notebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547564718
+  }
+]

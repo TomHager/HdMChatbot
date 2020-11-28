@@ -1,0 +1,37 @@
+{
+  "id": "d1f2d23f-f3b8-4fec-ac32-4d54610ffab7",
+  "name": "Kosten_Studium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "342838bd-d1c3-42db-9346-44c6bb7658c2",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Grundsätzlich fallen einmal pro Semester die Semesterbeiträge an. Zusätzlich solltest du deine Lebenshaltungskosten (ggf. inkl. Kosten für öffentliche Verkehrsmittel) hinzurechnen. Im beigefügten Link erfährst du wie hoch die Semesterbeiträge sind. Bitte beachte, dass für internationale Studierende und für ein Zweitstudium Studiengebühren anfallen. Erfahre dazu mehr unter dem Reiter \"Studiengebühren\": https://www.hdm-stuttgart.de/studieninteressierte/bewerber/kosten/studiengebuehren"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547742871,
+  "fallbackIntent": false,
+  "events": []
+}

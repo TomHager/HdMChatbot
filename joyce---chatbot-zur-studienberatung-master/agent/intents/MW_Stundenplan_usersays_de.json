@@ -1,0 +1,236 @@
+[
+  {
+    "id": "9d8ca0e3-5dfa-4953-b6f8-59ba48c03c2d",
+    "data": [
+      {
+        "text": "Welche Kurse gibt es im Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab791aef-3c7e-4eed-b732-03fd7fc6a86a",
+    "data": [
+      {
+        "text": "Wie viele Fächer hat MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "baf6b6c8-04c8-4a5b-a273-134be4b61fc4",
+    "data": [
+      {
+        "text": "Welche Fächer werden im ",
+        "userDefined": false
+      },
+      {
+        "text": "ersten",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " Semester unterrichtet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548656898
+  },
+  {
+    "id": "fc6d5257-8903-4205-b5ab-adbb9295e1f1",
+    "data": [
+      {
+        "text": "Welche Vorlesungen gibt es im Studiengang Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547723110
+  },
+  {
+    "id": "19f907f7-ec6a-4deb-8d0e-ce67633e60b7",
+    "data": [
+      {
+        "text": "MW Stundenplan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547723110
+  },
+  {
+    "id": "9acfd053-d605-4b91-80ee-c39071f02d1a",
+    "data": [
+      {
+        "text": "welche vorlesungen gibt es im studiengang medienwirtschaft",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "14312a71-0347-4661-9401-85d66b0a5388",
+    "data": [
+      {
+        "text": "Wie sieht mein Kursplan aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1960860-741a-499e-ad1c-0be5b92c2526",
+    "data": [
+      {
+        "text": "Vorlesungsplan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038169
+  },
+  {
+    "id": "e9f41b1b-f9de-41dd-a751-2559f46a778b",
+    "data": [
+      {
+        "text": "Wie sieht der Vorlesungsplan aus ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038169
+  },
+  {
+    "id": "93c0616d-f947-4f27-9286-b29ad158bd0b",
+    "data": [
+      {
+        "text": "Wie frei bin ich, bei der Gestaltung meines Stundenplans?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038169
+  },
+  {
+    "id": "4794383f-3736-445c-8f15-48816a4a36b5",
+    "data": [
+      {
+        "text": "Welche Vorlesungen muss ich besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038169
+  },
+  {
+    "id": "673bc0ca-a3be-4b3c-b4cb-ecbad4905e5b",
+    "data": [
+      {
+        "text": "Zeig mir den Vorlesungsplan für das kommende Semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038169
+  },
+  {
+    "id": "093d8c37-dae0-4dbc-ae59-5f0821d904ba",
+    "data": [
+      {
+        "text": "Welche Vorlesungen habe ich im ",
+        "userDefined": false
+      },
+      {
+        "text": "ersten",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038169
+  },
+  {
+    "id": "e4ad583c-0c8e-4f3c-9d33-8755b1319643",
+    "data": [
+      {
+        "text": "Wie ist der Stundenplan in MW aufgebaut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038169
+  },
+  {
+    "id": "fd40cf15-9ac7-450e-9d71-a842d6bde2b6",
+    "data": [
+      {
+        "text": "Stundenplan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038169
+  },
+  {
+    "id": "0ec9681f-66f8-4084-a9b7-4dc3c04f5f8a",
+    "data": [
+      {
+        "text": "Zeig mir ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Übersicht über den Stundenplan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038169
+  },
+  {
+    "id": "401f61bc-10a6-41de-9e54-64f24fb56396",
+    "data": [
+      {
+        "text": "Wo kann ich den Stundenplan finden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038169
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "id": "09acccc9-6c84-41ea-ae34-15e50332f7f1",
+  "name": "MW_Was machen MW Studierende?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2a46410e-b25f-433a-a587-4dbf1adcefdf",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "288fce65-76ce-46f4-8861-d65f172e6341",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "cdaeb2c4-114d-4d12-9a01-3eb7754b17c2",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time1",
+          "value": "$time1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Schau Dir auf YouTube an, was MW Studierenden über ihren Studiengang erzählen: https://www.youtube-nocookie.com/embed/-tHnM7cOnWw"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Noch mehr Videos gefällig? Schau auf dem MW YouTube Channel vorbei: https://www.youtube.com/user/studiengangmw"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547729773,
+  "fallbackIntent": false,
+  "events": []
+}

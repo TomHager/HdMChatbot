@@ -1,0 +1,50 @@
+{
+  "id": "9151b15d-9daa-4459-a9d2-065ee1d11c02",
+  "name": "Allgemein_Wie zeitaufwändig ist das Studium?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7ed1990e-cd99-475c-acec-6455e43a4a05",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "bd07d1be-a73b-4561-895c-4a5538a6a562",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du solltest Dir bewusst sein, dass das Studium mit einem Vollzeit-Job vergleichbar ist, auch wenn du sicher Freiheiten in deiner Zeiteinteilung hast. Wende dich an die Studienberatung, falls du mehr darüber wissen willst: https://www.hdm-stuttgart.de/studieninteressierte/info/studienberatung"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Nebenher zu arbeiten ist machbar (bspw. 10 Stunden die Woche), erfordert aber einen höheren Koordinationsaufwand. Das Studium sollte Prio Nummer eins sein, gerade vor und in Klausurphasen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547741529,
+  "fallbackIntent": false,
+  "events": []
+}

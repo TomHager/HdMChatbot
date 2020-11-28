@@ -1,0 +1,131 @@
+[
+  {
+    "id": "b7e012b9-2aea-4002-9ea7-1d4abd315c16",
+    "data": [
+      {
+        "text": "Schwerpunkte erfüllen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560353
+  },
+  {
+    "id": "456b2afb-0b19-4219-8a4f-367642d2a262",
+    "data": [
+      {
+        "text": "Wann zählt etwas als Schwerpunkt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560353
+  },
+  {
+    "id": "d722752f-9ae4-4317-b165-7a220ce9c02c",
+    "data": [
+      {
+        "text": "Ab wann ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Schwerpunkt erfüllt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560353
+  },
+  {
+    "id": "eb9e168c-27c8-43fd-875c-6275fd7243e8",
+    "data": [
+      {
+        "text": "Wie zeige ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Unternehmen dass ich Schwerpunkte im Studium gesetzt habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545689957
+  },
+  {
+    "id": "dac4f344-ef4a-4338-925d-34b0be487531",
+    "data": [
+      {
+        "text": "Was muss ich tun ",
+        "userDefined": false
+      },
+      {
+        "text": "um einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Schwerpunkt zu erbringen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545689957
+  },
+  {
+    "id": "24f44486-774d-493d-815c-60a5c638259b",
+    "data": [
+      {
+        "text": "Wann habe ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sogenannten Schwerpunkt erfüllt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545689957
+  },
+  {
+    "id": "7fb2928c-0ed6-4c3e-9a64-f83b0f129810",
+    "data": [
+      {
+        "text": "Was muss ich machen, ",
+        "userDefined": false
+      },
+      {
+        "text": "um einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Schwerpunkt zu erfüllen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545689957
+  }
+]

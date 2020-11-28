@@ -1,0 +1,128 @@
+[
+  {
+    "id": "485441ac-1dc4-42a6-92e3-4ac288fa8a17",
+    "data": [
+      {
+        "text": "Kann ich mir etwas anrechnen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99d5d07e-9a61-4f73-bcfb-622b7b40c374",
+    "data": [
+      {
+        "text": "Wie bewerbe ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein 2",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": ". Studium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625699
+  },
+  {
+    "id": "958bdeb8-02ae-49ef-8947-e4d828c8f35c",
+    "data": [
+      {
+        "text": "Wie funktioniert das mit dem Zweitstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625699
+  },
+  {
+    "id": "a2cd2fc4-d7cf-4995-9e1b-1a95a3f1bf47",
+    "data": [
+      {
+        "text": "Was wenn ich als Zweitstudium an der HdM studieren möchte. Läuft die Bewerbung anders ab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545905407
+  },
+  {
+    "id": "981c315d-ef2c-4952-9737-f124c54b080d",
+    "data": [
+      {
+        "text": "Bewerbung bei Zweitstudium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545905407
+  },
+  {
+    "id": "8fe38f65-ad0b-4aca-9480-a51d8e37c254",
+    "data": [
+      {
+        "text": "Ist die Bewerbung für Personen mit Zweitstudium anders als für Erststudierende?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545905407
+  },
+  {
+    "id": "09d4de59-5412-4ba4-b93d-94b04fbad0fe",
+    "data": [
+      {
+        "text": "Ich möchte mein Zweitstudium an der HdM beginnen, gibt es etwas was ich beachten muss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545905407
+  },
+  {
+    "id": "38a2c0c3-341f-4a1d-8f12-a94a8df78a2f",
+    "data": [
+      {
+        "text": "Ich habe bereits ",
+        "userDefined": false
+      },
+      {
+        "text": "ein erstes",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studium abgeschlossen und möchte mich ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "alias": "time1",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Bachelor-Studium bewerben. Was ist bei der Bewerbung zu beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545905407
+  }
+]

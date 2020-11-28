@@ -1,0 +1,28 @@
+{
+  "id": "6326408f-4070-4b6e-91a2-2176cdfb8787",
+  "name": "Allgemein_Wie lange dauert das Studium?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Regelstudienzeit der Bachelorstudiengänge an der Hochschule der Medien beträgt sieben Semester."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640908,
+  "fallbackIntent": false,
+  "events": []
+}

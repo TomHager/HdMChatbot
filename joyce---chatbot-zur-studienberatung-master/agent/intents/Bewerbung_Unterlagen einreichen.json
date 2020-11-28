@@ -1,0 +1,36 @@
+{
+  "id": "199d6a0d-25ca-4f81-b9a7-22ac69a1573e",
+  "name": "Bewerbung_Unterlagen einreichen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f7a56be6-b442-4f96-8f05-e52a40a4556c",
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du kannst Deine Unterlagen per Post an die HdM schicken (Hochschule der Medien – Studienbüro -, Nobelstr. 10, 70569 Stuttgart), in den Postkasten vor dem Studienbüro oder den Briefkasten am Haupteingang werfen oder persönlich im Studienbüro zu den Öffnungszeiten abgeben."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545862215,
+  "fallbackIntent": false,
+  "events": []
+}

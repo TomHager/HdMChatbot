@@ -1,0 +1,94 @@
+[
+  {
+    "id": "887524f9-9f13-45f0-be63-1fa0228af673",
+    "data": [
+      {
+        "text": "Ist medienwirtschaft ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " guter Studiengang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "6bfc47b4-8805-4197-a338-d24c191bc725",
+    "data": [
+      {
+        "text": "Warum sollte mw studieren gibt es nichts besseres?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "2bb83bf6-1034-40aa-9eb1-ab826443e396",
+    "data": [
+      {
+        "text": "Hat das Studium ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " guten Ruf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341045
+  },
+  {
+    "id": "4b1e7175-23c0-48e4-b3b9-f4516076efb3",
+    "data": [
+      {
+        "text": "Wie sind MW Studenten bei Arbeitgebern angesehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341045
+  },
+  {
+    "id": "6becc480-cedf-4e0a-8f0c-02c9763769d6",
+    "data": [
+      {
+        "text": "Ruf MW",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548341045
+  },
+  {
+    "id": "bd396806-dc7b-4037-9bc7-34fa31ac7402",
+    "data": [
+      {
+        "text": "Welchen Ruf hat das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

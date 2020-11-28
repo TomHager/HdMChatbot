@@ -1,0 +1,33 @@
+{
+  "id": "0d9dd2cf-d0aa-4e57-a634-2661c850bfb4",
+  "name": "Praxissemester_Bestandteile Praxissemester",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das Praxissemester umfasst (1) die verpflichtende Teilnahme and drei Blockveranstaltungen vor Beginn des PS, (2) eine 26-wöchige praktische Tätigkeit in einem Unternehmen sowie (3) einen schriftlichen Bericht zum PS."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "I.d.R. findet es im 5. Semester statt. Aber manche Studis verschieben auch."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547489401,
+  "fallbackIntent": false,
+  "events": []
+}

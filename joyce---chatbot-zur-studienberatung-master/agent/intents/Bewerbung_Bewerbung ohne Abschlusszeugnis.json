@@ -1,0 +1,28 @@
+{
+  "id": "ac99d2aa-9cf1-47e2-83b2-3f0f9a2b455d",
+  "name": "Bewerbung_Bewerbung ohne Abschlusszeugnis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Einer Bewerbung ist zwingend ein Abschlusszeugnis beizulegen. Dein Abschlusszeugnis der Hochschulreife muss also spätestens bis zur Bewerbungsfrist eingegangen sein."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547717333,
+  "fallbackIntent": false,
+  "events": []
+}

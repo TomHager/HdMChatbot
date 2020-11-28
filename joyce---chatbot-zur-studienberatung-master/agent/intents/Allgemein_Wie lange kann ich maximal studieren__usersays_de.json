@@ -1,0 +1,125 @@
+[
+  {
+    "id": "cd4fa50f-ad4f-488f-a595-efacc5f97351",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lang wie ich will studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546549861
+  },
+  {
+    "id": "55ae6f8c-4075-4a47-80d3-9fd3ac487b54",
+    "data": [
+      {
+        "text": "Kann man ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lang studieren wie man möchte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546549861
+  },
+  {
+    "id": "dafb85e1-fdca-45c9-9e5d-4d96bea5e3d3",
+    "data": [
+      {
+        "text": "Gibt es Maximum an Semestern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545411063
+  },
+  {
+    "id": "b0de70ea-8059-49a7-84e6-d280ad9dc583",
+    "data": [
+      {
+        "text": "Maximale Studienzeit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545411063
+  },
+  {
+    "id": "458af0b6-870a-40a9-aa6e-6db95a3dbfb2",
+    "data": [
+      {
+        "text": "Wie viele Semester kann ich studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129362
+  },
+  {
+    "id": "726b4d21-fea0-4622-8773-4fabd29763e8",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Maximalstudienzeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129362
+  },
+  {
+    "id": "adc063ea-6949-4b1b-8cad-a36ca6b4c060",
+    "data": [
+      {
+        "text": "Wie lange kann ich studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129362
+  },
+  {
+    "id": "e279b4ed-26d7-4e68-85bc-ba525bc30956",
+    "data": [
+      {
+        "text": "Wie lange kann ich maximal studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129362
+  }
+]

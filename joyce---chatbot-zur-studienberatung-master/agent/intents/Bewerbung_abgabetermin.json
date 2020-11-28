@@ -1,0 +1,28 @@
+{
+  "id": "8c6390e3-f81b-4d57-bcc0-849f451e8c73",
+  "name": "Bewerbung_abgabetermin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Für das Sommersemester bis zum 15. Januar – für das Wintersemester bis zum 15. Juli."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548429963,
+  "fallbackIntent": false,
+  "events": []
+}

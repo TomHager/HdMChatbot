@@ -1,0 +1,28 @@
+{
+  "id": "57883e1c-decd-4b1b-badb-faa3c652a30f",
+  "name": "MW_technikanteil",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Innerhalb des Grundstudiums gibt es zwei Technik-Module, die Du belegen musst. In diesen Vorlesungen lernst Du die technischen Grundlagen in Hinblick auf die Medienwirtschaft. Im Hauptstudium gibt es weitere Technik-Module, welche Du wahlweise belegen kannst."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548423727,
+  "fallbackIntent": false,
+  "events": []
+}

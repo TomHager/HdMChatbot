@@ -1,0 +1,28 @@
+{
+  "id": "ec2984cb-336f-4cf6-905a-ce7dbef285f5",
+  "name": "Random_ok",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "OK"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548096495,
+  "fallbackIntent": false,
+  "events": []
+}

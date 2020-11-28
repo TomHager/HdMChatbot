@@ -1,0 +1,62 @@
+[
+  {
+    "id": "83d835ad-2df6-4083-b407-e4ede8ab7642",
+    "data": [
+      {
+        "text": "Wie heißt du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548426041
+  },
+  {
+    "id": "2e4af219-9bb1-4c11-9108-56eea2c02b40",
+    "data": [
+      {
+        "text": "Wie ist dein Name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548426041
+  },
+  {
+    "id": "d3ed57ef-767f-49d6-81d0-df28d7262e66",
+    "data": [
+      {
+        "text": "Was machst du hier?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548426041
+  },
+  {
+    "id": "2bdd7372-1019-4348-95c3-8116b6d13cfa",
+    "data": [
+      {
+        "text": "Wer bist du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548426041
+  },
+  {
+    "id": "7a5ae029-abc1-4f42-ab10-c912c12945b7",
+    "data": [
+      {
+        "text": "Was bist du ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,276 @@
+[
+  {
+    "id": "d41cd0e4-0b94-4ba9-bd07-f5254e70fc50",
+    "data": [
+      {
+        "text": "Hab dich lieb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "047acb74-88a5-4f4d-b761-2fb75e4927e3",
+    "data": [
+      {
+        "text": "Warum bist du ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " süss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f14fc0c9-32e4-4e5b-9d58-35ef1817a622",
+    "data": [
+      {
+        "text": "i love you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cb754bf-5ce3-4dd9-815c-380fa803b37f",
+    "data": [
+      {
+        "text": "Liebst du mich auch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92b3807b-4cef-44d2-aceb-7662ff4deb00",
+    "data": [
+      {
+        "text": "Ob du mich liebst",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd42f98a-27b8-406d-ab44-5f62e58b042d",
+    "data": [
+      {
+        "text": "Piep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b5feff2-e02e-430a-a001-8e51ce0cf5fd",
+    "data": [
+      {
+        "text": "Du bist süß",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20dde926-e84e-475d-a1f1-84ba713fa550",
+    "data": [
+      {
+        "text": "Du bist sehr cute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "888b49da-68d3-4c50-9432-bba588ccc4bf",
+    "data": [
+      {
+        "text": "Niedlich ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bce1a2a7-90af-45d0-9b95-fef278b29bf0",
+    "data": [
+      {
+        "text": "Das freut mich.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cb82197-c84e-4390-9f5a-8d968c4f6083",
+    "data": [
+      {
+        "text": "Na?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7af1c988-a420-45f2-9d6e-b1abc0ac22ad",
+    "data": [
+      {
+        "text": "willst du mich heiraten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "27207ba4-9d14-490b-9b3e-ac6bbf8034a1",
+    "data": [
+      {
+        "text": "du bist genial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3025ec41-13d2-48ee-8523-3248bfdd76ca",
+    "data": [
+      {
+        "text": "Ich find dich toll!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26b2c635-ceaa-4e9e-a1ea-de5951efeeea",
+    "data": [
+      {
+        "text": "ich mag dich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547028457
+  },
+  {
+    "id": "1be2eea7-408a-4938-8902-4610790e64a4",
+    "data": [
+      {
+        "text": "ich liebe dich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547028457
+  },
+  {
+    "id": "e1150d11-0fe6-42ee-b847-92a63e286c55",
+    "data": [
+      {
+        "text": "\u003c3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547028457
+  },
+  {
+    "id": "562e21cf-784e-4d91-b1f7-cf102a22fc74",
+    "data": [
+      {
+        "text": "❤️",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547028457
+  },
+  {
+    "id": "ca119238-74a4-4f12-a2e7-0a2d919807e2",
+    "data": [
+      {
+        "text": "(:",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547028201
+  },
+  {
+    "id": "84a5c431-54d4-4932-a117-0e59aa682fcf",
+    "data": [
+      {
+        "text": "😀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547028201
+  },
+  {
+    "id": "2d3b6f06-7d16-4d6a-a728-26293d27b846",
+    "data": [
+      {
+        "text": "🙂",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547028201
+  },
+  {
+    "id": "cac13cb9-7f57-49d2-9e40-98331f73243a",
+    "data": [
+      {
+        "text": "☺",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1547028201
+  }
+]

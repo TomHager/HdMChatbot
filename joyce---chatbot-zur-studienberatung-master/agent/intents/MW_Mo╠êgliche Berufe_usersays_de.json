@@ -1,0 +1,120 @@
+[
+  {
+    "id": "afdf65fa-5dc7-457d-9c37-1704efcdd053",
+    "data": [
+      {
+        "text": "Was für Berufe kann ich nach dem MW Studium machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545403625
+  },
+  {
+    "id": "c8d06910-8061-4130-8c52-c2a72e00a984",
+    "data": [
+      {
+        "text": "Welche Berufsbilder stehen am Ende ",
+        "userDefined": false
+      },
+      {
+        "text": "eines",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " MW Studiums?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545403625
+  },
+  {
+    "id": "0e15e4a4-cfb3-45e9-9725-c31e8534c0e7",
+    "data": [
+      {
+        "text": "Was kann ich mit MW später einmal machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545403625
+  },
+  {
+    "id": "ebe958ab-af81-4e4f-9969-d187ae37c5f8",
+    "data": [
+      {
+        "text": "Welchen Berufe kann ich machen, wenn ich MW studiert habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545403625
+  },
+  {
+    "id": "f77c1d6a-5055-4725-bd89-5eec488184b0",
+    "data": [
+      {
+        "text": "Spätere Berufe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545403625
+  },
+  {
+    "id": "5fcca7cc-cfdb-4c3f-ad1a-f3ac3ec57101",
+    "data": [
+      {
+        "text": "Welche Berufe kann ich später ausüben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545151191
+  },
+  {
+    "id": "ac36fbbe-8991-4dea-9c49-085e0583893c",
+    "data": [
+      {
+        "text": "Was sind mögliche Berufe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545151191
+  },
+  {
+    "id": "7faca6d2-0e87-43fc-b0a6-e87b34570e09",
+    "data": [
+      {
+        "text": "Was sind typische Berufe nach dem Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545151191
+  },
+  {
+    "id": "1253ec1b-cc0a-478f-bd7b-ccdbe45efb54",
+    "data": [
+      {
+        "text": "Was sind mögliche Berufe, die ich nach dem Studium ausüben kann?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545151191
+  }
+]

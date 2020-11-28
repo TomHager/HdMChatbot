@@ -1,0 +1,33 @@
+{
+  "id": "ea053a56-9207-488b-9552-6ffdfa0e8747",
+  "name": "Allgemein_Was sind allgemeine Vorteile eines Studiums?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du kannst Dein Studium durch Kurswahlen an Deine eigenen Bedürfnisse und Wünsche anpassen und erlangst neues, umfangreiches Wissen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Durch eine höhere Qualifizierung steigen Deine Karriere- und Verdienstmöglichkeiten. Außerdem bietet ein Studium Dir die Möglichkeit, Deinen Alltag durch viele Freizeitangebote (z.B. Sport) frei und flexibel zu gestalten."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640728,
+  "fallbackIntent": false,
+  "events": []
+}

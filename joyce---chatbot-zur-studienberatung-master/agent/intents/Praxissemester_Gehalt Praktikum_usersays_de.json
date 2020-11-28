@@ -1,0 +1,131 @@
+[
+  {
+    "id": "f94a2cf8-1d8d-481e-acfb-dac8a281afb9",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Gehalt für das Praktikum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559360
+  },
+  {
+    "id": "41543956-b326-47bf-b048-ace2e4a46011",
+    "data": [
+      {
+        "text": "Gehalt für Praktikum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559360
+  },
+  {
+    "id": "959c6cb4-67f5-47c1-b8ae-4664775f2f02",
+    "data": [
+      {
+        "text": "Money für Praktikumsstelle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559360
+  },
+  {
+    "id": "6265d393-9488-4901-8f6d-bb450a351b8e",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Anhaltspunkt für das Gehalt ",
+        "userDefined": false
+      },
+      {
+        "text": "eines",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikanten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658547
+  },
+  {
+    "id": "d0ef54db-0357-4519-87bd-085b345c0bb5",
+    "data": [
+      {
+        "text": "Wird ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikum vergütet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658547
+  },
+  {
+    "id": "a5b6f7ab-5ccb-46fc-8d15-c9e7cb997f6f",
+    "data": [
+      {
+        "text": "Wie viel verdient man als Praktikant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658547
+  },
+  {
+    "id": "e84550db-db8d-4422-8dbd-62f9a18a0a81",
+    "data": [
+      {
+        "text": "Wie hoch ist in der Regel die Bezahlung ",
+        "userDefined": false
+      },
+      {
+        "text": "eines",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikums bzw. sollte sie mindestens sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658547
+  }
+]

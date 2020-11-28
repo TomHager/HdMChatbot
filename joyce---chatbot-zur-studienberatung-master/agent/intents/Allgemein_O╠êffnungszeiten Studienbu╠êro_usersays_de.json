@@ -1,0 +1,98 @@
+[
+  {
+    "id": "e83e9219-cf4b-41d9-8e2b-3846bd1c9413",
+    "data": [
+      {
+        "text": "Ich will mich immatrikulieren, an wen wende ich mich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038707
+  },
+  {
+    "id": "b52dbf52-708b-40db-a3ce-f54def3e1595",
+    "data": [
+      {
+        "text": "An wende ich mich, wenn ich mich immatrikulieren will",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038707
+  },
+  {
+    "id": "0128e54a-605e-4940-ac41-cb0acf315069",
+    "data": [
+      {
+        "text": "Zu welchen Zeiten kann ich mich im Studienbüro immatrikulieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038678
+  },
+  {
+    "id": "e279c195-c3a7-4696-8983-0526824ecef1",
+    "data": [
+      {
+        "text": "Wo kann ich mich wann immatrikulieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038678
+  },
+  {
+    "id": "85cf53c2-6df2-4412-98b5-94f1dda8de5c",
+    "data": [
+      {
+        "text": "Wann hat das Studienbüro geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038678
+  },
+  {
+    "id": "12a124cc-882e-47e7-80d4-2e5d1540df9e",
+    "data": [
+      {
+        "text": "Öffnungszeiten des Studienbüros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038678
+  },
+  {
+    "id": "a2cf9e1c-b88c-440e-8943-07d0421917e4",
+    "data": [
+      {
+        "text": "Wann kann ich mich immatrikulieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038678
+  },
+  {
+    "id": "76c0d57b-0fa0-4710-a020-eb2f1adfae9f",
+    "data": [
+      {
+        "text": "Wann ist das Studienbüro während der Immatrikulationszeit geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547038678
+  }
+]

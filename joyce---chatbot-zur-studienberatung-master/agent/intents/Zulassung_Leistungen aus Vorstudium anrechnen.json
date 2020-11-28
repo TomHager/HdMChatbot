@@ -1,0 +1,45 @@
+{
+  "id": "990ebc53-b5ff-476a-b640-1c5a84153651",
+  "name": "Zulassung_Leistungen aus Vorstudium anrechnen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5757b3e0-ee53-4d25-aecc-d5f1b2053beb",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "264e8fe3-76e1-4470-9c53-7ba4ad5dcf65",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Grundsätzlich kannst Du Dir Studienleistungen aus einem vorherigen Studium anrechnen lassen. \nWelche Leistungen angerechnet werden können, erfährst Du beim Studiendekan/in Deines Wunschstudienganges an der HdM. \nEinen Antrag auf Anrechnung kannst Du innerhalb von 8 Wochen nach Aufnahme Deines Studiums an der HdM stellen. (Wenn Du viele anrechenbare Leistungen hast, kannst Du überlegen, ob Du Dich auf ein höheres Fachsemester bewerben möchtest)\nTipp: Vergleiche die Modulbeschreibungen Deines alten Studiengangs mit denen des Studiengangs an der HdM – achte hier besonders auf die Kompetenzprofile. So bekommst Du eine ungefähre Ahnung, ob eine Anrechnung wahrscheinlich ist. \nWeitere Infos zum Thema Anrechnung von Studienleistungen kannst Du auf folgender Webseite nachlesen: \nhttps://www.hdm-stuttgart.de/studieninteressierte/bewerber/studienfachwechsel"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547694466,
+  "fallbackIntent": false,
+  "events": []
+}

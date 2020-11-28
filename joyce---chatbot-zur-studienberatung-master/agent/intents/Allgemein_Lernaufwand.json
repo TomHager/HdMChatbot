@@ -1,0 +1,37 @@
+{
+  "id": "ebb3d202-0bfe-425e-a2f4-3c674ff31d8b",
+  "name": "Allgemein_Lernaufwand",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cee62929-258f-467a-a3bd-f1ce34f451a9",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Diese Frage ist sehr pauschal. Im Studium steht in erster Linie das wissenschaftliche Lernen und Forschen im Vordergrund. Für ein Studium an der Hochschule gilt: Je weiter das Studium voranschreitet, desto mehr wird versucht projektorientiert und damit auch praktisch zu arbeiten, um das erlernte Wissen anwenden zu können."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547654906,
+  "fallbackIntent": false,
+  "events": []
+}

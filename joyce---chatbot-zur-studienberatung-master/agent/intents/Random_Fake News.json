@@ -1,0 +1,41 @@
+{
+  "id": "4c0efc8b-15a7-4105-b4a0-2a0997dee703",
+  "name": "Random_Fake News",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aa6290a7-0b19-430e-bba4-aa4f02257b4b",
+          "dataType": "@Beleidigung",
+          "name": "Beleidigung",
+          "value": "$Beleidigung",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du glaubst mir nicht?"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Schade!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547733433,
+  "fallbackIntent": false,
+  "events": []
+}

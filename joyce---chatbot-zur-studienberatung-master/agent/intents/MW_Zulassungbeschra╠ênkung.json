@@ -1,0 +1,47 @@
+{
+  "id": "f50e5b86-ef0f-4b5a-9782-1b8e72cd89fc",
+  "name": "MW_Zulassungbeschränkung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ef4e7a27-ca67-4f44-ae3d-f9e179bc5b98",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das MW Studium ist zulassungsbeschränkt. Um zu ermitteln wer zum Studium zugelassen wird, werden drei Kriterien miteinander zu einer sog. Verfahrensnote verrechnet."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Diese setzt sich zusammen aus: 1. der Menge an Bewerbungen (wie viele Leute bewerben sich) 2. der Güte der Bewerbern (wie gut sind die Noten der Leute, die sich bewerben) und 3. der Annahmequote (diese hängt davon ab, wie viel % aller Studienplätze zuvor für Härtefälle wie Studierende mit Behinderung etc. reserviert werden)."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Diese Kriterien variieren von Semester zu Semester, weshalb es nicht möglich ist, konkreter Informationen zu geben. Es lässt sich allerdings sagen, dass im Sommersemester die Verfahrensnote niedriger ist, als im Wintersemester. In der Satzung der Hochschule sind weitere Infos detailliert aufgelistet: https://www.hdm-stuttgart.de/studieninteressierte/bewerber/zulassung/auswahlsatzung_BA.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546983599,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "176b88ed-34cb-4fcf-8a25-99c60b3829c4",
+    "data": [
+      {
+        "text": "Ich habe mein Ausbildungszeugnis noch nicht, kann ich es nachreichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625030
+  },
+  {
+    "id": "7f441e12-7ab4-42d9-b4a1-6b5c89c1233e",
+    "data": [
+      {
+        "text": "Kann ich mein vorläufiges Ausbildungszeugnis nutzen ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625030
+  },
+  {
+    "id": "6e4b50ca-92c1-45f3-b69e-e9a42b502279",
+    "data": [
+      {
+        "text": "Reicht ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vorläufiges Zeugnis der IHK oder HK?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909680
+  },
+  {
+    "id": "aff512cf-7876-4466-9fb8-cc3614314a99",
+    "data": [
+      {
+        "text": "Kann ich für die Bewerbung ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vorläufiges Ausbildungszeugnis abgeben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909680
+  },
+  {
+    "id": "99bae74c-422b-4fff-8e6d-686693458f4c",
+    "data": [
+      {
+        "text": "Ich bekomme mein Ausbildungszeugnis erst nach der Bewerbungsfrist, kann ich dieses noch nachreichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909680
+  },
+  {
+    "id": "7592dcdb-c7d7-472b-b46c-facb450e17b6",
+    "data": [
+      {
+        "text": "Ich erhalte mein Ausbildungszeugnis vermutlich erst kurz nach der Bewerbungsfrist. Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vorläufige Bescheinigung über meinen bevorstehenden Ausbildungsabschluss einreichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909680
+  }
+]

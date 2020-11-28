@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9745ca68-b7af-4b3c-8767-0272abaf50fc",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546906555
+  },
+  {
+    "id": "59657c29-0a80-476c-b03a-f2d2913e26b9",
+    "data": [
+      {
+        "text": "Ciao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546906555
+  },
+  {
+    "id": "a2fa64af-bb05-4d41-9b42-f16e16d5b471",
+    "data": [
+      {
+        "text": "Tschüss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546906555
+  }
+]

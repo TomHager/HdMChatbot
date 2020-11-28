@@ -1,0 +1,161 @@
+[
+  {
+    "id": "c7916799-1c61-4a0c-a51d-9b9b0473426f",
+    "data": [
+      {
+        "text": "Praktikum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311800
+  },
+  {
+    "id": "3fc30d95-d83c-40f9-82be-f49c72f6d43c",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " feste Dauer ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546558929
+  },
+  {
+    "id": "37bafa87-d2bc-4b70-89ef-dc202266fc7b",
+    "data": [
+      {
+        "text": "Wie lang kann ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praxissemester dauern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546558929
+  },
+  {
+    "id": "7b560467-6b98-4f65-b9a0-0893b878bbde",
+    "data": [
+      {
+        "text": "Dauer Praxissemester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545853994
+  },
+  {
+    "id": "b69d191d-ce86-4885-9408-676f779d1ca6",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praxissemester auf mehrere Stellen aufteilen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545516270
+  },
+  {
+    "id": "e48cd671-9e8a-4125-bee6-f4e4d58fc23a",
+    "data": [
+      {
+        "text": "Wie viele ",
+        "userDefined": false
+      },
+      {
+        "text": "Wochen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " geht ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praxisssemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545516270
+  },
+  {
+    "id": "e4829b8c-dbe4-46e7-87d9-697f427d8fe0",
+    "data": [
+      {
+        "text": "Wie lange geht ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545516270
+  },
+  {
+    "id": "2da68837-b15b-406f-9a77-517aa694fb08",
+    "data": [
+      {
+        "text": "Wie lange dauert das Praktische Studiensemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545516270
+  }
+]

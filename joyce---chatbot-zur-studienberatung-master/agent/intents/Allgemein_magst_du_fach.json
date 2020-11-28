@@ -1,0 +1,28 @@
+{
+  "id": "cbc2d4d3-f1ff-493a-bfbb-24d211e3f20b",
+  "name": "Allgemein_magst_du_fach",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Mir gefallen alle Fächer 😉"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548095418,
+  "fallbackIntent": false,
+  "events": []
+}

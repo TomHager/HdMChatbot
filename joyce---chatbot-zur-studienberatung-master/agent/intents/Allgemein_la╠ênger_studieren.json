@@ -1,0 +1,36 @@
+{
+  "id": "b8c3ed63-5532-4fcd-9a84-80135d012a1d",
+  "name": "Allgemein_länger_studieren",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "da367c5b-b962-4dca-859f-7c02d6eedb7b",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Viele Studierende sind erst nach 8 oder 9 Semestern fertig. Das ist also überhaupt kein Problem :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548692141,
+  "fallbackIntent": false,
+  "events": []
+}

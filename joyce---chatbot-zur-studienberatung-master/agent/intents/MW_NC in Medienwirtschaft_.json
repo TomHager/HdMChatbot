@@ -1,0 +1,48 @@
+{
+  "id": "27655321-fb82-4b92-a300-afd194d7a2bd",
+  "name": "MW_NC in Medienwirtschaft?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "NCinMedienwirtschaft-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e4fb7b04-77c3-4ef5-80a3-9160692e512a",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "An der Hochschule der Medien gibt es keine Bewerbungsvoraussetzung in Form eines Numerus Clausus. Allerdings wird auf Grund der hohen Bewerber Zahlen im Studiengang Medienwirtschaft auch auf die Noten geschaut."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Im vergangenen Wintersemester lag die durchschnittliche Verfahrensnote bei 1,8 und 2,2 im Sommersemester. Auch wenn Deine Noten nicht dieser Note entsprechen, solltest Du Dich trotzdem bewerben, da noch weitere Faktoren für die Zulassung entscheidend sind und es Möglichkeiten gibt, Deine Verfahrensnote zu verbessern."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546983385,
+  "fallbackIntent": false,
+  "events": []
+}

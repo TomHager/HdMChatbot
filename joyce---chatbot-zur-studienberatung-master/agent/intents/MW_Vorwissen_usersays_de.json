@@ -1,0 +1,274 @@
+[
+  {
+    "id": "f6a9c41b-d790-481d-8db4-8c88d44d1f43",
+    "data": [
+      {
+        "text": "was muss ich für Begabungen haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f68ca36-e45f-4dbf-a633-af2c2c30b9c4",
+    "data": [
+      {
+        "text": "Was muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " für das medienwirtschaft studium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "becb3440-9b65-413b-8e86-74052fb70129",
+    "data": [
+      {
+        "text": "was sind die vorrausetzungen für das studium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b668776a-89e7-4011-8199-a1a59a57b8e0",
+    "data": [
+      {
+        "text": "Muss ich Vorkenntnisse mitbringen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a6869e4-52a2-49b0-a2cc-1230d16b2569",
+    "data": [
+      {
+        "text": "Wo sollten meine Stärken liegen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547653714
+  },
+  {
+    "id": "f8fd807f-273e-4042-a0cf-713abe279652",
+    "data": [
+      {
+        "text": "Muss ich irgend welche Vorkenntnisse haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ea21d7b-ed6a-4db3-a381-ff8b239befc2",
+    "data": [
+      {
+        "text": "Muss ich Vorkenntnisse haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bacd3a24-e5b3-4dfa-82ab-7026e22bb7ef",
+    "data": [
+      {
+        "text": "Was für Stärken muss ich haben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e1fc543-fe67-4df3-8659-3bbad77c2a4b",
+    "data": [
+      {
+        "text": "welche vorkenntnisse benötige ich ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " mw studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "598c4b17-4b17-425b-bdff-7fdcc53032fc",
+    "data": [
+      {
+        "text": "was muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " mw studium können?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04a6f331-8be0-47c8-b8b0-d76deb96cfe5",
+    "data": [
+      {
+        "text": "Was ist besonders wichtig zu ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ", wenn man MW studieren möchte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405286
+  },
+  {
+    "id": "99f703e3-0a1f-4234-b67b-8c86e08557a1",
+    "data": [
+      {
+        "text": "Welche Art von Vorwissen brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " MW Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405286
+  },
+  {
+    "id": "6463db9e-92f8-4496-8d1d-b34f77041120",
+    "data": [
+      {
+        "text": "Vorwissen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405286
+  },
+  {
+    "id": "3becec54-6474-4e9d-b4d0-9df8492e534a",
+    "data": [
+      {
+        "text": "Brauche ich spezielles ",
+        "userDefined": false
+      },
+      {
+        "text": "Wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150087
+  },
+  {
+    "id": "f25aa80e-7329-4c30-a316-c3673a791a8a",
+    "data": [
+      {
+        "text": "Was sollte ich an ",
+        "userDefined": false
+      },
+      {
+        "text": "Wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mitbringen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150087
+  },
+  {
+    "id": "206cad90-ff72-4567-a787-2ed46d280af3",
+    "data": [
+      {
+        "text": "Brauche ich Vorwissen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150087
+  },
+  {
+    "id": "a2792632-5e05-40ea-a11b-cb13cfc905e7",
+    "data": [
+      {
+        "text": "Benötige ich Vorwissen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150087
+  }
+]

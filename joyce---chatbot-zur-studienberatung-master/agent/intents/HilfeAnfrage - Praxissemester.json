@@ -1,0 +1,33 @@
+{
+  "id": "e38cfd07-b904-4dd3-bac4-c4bbeb6609c0",
+  "parentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "rootParentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "name": "HilfeAnfrage - Praxissemester",
+  "auto": true,
+  "contexts": [
+    "HilfeAnfrage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HilfeAnfrage.HilfeAnfrage-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hier sind ein paar Beispielfragen zum Thema Praxissemester:\n-Woraus setzt sich das Praktische Studiensemester zusammen?-\n-Wie bekomme ich einen Praktikumsplatz?-\n-Wie lange dauert das Praktische Studiensemester?-\n-Wie hoch ist in der Regel die Bezahlung eines Praktikums bzw. sollte sie mindestens sein?-\n-Bekomme ich während des Praxissemesters weiterhin BAFöG?-"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546690064,
+  "fallbackIntent": false,
+  "events": []
+}

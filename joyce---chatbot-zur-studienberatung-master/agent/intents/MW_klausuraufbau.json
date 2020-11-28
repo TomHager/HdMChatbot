@@ -1,0 +1,28 @@
+{
+  "id": "09da6651-bae5-4c6a-a187-6b75ac2e3f2c",
+  "name": "MW_klausuraufbau",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Eine einheitliche Klausurform gibt es im Studiengang Medienwirtschaft nicht, diese sind jeweils von Modul zu Modul unterschiedlich aufgebaut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548418588,
+  "fallbackIntent": false,
+  "events": []
+}

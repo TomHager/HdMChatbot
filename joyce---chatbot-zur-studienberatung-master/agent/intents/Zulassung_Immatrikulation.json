@@ -1,0 +1,37 @@
+{
+  "id": "2283e710-19d9-479c-b149-9371989d3159",
+  "name": "Zulassung_Immatrikulation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a56653eb-a3fd-42c6-a966-c1913588bca0",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Auf Deinem Zulassungsbescheid findest Du den Zeitraum für die Einschreibung – und welche Schritte Du vorher noch erledigen musst. Wichtig ist, dass Du zur Einschreibung persönlich vorbeikommen musst. Wenn Du die Frist nicht einhältst, ist Dein Studienplatz leider weg."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547694220,
+  "fallbackIntent": false,
+  "events": []
+}

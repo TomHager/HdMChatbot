@@ -1,0 +1,28 @@
+{
+  "id": "3122131d-c9c9-4eba-ae79-ff8bd8a160ef",
+  "name": "MW_Wie praxisnah ist das Studium ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Am Anfang des Studiums sind die Vorlesungen theorielastiger, um wichtige Grundlagen zu vermitteln. Je weiter Du im Studium kommst gibt es gerade ab dem Hauptstudium viele Projekt- und Gruppenarbeiten, in denen sehr praktisch gearbeitet wird. Zudem gibt es im fünften Semester das Praxissemester, in dem du ein Praktikum in einem Unternehmen absolvierst. Schau Dir dazu gerne auch die Informationen auf der MW Internetseite an: https://mw.hdm-stuttgart.de/medienwirtschaft/bew/studieninhalte/studienverlauf/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547654762,
+  "fallbackIntent": false,
+  "events": []
+}

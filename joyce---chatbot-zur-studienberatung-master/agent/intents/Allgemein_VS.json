@@ -1,0 +1,28 @@
+{
+  "id": "c6adccef-9247-429c-b3b3-4d9b2e0e00d7",
+  "name": "Allgemein_VS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ja, es gibt die verfasste Studierendenschaft. Hier erfährst du mehr: vs.hdm-stuttgart.de"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548429100,
+  "fallbackIntent": false,
+  "events": []
+}

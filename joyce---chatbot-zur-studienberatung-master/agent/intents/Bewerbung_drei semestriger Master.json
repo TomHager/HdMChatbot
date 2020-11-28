@@ -1,0 +1,50 @@
+{
+  "id": "c9624f19-8ef1-41e6-96e5-64925a1f7527",
+  "name": "Bewerbung_drei semestriger Master",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0fcd2080-aae9-4ba8-8a29-e9184700e1f9",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "7663498b-2469-47ec-9b1d-b3d94d80f17c",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Masterprogramme an der HdM bauen auf Bachelorabschlüssen mit 210 ECTS auf. Du kannst Dich auch mit einem Bachelor mit 180 ECTS für einen Master an der HdM bewerben – allerdings musst Du dann Angleichungsleistungen von 30 ECTS erbringen (die „fehlenden“ Credits also aufholen)."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wie genau das mit den Angleichungsleistungen funktioniert und welche Möglichkeiten es für Dich gibt, darüber kann Dir dein Wunsch-Studiengang Auskunft geben. Die Kontaktdaten findest Du hier: https://www.hdm-stuttgart.de/studieninteressierte/studium/master"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547719283,
+  "fallbackIntent": false,
+  "events": []
+}

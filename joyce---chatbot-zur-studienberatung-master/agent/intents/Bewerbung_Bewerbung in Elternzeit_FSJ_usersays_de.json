@@ -1,0 +1,154 @@
+[
+  {
+    "id": "27a7a0ec-f230-43a0-bc62-242148983741",
+    "data": [
+      {
+        "text": "Bewerbung trotz Elternzeit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545863862
+  },
+  {
+    "id": "8f37abd6-3430-4a6d-8bc8-50e648aa230c",
+    "data": [
+      {
+        "text": "Bewerbung trotz FSJ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545863862
+  },
+  {
+    "id": "48e4a61e-66d4-4401-b6b3-7ffbb95df344",
+    "data": [
+      {
+        "text": "Ich mache ",
+        "userDefined": false
+      },
+      {
+        "text": "gerade",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time1",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " FSJ kann ich mich trotzdem ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "alias": "time2",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studium bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545863862
+  },
+  {
+    "id": "58ffbcd0-f312-4ad0-bfa5-bb6741b183e2",
+    "data": [
+      {
+        "text": "Kann ich mich auch bewerben wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "gerade",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " in Elternzeit bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545863862
+  },
+  {
+    "id": "876cd2a4-1f5b-45cb-9bea-f804d45fb501",
+    "data": [
+      {
+        "text": "Wenn ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "gerade",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " in Elternzeit befinde, kann ich mich trotzdem bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545863862
+  },
+  {
+    "id": "929003b9-4ac3-41bd-ac08-42fdb47defaf",
+    "data": [
+      {
+        "text": "Ich beginne ",
+        "userDefined": false
+      },
+      {
+        "text": "jetzt",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " mit ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "alias": "time1",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " FSJ/bin in Elternzeit. Kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "jetzt",
+        "alias": "time2",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " schon für das Studium bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545863862
+  }
+]

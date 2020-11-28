@@ -1,0 +1,122 @@
+[
+  {
+    "id": "b905ee40-a130-46aa-80e4-89299bbe240d",
+    "data": [
+      {
+        "text": "Zeige mir das Sprachkursangebot an der HdM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545408230
+  },
+  {
+    "id": "10c30cf9-31a5-48a0-824b-70e571e0c9a7",
+    "data": [
+      {
+        "text": "Gibt es Angebote zur sprachlichen Weiterbildung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545408230
+  },
+  {
+    "id": "1c16e1c0-da7e-4380-ba8f-7cf86af8533e",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " neue Sprache an der HdM lernen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545408230
+  },
+  {
+    "id": "d90fffe0-f4c8-40ee-9f1d-304c6cbe064e",
+    "data": [
+      {
+        "text": "Sprachkurse an der HdM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545408230
+  },
+  {
+    "id": "c64ea2d5-c88d-4146-84e7-a7a43e976622",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Fremdsprache erlernen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545148964
+  },
+  {
+    "id": "fe71009c-9e4f-40ae-8b59-2aab588e0582",
+    "data": [
+      {
+        "text": "Kann ich Sprachen erlernen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545148964
+  },
+  {
+    "id": "a9aed95c-4161-4bd8-8d69-684c4ca83992",
+    "data": [
+      {
+        "text": "Gibt es Sprachkurse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545148964
+  },
+  {
+    "id": "47dde146-3912-4bdb-b249-eab29fdcf7e4",
+    "data": [
+      {
+        "text": "Welches",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Sprachkursangebot bietet die Hochschule der Medien?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545148964
+  }
+]

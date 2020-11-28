@@ -1,0 +1,125 @@
+[
+  {
+    "id": "2e44022f-db73-435b-ad97-7d5cf1fb3f4c",
+    "data": [
+      {
+        "text": "Was lernt man im Hauptstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b071153a-df37-462f-8140-2625f05789db",
+    "data": [
+      {
+        "text": "Was gibt es zum Hauptstudium MW zu ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560676
+  },
+  {
+    "id": "bc3aa26c-1f4d-49cd-bbc2-14b863258194",
+    "data": [
+      {
+        "text": "Was passiert während dem Hauptstudium in Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560676
+  },
+  {
+    "id": "c718ee7d-732a-436a-a48d-aec0becd5055",
+    "data": [
+      {
+        "text": "Hauptstudium MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560676
+  },
+  {
+    "id": "82ed5ac1-1811-4b60-aa94-e1a818deb0bb",
+    "data": [
+      {
+        "text": "Was gibt es zum Hauptstudium zu ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690553
+  },
+  {
+    "id": "612bcb78-ff75-4570-acb2-b7108c270715",
+    "data": [
+      {
+        "text": "Was lerne ich im Hauptstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690553
+  },
+  {
+    "id": "647bbb80-9f94-4e7f-8a52-e0c6539ed836",
+    "data": [
+      {
+        "text": "Was wird im Hauptstudium an ",
+        "userDefined": false
+      },
+      {
+        "text": "Wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " erworben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690553
+  },
+  {
+    "id": "c5cdc08a-d7e0-49df-8f52-67cd92bb8ca0",
+    "data": [
+      {
+        "text": "Was passiert im Hauptstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690553
+  }
+]

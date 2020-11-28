@@ -1,0 +1,33 @@
+{
+  "id": "1c8f148b-80a7-444f-9898-c498f0ac7757",
+  "parentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "rootParentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "name": "HilfeAnfrage - Studieninhalte",
+  "auto": true,
+  "contexts": [
+    "HilfeAnfrage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HilfeAnfrage.HilfeAnfrage-Studieninhalte",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hier sind ein paar Beispielfragen zum Thema Studieninhalte:\n-Wie ist das MW Studium aufgebaut?-\n-Wie viel Mathe ist im Studium enthalten?-\n-Welchen Umfang hat eine Bachelorarbeit?-\n-Wie verläuft das Studium?-\n-Wie läuft das Grundstudium ab?-"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546689812,
+  "fallbackIntent": false,
+  "events": []
+}

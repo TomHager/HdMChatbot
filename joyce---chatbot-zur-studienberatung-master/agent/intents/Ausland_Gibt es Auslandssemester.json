@@ -1,0 +1,45 @@
+{
+  "id": "dfe3ec64-caca-4ca0-afa2-5ddd5c758b82",
+  "name": "Ausland_Gibt es Auslandssemester",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "82cae78b-7136-474c-af87-617a14f7db1c",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "1cb96e44-41a0-4ebe-8d8c-f66d5af284b9",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ja. Die HdM unterstützt Studierende dabei, einen Studienaufenthalt im Ausland zu planen. Ob Du das aber machst oder nicht, ist ganz Deiner eigenen Entscheidung überlassen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547313813,
+  "fallbackIntent": false,
+  "events": []
+}

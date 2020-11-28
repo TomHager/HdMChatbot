@@ -1,0 +1,110 @@
+[
+  {
+    "id": "0c94ed41-5d58-42e2-abdd-fa443dd94b96",
+    "data": [
+      {
+        "text": "finde ich Freunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548408790
+  },
+  {
+    "id": "cc54db83-497c-4e62-ad48-b7c31487e961",
+    "data": [
+      {
+        "text": "Finde ich schnell freunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548408790
+  },
+  {
+    "id": "17c2b346-54ec-4096-b4c9-ab509279ed5e",
+    "data": [
+      {
+        "text": "Finde ich hier schnell Freunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548408790
+  },
+  {
+    "id": "c288c40b-5ae5-4a3e-826a-b851debf2de9",
+    "data": [
+      {
+        "text": "Finde ich schnell anschluss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548408790
+  },
+  {
+    "id": "f44595f4-f3ae-4b98-a688-3c9e4de1ef5e",
+    "data": [
+      {
+        "text": "Findet man schnell anschluss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548408790
+  },
+  {
+    "id": "ce9b4915-1efb-4743-a3bb-f358d24cefea",
+    "data": [
+      {
+        "text": "Sind die anderen Studenten nett?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548408790
+  },
+  {
+    "id": "93364600-d971-4bc4-9499-22e4466e63cd",
+    "data": [
+      {
+        "text": "Wie sind die anderen Studenten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548408790
+  },
+  {
+    "id": "a820d34b-02af-493f-a60d-7432be53ec3e",
+    "data": [
+      {
+        "text": "Sind die Kommilitonen nett?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548408790
+  },
+  {
+    "id": "fdc53f04-58e3-4637-b572-636ab4fa58a3",
+    "data": [
+      {
+        "text": "Sind die Leute nett?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

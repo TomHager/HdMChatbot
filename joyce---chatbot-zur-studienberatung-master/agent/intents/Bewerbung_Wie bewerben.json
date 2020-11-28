@@ -1,0 +1,28 @@
+{
+  "id": "31587614-88e1-4eb9-92f4-a7f6183f7b09",
+  "name": "Bewerbung_Wie bewerben",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Informationen zu allgemeinen Bewerbungsfristen und dem genauen Bewerbungsverfahren findest Du hier: https://www.hdm-stuttgart.de/studieninteressierte/bewerber/bewerbung"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548418724,
+  "fallbackIntent": false,
+  "events": []
+}

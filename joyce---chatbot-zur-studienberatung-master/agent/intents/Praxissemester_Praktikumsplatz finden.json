@@ -1,0 +1,37 @@
+{
+  "id": "b98bb24b-a209-469c-aca0-2464be2ecb7f",
+  "name": "Praxissemester_Praktikumsplatz finden",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7740f3c4-4eac-488a-88bb-b98fd9ca0b43",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du musst Dich selbstständig um einen Praktikantenplatz bemühen und rechtzeitig (min. sechs Monate vor Beginn des Praktikums) beginnen, Bewerbungen zu schreiben. Die Praktikumsdatenbank und die Jobbörsen der HdM können Dir bei der Suche und der Auswahl des Praktikumsplatzes helfen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547714479,
+  "fallbackIntent": false,
+  "events": []
+}

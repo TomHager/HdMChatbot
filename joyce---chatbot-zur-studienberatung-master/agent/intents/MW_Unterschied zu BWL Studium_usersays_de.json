@@ -1,0 +1,125 @@
+[
+  {
+    "id": "0ec30262-ea8b-42a0-9008-7b5772228ce9",
+    "data": [
+      {
+        "text": "Wie unterscheiden sich BWL und Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545404717
+  },
+  {
+    "id": "a1b98052-9150-49fa-816c-0746d6ee0e2a",
+    "data": [
+      {
+        "text": "Warum sollte ich MW und nicht BWL studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545404717
+  },
+  {
+    "id": "1ef46cea-52dc-4875-982c-471fd9342781",
+    "data": [
+      {
+        "text": "Wo liegen die Unterschiede zwischen BWL und MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545404717
+  },
+  {
+    "id": "dd4924ea-f3bf-4b92-b660-509ead3669db",
+    "data": [
+      {
+        "text": "Nenne mir Unterschiede zum BWL Studium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545404717
+  },
+  {
+    "id": "714f7252-4296-4ab3-bd88-f22971a2df8e",
+    "data": [
+      {
+        "text": "Unterschied BWL und Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150352
+  },
+  {
+    "id": "cc61c237-7cda-43fc-bb52-426331ffe10f",
+    "data": [
+      {
+        "text": "Was unterscheidet Medienwirtschaft und ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " BWL Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150352
+  },
+  {
+    "id": "4bdf2f83-8724-42ac-a8be-82e43bb1f4d6",
+    "data": [
+      {
+        "text": "Was ist der Unterschied ",
+        "userDefined": false
+      },
+      {
+        "text": "zu einem",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " BWL Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150352
+  },
+  {
+    "id": "7774efb8-c097-4849-81eb-872c25ef8145",
+    "data": [
+      {
+        "text": "Was sind die Unterschiede ",
+        "userDefined": false
+      },
+      {
+        "text": "zu einem",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reinen BWL Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150352
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "0905a6dd-8a54-4bd1-add2-32217208f151",
+    "data": [
+      {
+        "text": "Bis wann kann ich meinen Nachweis zur Deutsch-Prüfung nachreichen ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625199
+  },
+  {
+    "id": "2ca81ff0-2daa-48eb-a488-34e32aad7b70",
+    "data": [
+      {
+        "text": "Wie lange kann ich meine Deutsch-Prüfung nachreichen ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625199
+  },
+  {
+    "id": "d92202ff-69ae-4a2c-b4e7-a4a0ac3b88e3",
+    "data": [
+      {
+        "text": "Kann ich mich erstmal ohne Deutsch-Prüfung einschreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909474
+  },
+  {
+    "id": "40d9d599-0ccf-4e49-955c-7baf3b14023b",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Frist für den Nachweis der Deutsch-Prüfung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909474
+  },
+  {
+    "id": "a5233d05-d3f3-4e99-8dc6-783a0c422c03",
+    "data": [
+      {
+        "text": "Wann sollte ich den Nachweis über meine Deutsch-Prüfung spätestens abgeben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909474
+  },
+  {
+    "id": "ea385674-5dca-49c0-8d14-43b0ea4897d9",
+    "data": [
+      {
+        "text": "Bis wann kann ich den Nachweis über meine Deutsch-Prüfung einreichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909474
+  }
+]

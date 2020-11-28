@@ -1,0 +1,118 @@
+[
+  {
+    "id": "eadf2159-e07b-487d-8075-d359d52daf95",
+    "data": [
+      {
+        "text": "wann bekommt man rückmeldung zur bewerbung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48efe290-addd-4be6-bc81-1915530f0092",
+    "data": [
+      {
+        "text": "wann bekommt man ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " zusage oder absage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a966a5b9-4158-4399-97c4-2ce084354493",
+    "data": [
+      {
+        "text": "Gib mir ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Update zum Stand meiner Bewerbung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906195
+  },
+  {
+    "id": "caf29c7d-e2e4-4ef7-b472-0ea04297bb91",
+    "data": [
+      {
+        "text": "Wo kann ich mich über den aktuellen Stand meiner Bewerbung informieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906195
+  },
+  {
+    "id": "600e60e2-8018-45ce-8f8d-9b396129510f",
+    "data": [
+      {
+        "text": "Wie sehe ich wie weit meine Bewerbung im Verfahren ist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906195
+  },
+  {
+    "id": "1e3f30b5-5e7e-4368-ac7d-fd10bbee01f7",
+    "data": [
+      {
+        "text": "Wie kann ich den Stand meiner Bewerbung einsehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906195
+  },
+  {
+    "id": "97a7b057-faa1-4d4a-bd6a-c94c17985192",
+    "data": [
+      {
+        "text": "Stand der Bewerbung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906195
+  },
+  {
+    "id": "125a94dc-f395-4ece-9f56-0f6ed8bf1d10",
+    "data": [
+      {
+        "text": "Wie kann ich mich über den aktuellen Stand meiner Bewerbung informieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906195
+  }
+]

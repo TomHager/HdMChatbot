@@ -1,0 +1,96 @@
+[
+  {
+    "id": "741de982-7ee9-4424-abb2-46bdf7458eea",
+    "data": [
+      {
+        "text": "Welchen Ruf hat die HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548429761
+  },
+  {
+    "id": "e4347ace-2c6d-42b9-a0ce-48a0279a30ad",
+    "data": [
+      {
+        "text": "Ruf der HdM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548340603
+  },
+  {
+    "id": "40ffdf02-8d75-4365-9c5d-6311b468ccb9",
+    "data": [
+      {
+        "text": "Wie gut ist die Lehre an der Hochschule der Medien?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548340603
+  },
+  {
+    "id": "5611fe32-53e1-432c-bb9d-c6aaaa2c8e0b",
+    "data": [
+      {
+        "text": "Wo steht die Hochschule in deutschlandweiten Rankings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548340603
+  },
+  {
+    "id": "5a4b269e-9965-4666-ac5d-19d7d3a9aef0",
+    "data": [
+      {
+        "text": "Wie ist die Hochschule im Vergleich zu anderen Hochschulen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548340603
+  },
+  {
+    "id": "5285d275-3e62-447c-aadf-59601c6e0154",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " besonders an der Hochschule der medien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3668dad6-dabd-4d6b-bec0-dd39fd1a8978",
+    "data": [
+      {
+        "text": "Ist die Hochschule gut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548340603
+  }
+]

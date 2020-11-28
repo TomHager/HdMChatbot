@@ -1,0 +1,37 @@
+{
+  "id": "efd9b78a-5adb-49db-9561-9f0b9b96da2c",
+  "name": "Allgemein_ruf_der_hdm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0f079f32-ccdc-45f3-9232-374b7acd7d88",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Informiere Dich gerne darüber, wie andere über die HdM denken unter: https://www.studycheck.de/hochschulen/hdm-stuttgart/bewertungen"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548429761,
+  "fallbackIntent": false,
+  "events": []
+}

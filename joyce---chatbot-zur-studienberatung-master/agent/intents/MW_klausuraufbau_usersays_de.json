@@ -1,0 +1,95 @@
+[
+  {
+    "id": "265f3d9b-cfa4-4d35-862a-eccac7a7d3b5",
+    "data": [
+      {
+        "text": "Wie sieht ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Klausur aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418588
+  },
+  {
+    "id": "d9f204a9-56d2-44c5-8d6c-5ba16ff66d71",
+    "data": [
+      {
+        "text": "Sind die Klausuren einheitlich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418588
+  },
+  {
+    "id": "e8cc7597-1239-441c-b8c6-3da8ccb94335",
+    "data": [
+      {
+        "text": "Wie sehen die Klausuren aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418588
+  },
+  {
+    "id": "c2093c4f-4e11-4560-8b8a-5db5647eeeb0",
+    "data": [
+      {
+        "text": "Klausuraufbau?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418588
+  },
+  {
+    "id": "73227c8f-bbb4-4071-8f22-dc0bf4ec6349",
+    "data": [
+      {
+        "text": "Wie sind die Klausuren aufgebaut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418588
+  },
+  {
+    "id": "b4040146-6a67-4acb-94cd-e78b054f69d8",
+    "data": [
+      {
+        "text": "Probeklausur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18095dda-4590-4b15-9f22-1d3e57eab5f4",
+    "data": [
+      {
+        "text": "Wie sieht eine klausur aus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

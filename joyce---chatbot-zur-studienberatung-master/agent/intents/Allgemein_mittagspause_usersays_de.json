@@ -1,0 +1,68 @@
+[
+  {
+    "id": "024963bd-498a-4cba-b86d-eb66a97236bd",
+    "data": [
+      {
+        "text": "Wann ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Mittags",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Pause?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548427711
+  },
+  {
+    "id": "f53baf93-3718-46dc-a0a6-61433ba9aa83",
+    "data": [
+      {
+        "text": "Von wann bis wann ist Pause?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548427711
+  },
+  {
+    "id": "cef7ba2c-e2ef-4e7c-8140-ced19d4cca2c",
+    "data": [
+      {
+        "text": "Wann ist Mittagspause?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548427711
+  },
+  {
+    "id": "15e85c0c-904b-46c5-9e3c-3dbb132e6be3",
+    "data": [
+      {
+        "text": "Gibt es eine Mittagspause?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

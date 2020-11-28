@@ -1,0 +1,28 @@
+{
+  "id": "3cf810e0-f693-4a65-816e-5e26d1c1fd40",
+  "name": "Allgemein_wie_oft_kann_man_prüfungen_schieben",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das Grundstudium muss spätestens bis zum vierten Semester abgeschlossen sein. Zusätzlich musst du für das Praxissemester folgende Module bestanden haben: „Medienproduktion“, im Schwerpunkt „Management“ die Module „Wirtschaft III“ und „Operative Steuerung“, im Schwerpunkt „Konzeption und Analyse“ die Module „Technik III“ und „Medientheorie“, ohne Schwerpunktsetzung: mindestens zwei der vier Module „Wirtschaft III“, „Technik III“, „Operative Steuerung“ oder „Medientheorie“. Außerdem musst Du die Pflichtmodule „Recht“ und „Grundlagen der Medienforschung“ angemeldet haben."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548427075,
+  "fallbackIntent": false,
+  "events": []
+}

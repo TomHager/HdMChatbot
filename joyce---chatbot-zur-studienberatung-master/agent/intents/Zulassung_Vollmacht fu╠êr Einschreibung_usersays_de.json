@@ -1,0 +1,112 @@
+[
+  {
+    "id": "18977f20-8bcc-4289-b642-9b7034a102b2",
+    "data": [
+      {
+        "text": "Kann ich jemand anderen damit bevollmächtigen, meine Einschreibung für mich vorzunehmen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924871
+  },
+  {
+    "id": "6820154c-efb0-4c38-8b92-91644f790776",
+    "data": [
+      {
+        "text": "Vollmacht für Einschreibung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924871
+  },
+  {
+    "id": "3cb86338-c5f7-4ba6-878d-256983be89aa",
+    "data": [
+      {
+        "text": "Ich bin ",
+        "userDefined": false
+      },
+      {
+        "text": "aktuell",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " im Ausland, kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time1",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " andere Person dazu bevollmächtigen mich einzuschreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924871
+  },
+  {
+    "id": "bb6595e6-60c6-4c53-8ac0-5c88bae5e274",
+    "data": [
+      {
+        "text": "Ist es möglich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " andere Person mit meiner Einschreibung zu beauftragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924871
+  },
+  {
+    "id": "47df40fe-de17-4eb0-99ce-8f99cf17f281",
+    "data": [
+      {
+        "text": "Ich bin nicht in der ",
+        "userDefined": false
+      },
+      {
+        "text": "Lage",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ", meine Einschreibung persönlich durchzuführen. Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " andere Person damit beauftragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924871
+  }
+]

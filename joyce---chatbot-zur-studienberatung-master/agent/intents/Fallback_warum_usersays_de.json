@@ -1,0 +1,62 @@
+[
+  {
+    "id": "06465f98-2f0d-4f11-b93d-4c31d383496c",
+    "data": [
+      {
+        "text": "WIe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76aef4eb-9536-4ef8-8770-1ff0c72e1104",
+    "data": [
+      {
+        "text": "Hä?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548240936
+  },
+  {
+    "id": "61e4c323-3425-4974-8246-aefc969d56b4",
+    "data": [
+      {
+        "text": "Wieso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548240936
+  },
+  {
+    "id": "5f34a925-d7e8-4e5a-9249-995e2feb432b",
+    "data": [
+      {
+        "text": "warum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548240936
+  },
+  {
+    "id": "0f9ddaeb-1092-49d2-bf81-849aa8134ab5",
+    "data": [
+      {
+        "text": "warum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548240936
+  }
+]

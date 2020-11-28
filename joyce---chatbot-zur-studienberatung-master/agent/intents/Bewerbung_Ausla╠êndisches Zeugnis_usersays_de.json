@@ -1,0 +1,98 @@
+[
+  {
+    "id": "022330b1-0653-44ec-82c8-42d7a5212cb0",
+    "data": [
+      {
+        "text": "Zulassung ausländisches Zeugnis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546561106
+  },
+  {
+    "id": "2a6b348f-4ade-4afa-9dca-5a80363a7e7a",
+    "data": [
+      {
+        "text": "Ausländisches Zeugnis Bewerbung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546561106
+  },
+  {
+    "id": "962c495c-1901-4d6a-9dd3-27ab1bd7f024",
+    "data": [
+      {
+        "text": "Ausländisches Zeugnis bei Bewerbung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546561106
+  },
+  {
+    "id": "1faaefcf-f2ff-4881-96d4-d88459395c18",
+    "data": [
+      {
+        "text": "Bewerbung mit ausländischem Zeugnis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857654
+  },
+  {
+    "id": "1444bea1-9d8c-47a9-8478-bca619c39207",
+    "data": [
+      {
+        "text": "Muss ich mein Zeugnis anerkennen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690982
+  },
+  {
+    "id": "89d4d1d4-ed27-4e2b-9195-a132533d3d8e",
+    "data": [
+      {
+        "text": "Lässt die HdM auch ausländische Zeugnisse zur Bewerbung zu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690982
+  },
+  {
+    "id": "13f34a92-6f4b-431d-8cd0-6c37ef351a52",
+    "data": [
+      {
+        "text": "Geht eine Bewerbung auch mit einem ausländischen Zeugniss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690982
+  },
+  {
+    "id": "11c50597-86fe-4d6c-bbfa-ebeb98c44e66",
+    "data": [
+      {
+        "text": "Kann ich mich mit ausländischen Zeugnissen bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690982
+  }
+]

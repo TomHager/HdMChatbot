@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a1d8a9a0-0e77-4d3b-ba9f-d30524a76d86",
+    "data": [
+      {
+        "text": "Welche Unterlagen muss ich vor Antritt meines Praktikums einreichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547713863
+  },
+  {
+    "id": "738bb8d9-c2da-4b6f-bfb5-77c50bbb0416",
+    "data": [
+      {
+        "text": "Was muss ich beachten, bevor ich in die Praxis gehe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547713863
+  },
+  {
+    "id": "0d021a88-5583-4b19-9690-d5bba9b7ba4c",
+    "data": [
+      {
+        "text": "Was sind relevante Unterlagen vor Antritt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547713863
+  }
+]

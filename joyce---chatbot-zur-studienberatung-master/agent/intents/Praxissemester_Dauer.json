@@ -1,0 +1,28 @@
+{
+  "id": "45efbfe7-2177-4709-9a65-00eab2093616",
+  "name": "Praxissemester_Dauer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Dauer des praktischen Studiensemesters beträgt genau 26 Wochen. Eine Aufteilung der 26 Wochen ist nicht möglich. Für die Anerkennung musst Du ein Minimum von 100 Arbeitstagen innerhalb der Vertragsdauer von 26 Wochen nachweisen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547489590,
+  "fallbackIntent": false,
+  "events": []
+}

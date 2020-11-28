@@ -1,0 +1,28 @@
+{
+  "id": "70a14b98-34df-41f6-a3e3-bb838a882604",
+  "name": "Studieninhalte_Grundstudium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Im Grundstudium erwirbst du Kenntnisse in der (Medien-)Ökonomie, Technik, Gestaltung und Kommunikationswissenschaft. Schau Dir dazu den Übersichtsplan unter diesem Link, bei Kompetenzprofile unter \"Module des Grundstudiums\" (unten auf der Internet-Seite) an: https://www.hdm-stuttgart.de/studierende/stundenplan/studieninhalte/studiengang?sgang_ID\u003d550039"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547037749,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "e1655494-eee3-44e4-a91f-64e1a3a01431",
+  "name": "Zulassung_Erhalt Zulassungsbescheid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6bcaf218-0347-499a-8af4-40bd0ca139bd",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "In der Regel gehen die ersten Zulassungsangebote ca. 3 Wochen nach Bewerbungsschluss raus. Durch die verschiedenen Koordinierungsphasen von hochschulstart (der Plattform, über die Du Dich bewirbst) kann es allerdings auch länger dauern, bist Du Dein Zulassungsangebot bekommst.\nEinen Überblick über das Zulassungsverfahren und einen ungefähren Zeitplan findest Du hier: https://sv.hochschulstart.de/index.php?id\u003d1979"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547694032,
+  "fallbackIntent": false,
+  "events": []
+}

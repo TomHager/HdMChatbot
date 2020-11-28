@@ -1,0 +1,68 @@
+[
+  {
+    "id": "f450ef44-0852-4ab6-bffa-50a7bca07c46",
+    "data": [
+      {
+        "text": "Wie läuft das mit dem Bewerben ",
+        "userDefined": false
+      },
+      {
+        "text": "auf ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikumsplatz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547714257
+  },
+  {
+    "id": "2b05d292-539a-4e5e-a1f8-1a1b2631a12f",
+    "data": [
+      {
+        "text": "Wie finde ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikumsstelle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547714257
+  },
+  {
+    "id": "4b412ba9-f45d-461d-8593-3ab2e989fa39",
+    "data": [
+      {
+        "text": "Bekomme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikumsplatz zugewiesen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547714257
+  }
+]

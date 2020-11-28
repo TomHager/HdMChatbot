@@ -1,0 +1,74 @@
+[
+  {
+    "id": "b2bfc2c0-d9f6-46ea-84a4-197a7554503d",
+    "data": [
+      {
+        "text": "Magst du VWL?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548095418
+  },
+  {
+    "id": "0e8994a1-8956-4209-9d7f-8de333f38b7b",
+    "data": [
+      {
+        "text": "Wie findest du VWL?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548095418
+  },
+  {
+    "id": "b4e2d390-b3c8-467f-b6af-1c90d1cd8b4e",
+    "data": [
+      {
+        "text": "Wie findest du BWL?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548095418
+  },
+  {
+    "id": "ac00ff01-faed-466f-8982-20219634ee4f",
+    "data": [
+      {
+        "text": "Gefällt dir BWL?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548095418
+  },
+  {
+    "id": "383e2e7c-1892-4696-9ee8-91ddf8e48ec0",
+    "data": [
+      {
+        "text": "Magst du Mathe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548095418
+  },
+  {
+    "id": "62a763fc-0c2b-45a8-a238-a1e8572b7c8c",
+    "data": [
+      {
+        "text": "Magst du BWL?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

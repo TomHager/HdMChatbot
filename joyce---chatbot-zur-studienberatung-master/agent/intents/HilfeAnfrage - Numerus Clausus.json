@@ -1,0 +1,33 @@
+{
+  "id": "48df8524-48b2-4767-884c-ae364ab2bd98",
+  "parentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "rootParentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "name": "HilfeAnfrage - Numerus Clausus",
+  "auto": true,
+  "contexts": [
+    "HilfeAnfrage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HilfeAnfrage.HilfeAnfrage-custom-8",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hier sind ein paar Beispielfragen zum Thema Numerus Clausus:\n-Wie werden die Studienplätze an der HdM vergeben?-\n-Welche Möglichkeiten habe ich, um meine Chance auf Zulassung zu verbessern?-\n-Kann ich mich auch bewerben wenn mein Notendurchschnitt unter dem NC liegt?-\n-Ich habe einen Notendurchschnitt von… Was könnte ich an der HdM damit studieren?-\n-Wie hoch ist der NC für MW?-"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546689977,
+  "fallbackIntent": false,
+  "events": []
+}

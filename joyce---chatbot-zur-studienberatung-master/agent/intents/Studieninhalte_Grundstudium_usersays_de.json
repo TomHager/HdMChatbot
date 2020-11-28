@@ -1,0 +1,179 @@
+[
+  {
+    "id": "4c8f5add-240c-4d02-b9b5-875f614fd3d7",
+    "data": [
+      {
+        "text": "Welche Fächer hat man im Studiengang Medienwirtschaft im ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": ". Semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01f4c890-1115-4b08-b00a-d5709e74d0eb",
+    "data": [
+      {
+        "text": "Welche Module habe ich im ",
+        "userDefined": false
+      },
+      {
+        "text": "zweiten",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " Semester? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1779eb8-9d0d-452f-96e3-48c7f62d2590",
+    "data": [
+      {
+        "text": "Welche Fächer hat man im ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": ". semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c80237c-8bae-40a2-82f4-36d69d21cd0a",
+    "data": [
+      {
+        "text": "Was muss ich zum MW Grundstudium ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560630
+  },
+  {
+    "id": "1af02b22-01fd-4147-b5c9-acadc7764825",
+    "data": [
+      {
+        "text": "Was passiert im Grundstudium von Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560630
+  },
+  {
+    "id": "374d6b97-4d99-4632-a47c-60378fa76378",
+    "data": [
+      {
+        "text": "Grundstudium MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560630
+  },
+  {
+    "id": "fcf3635d-cacc-4cbe-86b9-0669b76906ec",
+    "data": [
+      {
+        "text": "Was gibt es zum Grundstudium zu ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690440
+  },
+  {
+    "id": "392a37fc-6481-42b8-aa83-0a23dbb47a8b",
+    "data": [
+      {
+        "text": "Was lerne ich im Grundstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690440
+  },
+  {
+    "id": "3193b827-3919-4f79-8089-00d6855d6b1f",
+    "data": [
+      {
+        "text": "Was wird im Grundstudium an ",
+        "userDefined": false
+      },
+      {
+        "text": "Wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " erworben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690440
+  },
+  {
+    "id": "41434faf-bc79-4152-a3de-99c12f354a24",
+    "data": [
+      {
+        "text": "Was passiert im Grundstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690440
+  }
+]

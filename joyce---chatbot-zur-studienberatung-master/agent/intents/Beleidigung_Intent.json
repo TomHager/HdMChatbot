@@ -1,0 +1,44 @@
+{
+  "id": "3b7a3cb0-41e8-4f16-b4a7-f3dd380086ab",
+  "name": "Beleidigung_Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "33292a65-e6b7-4d6b-b340-c05056b33d58",
+          "required": false,
+          "dataType": "@Beleidigung",
+          "name": "Beleidigung",
+          "value": "$Beleidigung",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Das war aber nicht nett... 🐥😭",
+            "Benimm dich bitte!☝🏼",
+            "Das sag ich deiner Mutter! 😋",
+            "besser du gehst jetzt...🚶🏽‍♂️",
+            "Wie man in den Hühnerstall ruft, so schallt es hinaus! ☝🏼",
+            "Wer im Hühnerstall sitzt, sollte nicht mit Eiern werfen! 🥚🐥"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548340175,
+  "fallbackIntent": false,
+  "events": []
+}

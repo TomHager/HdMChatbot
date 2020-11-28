@@ -1,0 +1,38 @@
+[
+  {
+    "id": "14bf659b-7587-4ee7-87f1-2d7c38e7007b",
+    "data": [
+      {
+        "text": "Erkläre mir den Sinn des Lebens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548424802
+  },
+  {
+    "id": "4a7a003a-8cbb-457d-8bad-cc3863c3d21b",
+    "data": [
+      {
+        "text": "Sinn des Lebens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548424802
+  },
+  {
+    "id": "7b21d843-ac99-4add-9249-7456470ad787",
+    "data": [
+      {
+        "text": "Was ist der Sinn des Lebens?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

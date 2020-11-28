@@ -1,0 +1,33 @@
+{
+  "id": "d4e7c34b-5a40-48c5-98e9-35fbfcd58e37",
+  "parentId": "43c2240f-7b3d-4f17-9430-a287c3516d16",
+  "rootParentId": "08c52585-f4d1-4d93-8bcb-ab40f4c5c184",
+  "name": "love_you_follow_up - fallback",
+  "auto": false,
+  "contexts": [
+    "love_you_follow_up-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Emoji_Freundlich.Emoji_Freundlich-custom.love_you_follow_up-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Frag mich besser Sachen zum Studium 😉"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547639776,
+  "fallbackIntent": true,
+  "events": []
+}

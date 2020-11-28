@@ -1,0 +1,28 @@
+{
+  "id": "02da7b60-39f4-41c0-9171-96f5c29fbd69",
+  "name": "Allgemein_Wie lange kann ich maximal studieren?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du kannst maximal zehn Semester an der HdM studieren. Solltest du von besonderen Umständen betroffen sein, wie beispielsweise einer Krankheit, die die Studiendauer verzögert, weicht die maximale Dauer jedoch ab. Wende dich in diesem Fall an die Zentrale Studienberatung. Kontaktdaten und Informationen zu Sprechzeiten findest du hier: https://www.hdm-stuttgart.de/studieninteressierte/info/studienberatung"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548244477,
+  "fallbackIntent": false,
+  "events": []
+}

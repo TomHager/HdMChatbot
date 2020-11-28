@@ -1,0 +1,130 @@
+[
+  {
+    "id": "2a2df4e0-02bc-4eb2-8dcb-667e31d500fe",
+    "data": [
+      {
+        "text": "Wie wird ermittelt wer ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studienplatz bekommt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405690
+  },
+  {
+    "id": "05dfbf56-1682-455d-8f69-3eb35be82c89",
+    "data": [
+      {
+        "text": "Wie werden die Studienplätze in MW vergeben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405690
+  },
+  {
+    "id": "0248e514-fff1-45f6-9a24-48509895e52c",
+    "data": [
+      {
+        "text": "Wie schwer ist es zum Studium zugelassen zu werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405690
+  },
+  {
+    "id": "f42572b5-3874-4d62-bd93-49d9f2c1ff0e",
+    "data": [
+      {
+        "text": "Zulassungsbeschränkung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405690
+  },
+  {
+    "id": "6433c013-cb02-43da-9294-9ef443598f01",
+    "data": [
+      {
+        "text": "Gibt es Zulassungskriterien um MW studieren zu können?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545238259
+  },
+  {
+    "id": "8f40bc52-fad3-4c45-a57c-9d47e0a58d59",
+    "data": [
+      {
+        "text": "Was ist für die Zulassung für das Medienwirtschaftsstudium entscheidend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545238259
+  },
+  {
+    "id": "63923622-353a-4ce5-bbd6-67f512d82b3b",
+    "data": [
+      {
+        "text": "Wie wird entschieden wer zugelassen wird und wer nicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545238259
+  },
+  {
+    "id": "2551f8d4-d17f-442a-a5cb-7c68a901709d",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Zulassungsbeschränkung in MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545238259
+  },
+  {
+    "id": "6c0b675f-8600-4ce4-a5dd-361623588850",
+    "data": [
+      {
+        "text": "Ist der Studiengang Medienwirtschaft zulassungsbeschränkt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545238259
+  }
+]

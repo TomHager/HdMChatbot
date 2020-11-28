@@ -1,0 +1,51 @@
+{
+  "id": "9b5e8fb2-92db-4214-8438-7f48c497c71d",
+  "parentId": "2ce90761-90cb-4b5b-85f9-9604110f895b",
+  "rootParentId": "2ce90761-90cb-4b5b-85f9-9604110f895b",
+  "name": "Fallback_followup",
+  "auto": false,
+  "contexts": [
+    "DefaultFallbackIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-fallback",
+      "affectedContexts": [
+        {
+          "name": "DefaultFallbackIntent-fallback-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "Fallback_followup-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Ich verstehe Deine Frage leider nicht. Bitte formuliere die Frage etwas um.",
+            "Das habe ich leider nicht verstanden. Kannst Du Dein Anliegen vielleicht anders ausdrücken?",
+            "Entschuldige bitte, ich habe Deine Frage nicht verstanden. Bitte formuliere die Frage etwas genauer oder stelle eine neue Frage.",
+            "Ich bin nicht so sicher, ob ich Dich richtig verstanden habe, kannst Du das nochmal anders formulieren?",
+            "Leider kann ich nicht verstehen, was Du von mir möchtest. Bitte formuliere Deine Frage etwas um oder stelle eine neue Frage.",
+            "Kannst Du das noch mal anders formulieren?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547982594,
+  "fallbackIntent": true,
+  "events": []
+}

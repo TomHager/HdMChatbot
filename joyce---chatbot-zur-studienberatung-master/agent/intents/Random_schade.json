@@ -1,0 +1,28 @@
+{
+  "id": "c811559d-f09f-48ba-b23b-a2fc6def149e",
+  "name": "Random_schade",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Sorry 🙈"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548096516,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bb1df675-2831-4b3d-bf8d-bffb426002f2",
+  "name": "Allgemein_weniger_als_7_Semester",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "be730fbd-9720-4c6e-9874-b2c5bdb233dc",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du musst einen Gesamtumfang von 210 ECTS-Punkten sammeln, um dein Studium erfolgreich abschließen zu können."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Theoretisch ist das auch in 6 Semestern möglich. Das bedeutet, dass du pro Semester 35 ECTS abschließen musst, wodurch ein höherer Arbeitsaufwand pro Semester entsteht."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548410284,
+  "fallbackIntent": false,
+  "events": []
+}

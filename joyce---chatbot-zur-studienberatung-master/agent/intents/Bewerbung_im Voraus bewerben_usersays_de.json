@@ -1,0 +1,136 @@
+[
+  {
+    "id": "6b498af4-0787-472f-80c3-77195a4a043b",
+    "data": [
+      {
+        "text": "Darf ich mich früher bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625476
+  },
+  {
+    "id": "e1ffc21c-f9d2-4daa-9df7-b78001fc0ccb",
+    "data": [
+      {
+        "text": "Kann ich mich vorher bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625476
+  },
+  {
+    "id": "35cfdbeb-6ef8-40b6-bfb5-ad8c3654a948",
+    "data": [
+      {
+        "text": "Ist es möglich sich schon im Voraus zu bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545863034
+  },
+  {
+    "id": "51f99bed-c870-425c-95a9-273ae2da1bc0",
+    "data": [
+      {
+        "text": "Im Voraus bewerben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545863034
+  },
+  {
+    "id": "7baa4f6a-f173-4f12-a1ad-bb63a7ec31aa",
+    "data": [
+      {
+        "text": "Wenn ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "jetzt",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " bewerbe, mein Studium aber erst ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time1",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Semester später beginnen will: Geht das?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545863034
+  },
+  {
+    "id": "40cc6a57-d25b-4be9-ab7c-029e8fbb4fe9",
+    "data": [
+      {
+        "text": "Kann ich mich schon ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Semester vorher bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545863034
+  },
+  {
+    "id": "3c40edc0-dd96-41b0-bc36-50f37a567226",
+    "data": [
+      {
+        "text": "Ich möchte erst ",
+        "userDefined": false
+      },
+      {
+        "text": "nächstes Jahr",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " mit dem Studium beginnen. Kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "jetzt",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " schon bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545863034
+  }
+]

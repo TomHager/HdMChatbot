@@ -1,0 +1,86 @@
+[
+  {
+    "id": "8090665f-6448-4de4-b226-e76abc64a59c",
+    "data": [
+      {
+        "text": "Besitze ich Wartesemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626232
+  },
+  {
+    "id": "f02884ab-855f-4527-a495-41bc1d5a750f",
+    "data": [
+      {
+        "text": "Wartesemester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626232
+  },
+  {
+    "id": "bd3d9b70-2084-43dc-ada1-f87deff85a83",
+    "data": [
+      {
+        "text": "Bringen mir Wartesemester etwas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626232
+  },
+  {
+    "id": "7e613fb1-855c-41ed-ae0a-9fb88a2fd587",
+    "data": [
+      {
+        "text": "Zählen Vorstudienzeiten zu Wartesemestern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910350
+  },
+  {
+    "id": "f2a6782b-6068-4c7a-8fcd-8b408f7d79d4",
+    "data": [
+      {
+        "text": "Wie viele Wartesemester kann ich maximal haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910350
+  },
+  {
+    "id": "c00783bc-8c81-4220-9072-be7097f35c53",
+    "data": [
+      {
+        "text": "Was zählt als Wartesemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910350
+  },
+  {
+    "id": "741eb0b1-3167-42eb-987f-4e7126b76eac",
+    "data": [
+      {
+        "text": "Wie werden Wartesemester berechnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910350
+  }
+]

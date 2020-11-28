@@ -1,0 +1,50 @@
+[
+  {
+    "id": "647484a6-cd77-42fa-b61c-9a05936cfadd",
+    "data": [
+      {
+        "text": "Kann ich mich trotzdem bewerben, auch wenn meine Noten schlechter sind?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545136815
+  },
+  {
+    "id": "2d0958a5-cf45-4266-ac91-67ef43af37cd",
+    "data": [
+      {
+        "text": "Warum soll ich mich trotzdem bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545136815
+  },
+  {
+    "id": "5a59df30-1bac-4fb8-8b52-15ea10f99ebe",
+    "data": [
+      {
+        "text": "Was ist wenn meine Noten schlechter sind als der NC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545136815
+  },
+  {
+    "id": "08904797-c731-4ac9-aee2-027cefc81f90",
+    "data": [
+      {
+        "text": "Kann ich mich auch bewerben wenn mein Notendurchschnitt unter dem NC liegt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545136815
+  }
+]

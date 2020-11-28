@@ -1,0 +1,28 @@
+{
+  "id": "5ca8cd8b-d392-4761-894c-d712c8c828c4",
+  "name": "Studieninhalte_Mathe Inhalte",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Keine Sorge! Eine eigene Mathematikveranstaltung gibt es nicht. Um Vorlesungen wie \"Technik I\" oder \"Wirtschaft I\" bewältigen zu können, sind lediglich einfachere mathematische Kenntnisse erforderlich, wie du sie aus der Schule kennst."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547311690,
+  "fallbackIntent": false,
+  "events": []
+}

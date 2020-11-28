@@ -1,0 +1,84 @@
+[
+  {
+    "id": "d3923634-2634-48cf-8ba8-80ace0cf24b3",
+    "data": [
+      {
+        "text": "Welche Programme zur Förderung gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722215
+  },
+  {
+    "id": "b1125d7c-ec4c-4bfe-9dea-2fc08bf7d1e1",
+    "data": [
+      {
+        "text": "Förderprogramme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722215
+  },
+  {
+    "id": "f4e90ca9-5c54-4875-8bb2-8ea68246c84a",
+    "data": [
+      {
+        "text": "Wie komme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "an eine",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " Förderung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722188
+  },
+  {
+    "id": "1a80dd36-b70f-46fa-97c7-6e03196d3457",
+    "data": [
+      {
+        "text": "Kann ich gefördert werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722188
+  },
+  {
+    "id": "6f2cf2b7-5eda-4058-8829-46820299e80b",
+    "data": [
+      {
+        "text": "Was gibt es an Förderprogrammen an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722188
+  },
+  {
+    "id": "71d0e4c4-0753-45d9-bb7c-7dddab34a9db",
+    "data": [
+      {
+        "text": "Gibt es Förderprogramme an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722188
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "56ba1f67-a277-48fc-9f15-5e2f58307806",
+  "name": "Zulassung_Anrechnung von Auslandsaufenthalten",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4bb18fcf-b2ad-4243-ab0d-69c1851ffce1",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hinsichtlich der Verfahrensnote wird ein Auslandsaufenthalt nicht berücksichtigt oder trägt zu einer Verbesserung dieser bei. Allerdings zählt die Zeit im Ausland als Wartesemester."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546626004,
+  "fallbackIntent": false,
+  "events": []
+}

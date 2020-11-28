@@ -1,0 +1,94 @@
+[
+  {
+    "id": "9c01c4c9-dd10-4640-ae5d-4028a31a6657",
+    "data": [
+      {
+        "text": "Heute",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " noch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed362b6c-90bf-4a8a-8b45-a8526de085b8",
+    "data": [
+      {
+        "text": "sei ruhig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547632163
+  },
+  {
+    "id": "137bc6dc-a496-445d-920b-dab832feb50f",
+    "data": [
+      {
+        "text": "Halt die Schnauze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547632138
+  },
+  {
+    "id": "2b779d89-cf86-4618-bca7-9feb38d8f26b",
+    "data": [
+      {
+        "text": "Das ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ich nicht ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547632138
+  },
+  {
+    "id": "5485c517-408a-4f6f-81c0-e062f68582e0",
+    "data": [
+      {
+        "text": "Sei leise!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547632138
+  },
+  {
+    "id": "1a29898d-c4e7-4d8c-bb57-c7fc92db4c54",
+    "data": [
+      {
+        "text": "Halts Maul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547632138
+  }
+]

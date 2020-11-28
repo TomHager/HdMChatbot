@@ -1,0 +1,124 @@
+[
+  {
+    "id": "0e5ee3f3-5903-4f32-b3db-cc3400983343",
+    "data": [
+      {
+        "text": "Kann ich an der HdM auch in Form ",
+        "userDefined": false
+      },
+      {
+        "text": "eines",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Fernstudiums studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397085
+  },
+  {
+    "id": "c89087d1-c76c-401f-9c28-bbc202c275cc",
+    "data": [
+      {
+        "text": "Ist es möglich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Fernstudium an der HdM zu machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397085
+  },
+  {
+    "id": "e78921e4-8625-47ca-8e5b-143460d12d84",
+    "data": [
+      {
+        "text": "Fernstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397085
+  },
+  {
+    "id": "e72422e2-a935-460d-9709-9560e9cc7f87",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Fernstudium an der HdM möglich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545149265
+  },
+  {
+    "id": "0af5124b-38ef-47c2-a6a0-0b492cd6849a",
+    "data": [
+      {
+        "text": "Muss ich bei den Vorlesungen vor Ort sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545149265
+  },
+  {
+    "id": "069eca61-c20c-4b77-948f-96a4b6022f93",
+    "data": [
+      {
+        "text": "Kann ich aus der Ferne studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545149265
+  },
+  {
+    "id": "60ff0a2a-4054-4257-96f7-b01ced79c606",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Fernstudium an der Hochschule der Medien möglich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545149265
+  }
+]

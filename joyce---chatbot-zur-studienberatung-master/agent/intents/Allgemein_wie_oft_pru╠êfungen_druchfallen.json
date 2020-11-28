@@ -1,0 +1,28 @@
+{
+  "id": "75448b7c-5344-4b26-b5dc-01bdfb70b6a8",
+  "name": "Allgemein_wie_oft_prüfungen_druchfallen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Alle nicht bestanden Prüfungsleitungen können 1x wiederholt werden. Zudem gibt es dreimal die Möglichkeit, eine 2. Wiederholungsprüfung zu schreiben."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548428658,
+  "fallbackIntent": false,
+  "events": []
+}

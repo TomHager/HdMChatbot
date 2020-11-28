@@ -1,0 +1,37 @@
+{
+  "id": "35a7e613-ad4e-4563-be9f-cfcc40c5a5ce",
+  "name": "MW_Gibt es vor Beginn des Studiums Einführungsveranstaltungen o.ä.?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "119314ee-ddee-4be5-87ef-6975d29d159f",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "An Deinem ersten Studientag findet die offizielle Begrüßung und Einführung statt.\nAußerdem gibt es einen freiwilligen Mathevorkurs. Dieser findet ungefähr eine Woche vor Vorlesungsbeginn statt. Diesen zu besuchen ist aber nicht unbedingt notwendig, wenn du das Medienwirtschaftsstudium antrittst."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547639658,
+  "fallbackIntent": false,
+  "events": []
+}

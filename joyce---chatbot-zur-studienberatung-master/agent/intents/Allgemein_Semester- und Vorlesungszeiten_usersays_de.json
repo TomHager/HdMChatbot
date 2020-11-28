@@ -1,0 +1,189 @@
+[
+  {
+    "id": "8ff0c8ed-15cf-4679-9ef9-466edd96cd3e",
+    "data": [
+      {
+        "text": "Wann habe ich ",
+        "userDefined": false
+      },
+      {
+        "text": "erste",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " prüfung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be5239bb-8adc-4552-bfd1-b1120fcc9f20",
+    "data": [
+      {
+        "text": "Wann fängt die Prüfungsphase an?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a6c27a0-a959-43ff-a5a5-6270c134060f",
+    "data": [
+      {
+        "text": "wann ist der erste Vorlesungstag im Sommersemester 2019?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6bb2fa57-6ad3-4b0b-ac53-193fb1e8eff5",
+    "data": [
+      {
+        "text": "wann sind die ferien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d51d99dd-5091-4ba3-b278-2181f170e5cb",
+    "data": [
+      {
+        "text": "wann beginnt das Sommersemester 2019?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41252fa3-1788-4cb4-96f9-efe488ad3aa9",
+    "data": [
+      {
+        "text": "Wann kann man anfangen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285754
+  },
+  {
+    "id": "855753f5-fa9d-49be-a770-06008caa0f0c",
+    "data": [
+      {
+        "text": "Wann beginnt das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405790
+  },
+  {
+    "id": "c0340f64-340a-4c16-87e5-1c3e29e88955",
+    "data": [
+      {
+        "text": "Wie ist die Semesteraufteilung an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405790
+  },
+  {
+    "id": "f54d82db-6a4c-4a45-931f-ca57895a963f",
+    "data": [
+      {
+        "text": "Wie lange geht ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545149380
+  },
+  {
+    "id": "592a251e-2280-4a53-a850-3b7018a7fbd5",
+    "data": [
+      {
+        "text": "Wann beginnt das Semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405790
+  },
+  {
+    "id": "2ed482bc-769b-4de3-9b2b-cb48142d4e98",
+    "data": [
+      {
+        "text": "Vorlesungszeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405790
+  },
+  {
+    "id": "22f0ef70-d1c7-481d-8014-7eeaf65d31ca",
+    "data": [
+      {
+        "text": "Wie sind die Vorlesungszeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1545149380
+  },
+  {
+    "id": "8199c454-de38-43f0-bbde-5d27505783c9",
+    "data": [
+      {
+        "text": "Wann sind Semesterferien?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545149380
+  },
+  {
+    "id": "fd0d5ebf-832a-441a-a9ac-9a04e1190e75",
+    "data": [
+      {
+        "text": "Wie sind die Semester- und Vorlesungszeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545149380
+  }
+]

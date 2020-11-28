@@ -1,0 +1,33 @@
+{
+  "id": "922e614e-8bbf-488e-a60a-bde0133c7b50",
+  "parentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "rootParentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "name": "HilfeAnfrage - Auslandssemester",
+  "auto": true,
+  "contexts": [
+    "HilfeAnfrage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HilfeAnfrage.HilfeAnfrage-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hier sind ein paar Beispielfragen zum Thema Auslandssemester:\n-Gibt es ein Auslandssemester?-\n-Welche Möglichkeiten gibt es, um ein Auslandssemester zu absolvieren?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548092281,
+  "fallbackIntent": false,
+  "events": []
+}

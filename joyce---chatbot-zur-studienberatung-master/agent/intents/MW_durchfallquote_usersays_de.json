@@ -1,0 +1,134 @@
+[
+  {
+    "id": "4f550786-a852-4fca-b114-90cd8d20fdde",
+    "data": [
+      {
+        "text": "Wie hoch sind die chancen klausur zu bestehe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afa5606f-f073-47e8-bce4-da2b91b6552b",
+    "data": [
+      {
+        "text": "Wie hoch ist die ausseigerquote?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "002dc6ce-3abb-466f-93ed-7aa08c747575",
+    "data": [
+      {
+        "text": "Wie viele Fliegen davon raus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca553094-141f-449d-b797-8579a019be1a",
+    "data": [
+      {
+        "text": "Wie viele bestehen das hauptstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01855894-748e-416d-822b-2b17866a1d71",
+    "data": [
+      {
+        "text": "Ist es schwer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9175221-ccf6-4f7d-9994-0e0a1a04e9e8",
+    "data": [
+      {
+        "text": "Schafft man die Klausuren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc962c22-09c3-4170-8662-49fd84d7b5b8",
+    "data": [
+      {
+        "text": "Ist der Studiengang kompliziert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2a954f4-9c39-4761-82e7-bdfebab84d39",
+    "data": [
+      {
+        "text": "Ist der Studiengang schwer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b7bc77ec-e9e2-4af1-bb6b-32d1fa62b683",
+    "data": [
+      {
+        "text": "Wie viele Studenten fallen durch die Medienwirtschaftsprüfung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8291ffb-08a1-44c5-9f21-3ef5e39af737",
+    "data": [
+      {
+        "text": "Wie groß is Durchfallquote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5f670b4-4e8c-423b-93a9-9b7748dec229",
+    "data": [
+      {
+        "text": "Wie viele Studenten schaffen die Prüfungen nicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "f43a4922-ae09-4687-b417-9078073b3ae0",
+  "name": "Allgemein_Anfahrtsinfos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die HdM liegt direkt am Unicampus in Stuttgart Vaihingen. Die genaue Adresse ist die Nobelstraße 10, 70569 Stuttgart. Anfahrtsbeschreibung: https://www.hdm-stuttgart.de/nachrichten/2368/Anfahrtsbeschreibung"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547639386,
+  "fallbackIntent": false,
+  "events": []
+}

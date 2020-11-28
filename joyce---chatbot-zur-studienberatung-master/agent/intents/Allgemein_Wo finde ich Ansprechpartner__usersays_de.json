@@ -1,0 +1,195 @@
+[
+  {
+    "id": "d08b2990-d920-4075-8bbe-cdf1b64ba072",
+    "data": [
+      {
+        "text": "an wen kann ich mich persönlich ",
+        "userDefined": false
+      },
+      {
+        "text": "wenden",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1547640995
+  },
+  {
+    "id": "d8be0c3d-988d-470e-8099-2ead2dbf3524",
+    "data": [
+      {
+        "text": "gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " persönlichen kontakt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "8c18b6f5-8c34-454b-ab42-7b479e448b3a",
+    "data": [
+      {
+        "text": "Wo kann ich anrufen, um mit der Studienberatung zu sprechen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547312844
+  },
+  {
+    "id": "be8eb990-fb1f-4a62-978b-27999ba8458a",
+    "data": [
+      {
+        "text": "Wie ist deine Telefonnummer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547312844
+  },
+  {
+    "id": "3fc3b16c-7d4e-4821-83b4-2ec64a0f4f3a",
+    "data": [
+      {
+        "text": "Wo kann ich anrufen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547312844
+  },
+  {
+    "id": "3f763aee-c9a4-4eb5-ae32-28a1cade76a2",
+    "data": [
+      {
+        "text": "Wer kann mir noch Informationen geben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311102
+  },
+  {
+    "id": "c8d6e3b9-b67a-4864-99b2-acdf21eca807",
+    "data": [
+      {
+        "text": "Wo kann ich anrufen wegen Fragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311102
+  },
+  {
+    "id": "ab80dd1a-87b2-4e1d-b787-6c5b670ecf8a",
+    "data": [
+      {
+        "text": "Ansprechpartner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545412038
+  },
+  {
+    "id": "53055174-ac8c-44f6-ab47-9951070f64d9",
+    "data": [
+      {
+        "text": "Bei welchen Fragen melde ich mich bei welchen Ansprechpartnern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545412038
+  },
+  {
+    "id": "d650542a-b524-4f93-a9ed-f72eca1d69c6",
+    "data": [
+      {
+        "text": "Zeige mir Ansprechpartner bei denen ich mich bei Fragen melden kann",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545412038
+  },
+  {
+    "id": "1551fed9-8162-453f-96c3-a73c760b01b0",
+    "data": [
+      {
+        "text": "An wen kann ich mich bei Fragen ",
+        "userDefined": false
+      },
+      {
+        "text": "wenden",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545131927
+  },
+  {
+    "id": "15656435-580b-416a-b6c6-ebdd820dc4a5",
+    "data": [
+      {
+        "text": "Gibt es Ansprechpartner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545131927
+  },
+  {
+    "id": "b594e279-caad-40fe-bd48-6a5acc4a05ff",
+    "data": [
+      {
+        "text": "Wer sind die Ansprechpartner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545131927
+  },
+  {
+    "id": "6d3268dc-a2c8-4909-be7d-5350b3429134",
+    "data": [
+      {
+        "text": "Wo finde ich Ansprechpartner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545131927
+  }
+]

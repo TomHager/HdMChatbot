@@ -1,0 +1,28 @@
+{
+  "id": "7ca522a2-b682-4d4c-9d19-b8e6c5977c1b",
+  "name": "Zulassung_Anzahl Wartesemester",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Als Wartesemester zählt jedes Semester seit Erlangung der Hochschulreife, an dem Du nicht an einer deutschen Hochschule eingeschrieben warst. 16 Wartesemester sind die maximale Anzahl, die berechnet werden. \nDie Wartesemester werden nicht auf Deine Hochschulreife angerechnet, sondern es gibt ein separates Zulassungsverfahren. Mehr Infos dazu findest du hier: \nhttps://www.hdm-stuttgart.de/studieninteressierte/bewerber/studienplatzvergabe"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547693918,
+  "fallbackIntent": false,
+  "events": []
+}

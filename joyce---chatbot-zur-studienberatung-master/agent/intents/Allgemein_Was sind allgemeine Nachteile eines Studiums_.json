@@ -1,0 +1,37 @@
+{
+  "id": "fe07a68c-392b-4916-93db-5c27672e30fa",
+  "name": "Allgemein_Was sind allgemeine Nachteile eines Studiums?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5ec241be-30c1-4696-aa78-8e281282854f",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du solltest dir bewusst sein, dass du im Studium komplett selbst für Deinen Erfolg verantwortlich bist. Selbstorganisation, Disziplin und Durchhaltevermögen sind wichtig. Außerdem kommen durch ein Studium Kosten wie eventuelle Studiengebühren und Lebenshaltungskosten auf dich zu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640701,
+  "fallbackIntent": false,
+  "events": []
+}

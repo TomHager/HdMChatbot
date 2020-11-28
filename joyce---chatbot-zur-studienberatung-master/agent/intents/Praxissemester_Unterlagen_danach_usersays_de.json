@@ -1,0 +1,26 @@
+[
+  {
+    "id": "985c6a97-56da-4415-b0ee-b6749a316860",
+    "data": [
+      {
+        "text": "Was für Unterlagen muss ich zum Ende des Praxissemesters einreichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547714068
+  },
+  {
+    "id": "cb7c3ce9-8a6c-43ac-b099-c5c4adbed6c2",
+    "data": [
+      {
+        "text": "Welche Unterlagen müssen nach Absolvieren des Praxissemesters bei wem eingereicht werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547714068
+  }
+]

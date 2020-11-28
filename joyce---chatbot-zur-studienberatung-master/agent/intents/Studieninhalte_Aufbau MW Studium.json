@@ -1,0 +1,52 @@
+{
+  "id": "55892b07-32d6-4a9d-8947-8bc6ff12dac8",
+  "name": "Studieninhalte_Aufbau MW Studium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a5f60201-6895-4798-a5b7-183d77798e37",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Der Studienverlauf des Studiengangs Medienwirtschaftsstudium ist unterteilt in das Grund- und Hauptstudium."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das Grundstudium umfasst die ersten beiden Semester und vermittelt wirtschaftliche und medienwirtschaftliche Kenntnisse."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das Hauptstudium (Semester 3-7) bietet dir durch viele Wahlmöglichkeiten. Neben der möglichen Spezialisierung beinhaltet das Hauptstudium das Praxissemester sowie die Bachelorarbeit."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Schau Dir hier den Verlaufsplan an: https://www.hdm-stuttgart.de/download/studienverlaufsplaene/MW7.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548657188,
+  "fallbackIntent": false,
+  "events": []
+}

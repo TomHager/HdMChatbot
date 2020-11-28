@@ -1,0 +1,43 @@
+{
+  "id": "2ce90761-90cb-4b5b-85f9-9604110f895b",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [
+        {
+          "name": "DefaultFallbackIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Ich verstehe Deine Frage leider nicht. Bitte formuliere die Frage etwas um.",
+            "Das habe ich leider nicht verstanden. Kannst Du Dein Anliegen vielleicht anders ausdrücken?",
+            "Entschuldige bitte, ich habe Deine Frage nicht verstanden. Bitte formuliere die Frage etwas genauer oder stelle eine neue Frage.",
+            "Ich bin nicht so sicher, ob ich Dich richtig verstanden habe, kannst Du das nochmal anders formulieren?",
+            "Leider kann ich nicht verstehen, was Du von mir möchtest. Bitte formuliere Deine Frage etwas um oder stelle eine neue Frage.",
+            "Kannst Du das noch mal anders formulieren?",
+            "Ich verstehe deine Frage leider nicht. Vielleicht hilft dir aber der Link zur FAQ für Medienwirtschaft:\nhttps://mw.hdm-stuttgart.de/medienwirtschaft/studierende/faq/faq-allgemein/"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546876322,
+  "fallbackIntent": true,
+  "events": []
+}

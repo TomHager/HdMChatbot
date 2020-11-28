@@ -1,0 +1,50 @@
+{
+  "id": "63641e84-4b57-40dc-8c48-49951b14780b",
+  "name": "Bewerbung_höhere Fachsemester",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "03e4c84d-8a20-4085-8d42-bcad4df35ff5",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "ad181b31-bd53-4802-b085-40747a64977b",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time1",
+          "value": "$time1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wenn Du bereits einen ähnlichen Studiengang studiert hast und genügend anrechenbare Leistungen mitbringst, kannst Du dich auch auf ein höheres Fachsemester bewerben."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wie das geht und welche Auflagen Du erfüllen musst, kannst Du nachlesen, wenn Du dem unten angegebenen Link folgst.\nBei Fragen kannst Du Dich an die Zentrale Studienberatung oder den/die Studiendekan/in in Deinem Wunschstudiengang wenden. Für ein höheres Fachsemester kannst Du Dich nur in einem Studienfach bewerben und Du musst vorher ein Beratungsgespräch führen. \nhttps://www.hdm-stuttgart.de/studieninteressierte/bewerber/studienfachwechsel/#HoeheresFachsemester"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547717784,
+  "fallbackIntent": false,
+  "events": []
+}

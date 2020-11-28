@@ -1,0 +1,70 @@
+[
+  {
+    "id": "49ad3d5e-099f-4da7-9d68-da8d36c96ce9",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studium das richtige für mich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548245179
+  },
+  {
+    "id": "0a1f842a-f369-4069-8d63-d581b32a8840",
+    "data": [
+      {
+        "text": "Ich bin mir nicht sicher ob ich überhaupt studieren soll?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548245179
+  },
+  {
+    "id": "0dcc2188-07f3-4972-9646-ad4553468d22",
+    "data": [
+      {
+        "text": "Soll ich studieren oder ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Ausbildung machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548245179
+  },
+  {
+    "id": "a0a3e30a-8c2b-4656-8fe5-c5996dd4da48",
+    "data": [
+      {
+        "text": "Soll ich überhaupt studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548245179
+  }
+]

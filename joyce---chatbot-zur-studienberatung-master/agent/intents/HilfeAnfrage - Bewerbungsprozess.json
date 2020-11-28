@@ -1,0 +1,33 @@
+{
+  "id": "6750e09e-ad34-4f6c-8dfe-bd55ca36600a",
+  "parentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "rootParentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "name": "HilfeAnfrage - Bewerbungsprozess",
+  "auto": true,
+  "contexts": [
+    "HilfeAnfrage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HilfeAnfrage.HilfeAnfrage-custom-6",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hier sind ein paar Beispielfragen zum Thema Bewerbungsprozess:\n-Wie kann ich mich auf einen Studienplatz bewerben?-\n-Wann kann ich mich auf einen Studienplatz bewerben?-\n-Welche Unterlagen muss ich meiner Bewerbung beilegen?-\n-Wie und wo kann ich meine Bewerbungsunterlagen einreichen?-\n-Wie bekomme ich einen Termin für eine studienfachliche Beratung?-"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546690016,
+  "fallbackIntent": false,
+  "events": []
+}

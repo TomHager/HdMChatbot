@@ -1,0 +1,60 @@
+[
+  {
+    "id": "a6dc269d-1a4b-4095-95d2-1ba573182c81",
+    "data": [
+      {
+        "text": "Wie hoch ist der Beitrag?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03ee0a3f-6be2-43d5-84d0-5f211a60c019",
+    "data": [
+      {
+        "text": "Was kostet es zu studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547742871
+  },
+  {
+    "id": "1abe0812-0a31-4787-b63d-061e35a2ce87",
+    "data": [
+      {
+        "text": "Wie viel kostet das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547742815
+  },
+  {
+    "id": "d7418c2c-535f-471a-a417-198efa7bbeb0",
+    "data": [
+      {
+        "text": "Kann ich mir ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studium leisten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547742815
+  }
+]

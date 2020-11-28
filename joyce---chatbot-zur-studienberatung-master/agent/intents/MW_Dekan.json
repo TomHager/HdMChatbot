@@ -1,0 +1,33 @@
+{
+  "id": "4266a78d-7da8-4a59-a9db-6b268cc5bf9e",
+  "name": "MW_Dekan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Der Studiendekan von Medienwirtschaft ist Prof. Dr. Boris Kühnle: kuehnle@hdm-stuttgart.de"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Bei Fragen rund um den Studiengang kannst Du Dich auch an den wissenschaftlichen Mitarbeiter in MW, Max Ruppert wenden: ruppert@hdm-stuttgart.de"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547723383,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "f7e26be2-8f27-4dfe-ba67-c197ebbe8175",
+  "name": "Praxissemester_Unternehmen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Praxisphase muss in einem geeigneten Unternehmen mit i.d.R. mindestens 10 Mitarbeitern abgeleistet werden und ist vom Praktikantenamtsleiter des Studiengangs zu genehmigen. Wichtig ist, dass die Praktikumsstelle einen Bezug zu Deinem Studium hat. In Frage kommen zum Beispiel die Öffentlich-rechtlichen/privaten Rundfunkanstalten, Filmproduktionsunternehmen, Multimediaagenturen, Werbeagenturen, Mediendienstleister (z. B. Designstudios, Grafikbetriebe), Unternehmensinterne Medienproduktionsstudios, Verlage oder Medienabteilungen in Unternehmen wie Bosch, Daimler und Porsche."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547713734,
+  "fallbackIntent": false,
+  "events": []
+}

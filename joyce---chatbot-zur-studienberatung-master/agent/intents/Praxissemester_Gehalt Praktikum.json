@@ -1,0 +1,28 @@
+{
+  "id": "ecf43fe4-6e8b-462e-bcee-79fe3ee61248",
+  "name": "Praxissemester_Gehalt Praktikum",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Bei der Bezahlung des Praktikums gibt es keine Festlegung. Von unbezahlt bis zu den steuerlich relevanten Höchstgrenzen ist alles möglich. Du verhandelst selbst mit dem Unternehmen über die Höhe einer Vergütung."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547713644,
+  "fallbackIntent": false,
+  "events": []
+}

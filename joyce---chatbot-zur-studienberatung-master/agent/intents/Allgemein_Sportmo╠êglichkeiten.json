@@ -1,0 +1,28 @@
+{
+  "id": "e727de42-0f67-47fd-8546-4059b31b4e72",
+  "name": "Allgemein_Sportmöglichkeiten",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die HdM bietet keinen eigenen Hochschulsport an. Die Studierenden der HdM können jedoch das Sportangebot der Universität Stuttgart nutzen: https://www.hochschulsport.uni-stuttgart.de/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640805,
+  "fallbackIntent": false,
+  "events": []
+}

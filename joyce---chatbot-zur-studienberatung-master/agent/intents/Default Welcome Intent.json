@@ -1,0 +1,52 @@
+{
+  "id": "4a9a8866-5a17-4629-8f4a-0293ddb74a1f",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b526e0eb-2940-47ca-9675-23c6fbc0925d",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hallo, ich bin Joyce, Dein Infobot für Medienwirtschaft.\nWenn Du möchtest, unterstütze ich Dich bei der Recherche rund um das Studium. Frag mich z.B. \"Wie lang ist die Regelstudienzeit?\" \nIch helfe Dir gerne weiter, dabei benötige ich keine personenbezogene Daten von Dir."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "P.S. Bald kann ich Dir übrigens auch über andere Studiengänge Auskunft geben."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548844503,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

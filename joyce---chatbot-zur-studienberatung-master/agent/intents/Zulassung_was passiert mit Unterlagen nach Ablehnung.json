@@ -1,0 +1,37 @@
+{
+  "id": "4a6f1a8c-82c8-4f32-a9eb-21be1d662182",
+  "name": "Zulassung_was passiert mit Unterlagen nach Ablehnung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6d63f450-03f5-4b94-9273-e55328e8a373",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Alle elektronisch gespeicherten Daten sowie eingereichten Papierunterlagen werden nach Beendigung des Verfahrens aus Datenschutzgründen vernichtet. Eine Rücksendung der Bewerbungsunterlagen ist nicht möglich."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547694151,
+  "fallbackIntent": false,
+  "events": []
+}

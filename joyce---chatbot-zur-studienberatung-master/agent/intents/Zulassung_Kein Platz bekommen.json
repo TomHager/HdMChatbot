@@ -1,0 +1,37 @@
+{
+  "id": "a574b939-7aea-45bc-9d92-3d557318fe7b",
+  "name": "Zulassung_Kein Platz bekommen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0292a0bb-3385-4bff-802f-2f8b2ed1f5bc",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du kannst Dich beliebig oft wieder an der HdM bewerben. Bei einer erneuten Bewerbung musst Du wieder am regulären Bewerbungsverfahren teilnehmen und erneut sämtliche erforderliche Unterlagen einreichen. Ergebnisse bisheriger Bewerbungsverfahren wirken sich nicht auf die Chance bei zukünftigen Verfahren aus."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547694125,
+  "fallbackIntent": false,
+  "events": []
+}

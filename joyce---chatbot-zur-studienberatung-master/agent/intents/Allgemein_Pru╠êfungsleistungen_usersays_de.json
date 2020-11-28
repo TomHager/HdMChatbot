@@ -1,0 +1,74 @@
+[
+  {
+    "id": "5767e892-96e7-459c-abcf-23932da7bbd6",
+    "data": [
+      {
+        "text": "Prüfungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7296f912-473c-49e6-a4d4-0d8afb644524",
+    "data": [
+      {
+        "text": "Prüfungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311736
+  },
+  {
+    "id": "410c016c-acd1-4a07-a592-942d1cb910f7",
+    "data": [
+      {
+        "text": "Wie sind die Klausuren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285661
+  },
+  {
+    "id": "2b264d60-9ec6-4a2a-9539-a7dcb7d2830b",
+    "data": [
+      {
+        "text": "Welche Prüfungen gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285661
+  },
+  {
+    "id": "97d70f86-4564-4cc7-b6d9-05cc0ac5f0d6",
+    "data": [
+      {
+        "text": "Was gibt es für Prüfungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285661
+  },
+  {
+    "id": "97d76612-74a9-46c1-8922-7693094e55e7",
+    "data": [
+      {
+        "text": "Wie sehen die Prüfungen aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285559
+  }
+]

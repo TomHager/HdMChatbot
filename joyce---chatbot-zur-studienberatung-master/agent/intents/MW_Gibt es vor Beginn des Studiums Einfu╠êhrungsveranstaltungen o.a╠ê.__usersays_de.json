@@ -1,0 +1,145 @@
+[
+  {
+    "id": "c4027c57-af1a-40aa-831b-885ff2420451",
+    "data": [
+      {
+        "text": "Wie wichtig ist es, bei der Einführungsveranstaltung anwesend zu sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397310
+  },
+  {
+    "id": "d2f33095-5cab-4165-b1f5-73b0a192becb",
+    "data": [
+      {
+        "text": "Wie der Besuch ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Einführungsveranstaltung vorausgesetzt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397310
+  },
+  {
+    "id": "ba1c09db-aaf5-46c7-a0f3-aa7389afc695",
+    "data": [
+      {
+        "text": "Muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Einführungsveranstaltung besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397310
+  },
+  {
+    "id": "938cf33e-2506-438d-9dc2-e052d1d69942",
+    "data": [
+      {
+        "text": "Begrüßungsveranstaltung und Einführung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397310
+  },
+  {
+    "id": "a9789aa6-1c5a-4250-a371-755b25f0a37c",
+    "data": [
+      {
+        "text": "Findet ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Einführungsveranstaltung statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545132504
+  },
+  {
+    "id": "d2d5c6de-a4be-4c06-9934-93df6154842e",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Begrüßung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545132504
+  },
+  {
+    "id": "886b87cc-f0f4-4ebf-bd81-148e91549ef0",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Einführungsveranstaltung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545132504
+  },
+  {
+    "id": "60034e26-8348-43aa-b697-39001e1ca254",
+    "data": [
+      {
+        "text": "Gibt es vor Beginn des Studiums Einführungsveranstaltungen o.ä.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545132504
+  }
+]

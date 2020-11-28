@@ -1,0 +1,33 @@
+{
+  "id": "2aeea940-0d03-4661-9844-d23ecbbdc19c",
+  "name": "Zulassung_Voraussetzungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Voraussetzung für die Zulassung ist die Allgemeine Hochschulreife, die fachgebundene Hochschulreife (alle Formen) oder die Fachhochschulreife. Eine an Fachoberschulen (außerhalb Baden-Württembergs) erworbene Fachhochschulreife ist aufgrund des Fachhochschulgesetzes in Baden-Württemberg anerkannt."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Mehr über allgemeine Zulassungsvoraussetzungen an der HdM findest Du hier: https://www.hdm-stuttgart.de/studieninteressierte/bewerber/zulassung"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546985606,
+  "fallbackIntent": false,
+  "events": []
+}

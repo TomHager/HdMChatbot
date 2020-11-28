@@ -1,0 +1,33 @@
+{
+  "id": "8266acf0-e9f9-4637-99b5-f1b2c1e199d1",
+  "name": "Witz_Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Was ist schwarz-weiß und sitzt auf einer Schaukel?"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "ein Schwinguin 🐧"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548341465,
+  "fallbackIntent": false,
+  "events": []
+}

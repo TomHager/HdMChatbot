@@ -1,0 +1,42 @@
+{
+  "id": "3bbd1f61-3e48-43e0-96ce-3cb262ae4266",
+  "name": "MW_Betreuungsschlüssel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5c0e73a6-9a4e-4fbc-b542-55968f13405d",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Auf 450 MW Studierende (über alle Semester verteilt) kommen 15 Professoren, rein rechnerisch liegt der Betreuungsschlüssel also bei 30 Studierenden pro Professor*In."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die tatsächliche Gruppengröße kann aber insbesondere bei Projektarbeiten im Hauptstudium nur bei 12 Studierenden pro Professor*In liegen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546983160,
+  "fallbackIntent": false,
+  "events": []
+}

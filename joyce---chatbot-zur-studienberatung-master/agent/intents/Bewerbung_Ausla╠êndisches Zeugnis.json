@@ -1,0 +1,33 @@
+{
+  "id": "43f276de-2553-4669-824a-4d250122fc5d",
+  "name": "Bewerbung_Ausländisches Zeugnis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Klar – auch mit einem Schulabschluss aus dem Ausland kannst Du Dich an der HdM bewerben. Allerdings läuft der Bewerbungsprozess etwas anders ab, denn du musst dein Abschlusszeugnis zuerst anerkennen lassen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Informationen zum Bewerbungsprozess und der Anerkennung ausländischer Zeugnisse findest Du hier: https://www.hdm-stuttgart.de/studieninteressierte/bewerber/auslaendische_bewerber"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547718887,
+  "fallbackIntent": false,
+  "events": []
+}

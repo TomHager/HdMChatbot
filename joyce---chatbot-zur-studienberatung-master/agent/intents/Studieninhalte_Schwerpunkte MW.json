@@ -1,0 +1,33 @@
+{
+  "id": "dced0541-0dc4-4535-bc0a-088cbc0c0531",
+  "name": "Studieninhalte_Schwerpunkte MW",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Im Hauptstudium vertiefst Du entweder Dein Wissen in einem der beiden Schwerpunkte oder Du spezialisierst Dich nicht und wirst zum \"Allrounder\"."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Der Schwerpunkt Management beinhaltet spezielles Medienmanagement und spezielle Medien-BWL. Im Schwerpunkt Konzeption \u0026 Analyse stehen hingegen das Analysieren, Konzipieren, Gestalten und Produzieren von Medienprodukten im Vordergrund. Neben der Spezialisierung bieten Wahlfächer Freiheiten bei der Gestaltung des Studiums nach individuellen Stärken."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548657121,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "924885a4-83e7-4c19-a6dc-f78f28148411",
+    "data": [
+      {
+        "text": "Wie werde ich benachrichtigt, ob ich zugelassen wurde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626472
+  },
+  {
+    "id": "e5ec7a1a-d266-4a08-b848-3b4d0aa173eb",
+    "data": [
+      {
+        "text": "Wer sagt mir ob ich zugelassen wurde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626472
+  },
+  {
+    "id": "37a94cdb-55fe-4209-bfc9-98711ee46408",
+    "data": [
+      {
+        "text": "Wo finde ich raus, ob ich zugelassen wurde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626472
+  },
+  {
+    "id": "7aa3ac3e-e332-4771-8f64-9ebd612ace8f",
+    "data": [
+      {
+        "text": "Wo kann ich überprüfen ob ich zugelassen wurde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910811
+  },
+  {
+    "id": "0680e385-64e5-42ad-8b73-a0b03e88e956",
+    "data": [
+      {
+        "text": "Wo bekomme ich Bescheid ob ich zugelassen wurde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910811
+  },
+  {
+    "id": "ae1c1829-a6ae-4a93-b3d2-3f14abd8447a",
+    "data": [
+      {
+        "text": "Bekomme ich für die Zulassung ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Brief?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910811
+  },
+  {
+    "id": "bd564b7b-bf1b-42d3-b8b5-ff9ab1f12190",
+    "data": [
+      {
+        "text": "Wie bekomme ich Bescheid, ob ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Zulassung erhalte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910811
+  }
+]

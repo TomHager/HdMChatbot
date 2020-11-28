@@ -1,0 +1,270 @@
+[
+  {
+    "id": "9b8128f7-3ff7-4086-9876-cebb2c16bb2e",
+    "data": [
+      {
+        "text": "Was kann ich tun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "ec534af6-146e-490f-b4b7-3d65579fc756",
+    "data": [
+      {
+        "text": "?????",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb7dd0da-dac6-4bbb-9345-9a1ab06a11a3",
+    "data": [
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1548234281
+  },
+  {
+    "id": "7c88f707-6074-43b3-b0de-30e4ebfd99bd",
+    "data": [
+      {
+        "text": "Ich brauche hilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546802936
+  },
+  {
+    "id": "426fca5a-edba-4ab0-9d1d-131e7bdf8563",
+    "data": [
+      {
+        "text": "Über welche Themen kannst du mich informieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546692083
+  },
+  {
+    "id": "d292e4cb-ee92-490f-ad0a-dc59b51836eb",
+    "data": [
+      {
+        "text": "Über welche Themen kannst Du mir Auskunft geben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546692083
+  },
+  {
+    "id": "5e01ba5b-a860-4ea1-8882-151b8e0d1723",
+    "data": [
+      {
+        "text": "Hilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1546690252
+  },
+  {
+    "id": "b42068d0-dc3f-48b5-8896-0f7489f352ef",
+    "data": [
+      {
+        "text": "Mir fällt keine Frage ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546690252
+  },
+  {
+    "id": "cdb744b9-93a3-4035-b16a-a6fbca99e134",
+    "data": [
+      {
+        "text": "Ich weiß ",
+        "userDefined": false
+      },
+      {
+        "text": "gerade",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " nicht mehr, was ich fragen soll",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546690252
+  },
+  {
+    "id": "d8ba61b5-61d7-4ea0-95f5-0bae22855906",
+    "data": [
+      {
+        "text": "Kannst du mir erklären, was ich machen muss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906525
+  },
+  {
+    "id": "99df3299-c818-4995-8c2f-dece8ed2a76c",
+    "data": [
+      {
+        "text": "Kannst du mir erklären, wie das funktioniert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906525
+  },
+  {
+    "id": "210c85ae-ab47-4e8c-9bda-6cbc88896cfd",
+    "data": [
+      {
+        "text": "Was kann ich hier machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906525
+  },
+  {
+    "id": "840bcdd4-87ca-4327-bc0c-e82f7e048883",
+    "data": [
+      {
+        "text": "Was muss ich machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906525
+  },
+  {
+    "id": "bb02cf36-fa3c-48b3-8f4a-fa2e879df03e",
+    "data": [
+      {
+        "text": "Für was bist du da?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906525
+  },
+  {
+    "id": "c212647b-1ff1-4e40-9b3d-e7a2e6e403de",
+    "data": [
+      {
+        "text": "Ich verstehe das hier nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906525
+  },
+  {
+    "id": "320d0921-01c0-4664-ba30-2ae8fbb68be2",
+    "data": [
+      {
+        "text": "Wie kannst du mir helfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906525
+  },
+  {
+    "id": "a88ccfa2-18bc-445e-8c7f-0798c065656b",
+    "data": [
+      {
+        "text": "Was kannst du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906525
+  },
+  {
+    "id": "24933225-6e5a-452c-aaf0-d6c2f2967046",
+    "data": [
+      {
+        "text": "Was kann ich für Fragen stellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906525
+  },
+  {
+    "id": "5c58ad88-3cd6-449d-8d67-5ffb093fdff4",
+    "data": [
+      {
+        "text": "Wie geht das?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906525
+  },
+  {
+    "id": "7988ec90-0934-4b54-882b-5498f141b9b6",
+    "data": [
+      {
+        "text": "Wie funktioniert das?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906525
+  },
+  {
+    "id": "96db88d0-a7d0-4325-99fc-d5f8440e2684",
+    "data": [
+      {
+        "text": "Kannst du mir helfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545906525
+  }
+]

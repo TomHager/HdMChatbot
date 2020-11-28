@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bc5d42cd-bd75-4097-876e-5fc5e5a1a507",
+    "data": [
+      {
+        "text": "Wie ist deine Nummer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548425811
+  },
+  {
+    "id": "38fa8d54-7f15-4afc-8b02-98cce89ed287",
+    "data": [
+      {
+        "text": "Kann ich deine Nummer haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548425811
+  },
+  {
+    "id": "97488cf5-42e2-4b3c-90a6-7992f4f62868",
+    "data": [
+      {
+        "text": "Gib mal deine Nummer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548425811
+  },
+  {
+    "id": "c0fad42e-86c8-4d8f-81d3-05f6c95c8539",
+    "data": [
+      {
+        "text": "Was ist deine Nummer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

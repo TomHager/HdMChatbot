@@ -1,0 +1,336 @@
+[
+  {
+    "id": "3ea2b902-cc48-4e37-9991-9eed1732c2a5",
+    "data": [
+      {
+        "text": "Welchen Numerus Clausus brauche ich ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7622fa96-2b9e-49b6-9676-c60213df46a9",
+    "data": [
+      {
+        "text": "Brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " bestimmten Notendurchschnitt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13e12e58-434e-4404-985b-134d93d6e9cd",
+    "data": [
+      {
+        "text": "wie ist der nc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8cadeab1-9602-4453-8633-b6c21c29866e",
+    "data": [
+      {
+        "text": "Wie ist der NC des Studiengangs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77de0bb9-8cb2-407f-ba1b-e2037b0e381d",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Nummerus clausus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9d63739-1c83-4649-a201-c163b22c5f9f",
+    "data": [
+      {
+        "text": "brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " bestimmten Schnitt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3a02d085-d79a-4362-9ae0-692411d08152",
+    "data": [
+      {
+        "text": "welchen Schnitt brauche ich, um MW zu studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "997ed126-101f-44bc-9f23-3343d9394d6c",
+    "data": [
+      {
+        "text": "was ist der Numerus Clausus in MW",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546649179
+  },
+  {
+    "id": "b407aff5-63ba-4f96-884b-cc9778cb7a17",
+    "data": [
+      {
+        "text": "was ist der NC in MW",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546649179
+  },
+  {
+    "id": "02d59dc3-d20a-4830-b2f8-c2b5bf298617",
+    "data": [
+      {
+        "text": "Welchen NC hat Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545912178
+  },
+  {
+    "id": "8aa6dc68-4b1d-410f-bf20-cb43b8a7de2b",
+    "data": [
+      {
+        "text": "Welchen NC brauche ich für Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545912178
+  },
+  {
+    "id": "7d5862cf-af96-47ce-8800-ce3ca2d68ae9",
+    "data": [
+      {
+        "text": "Welchen NC brauche ich für MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545912178
+  },
+  {
+    "id": "ee9fe4bb-c537-4430-98e4-1462e5ca148c",
+    "data": [
+      {
+        "text": "Welchen NC hat MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545912178
+  },
+  {
+    "id": "8a2d9e3a-f5ed-490d-9b0e-25be91439f7b",
+    "data": [
+      {
+        "text": "Sind Noten für die Zulassung zum MW Studium relevant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545404342
+  },
+  {
+    "id": "5c8d1c7d-5e23-41bc-bf94-a841af7ecb7f",
+    "data": [
+      {
+        "text": "Gibt es Voraussetzungen in Form von Noten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545404342
+  },
+  {
+    "id": "e3734f8e-0386-4680-98ed-ad087655140a",
+    "data": [
+      {
+        "text": "Wie wichtig sind Noten um zum Studium zugelassen zu werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545404342
+  },
+  {
+    "id": "b3f78abf-6c4b-439d-a35f-9e93cc054d42",
+    "data": [
+      {
+        "text": "NC in Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545404342
+  },
+  {
+    "id": "4fa501a6-cc61-45ee-a252-0bcd9ac6a277",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " NC in Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545136304
+  },
+  {
+    "id": "fb6d05af-0d82-40ff-82dd-cf88b02d283f",
+    "data": [
+      {
+        "text": "Gibt es Voraussetzungen in Form ",
+        "userDefined": false
+      },
+      {
+        "text": "eines",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " NCs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545136304
+  },
+  {
+    "id": "e6c076a7-cdf8-45ed-8710-b58f22f46f46",
+    "data": [
+      {
+        "text": "Hat Medienwirtschaft ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Numerus Clausus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545136304
+  },
+  {
+    "id": "744af7c3-d99d-4984-93d3-e62aad1715b0",
+    "data": [
+      {
+        "text": "Brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " bestimmte Note um Medienwirtschaft zu studieren zu können?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545136304
+  },
+  {
+    "id": "b75984e6-37be-4244-a2d3-280e0cf33e08",
+    "data": [
+      {
+        "text": "Wie hoch ist der NC für MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545136304
+  }
+]

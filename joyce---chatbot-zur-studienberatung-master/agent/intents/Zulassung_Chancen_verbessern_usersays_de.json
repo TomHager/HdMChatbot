@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2c5ec577-1c85-47e4-822c-2f7c1dc6e562",
+    "data": [
+      {
+        "text": "Wie pushe ich meine Bewerbung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547695232
+  },
+  {
+    "id": "3c414056-1b4c-4a77-8175-56231fe03cb3",
+    "data": [
+      {
+        "text": "Wie verbessere ich meine Zulassungschancen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547695232
+  },
+  {
+    "id": "a6ca6541-7476-4ffc-aed1-fd8548a657f4",
+    "data": [
+      {
+        "text": "Wie erhöhe ich meine Chancen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547695232
+  },
+  {
+    "id": "d3f155a8-7c67-49a9-9853-2ebd2931673b",
+    "data": [
+      {
+        "text": "Wie bekomme ich bessere Chancen bei der Bewerbung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547695232
+  },
+  {
+    "id": "18a31ea3-9f0f-450f-957d-4cb9665f56f5",
+    "data": [
+      {
+        "text": "Was kann ich tun um meine Chance zu erhöhen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547695232
+  },
+  {
+    "id": "ae09f9f4-0828-44d1-8ef7-fa3225b6830f",
+    "data": [
+      {
+        "text": "Welche Möglichkeiten habe ich, um meine Chance auf Zulassung zu verbessern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547695232
+  }
+]

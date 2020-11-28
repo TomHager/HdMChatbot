@@ -1,0 +1,20 @@
+{
+  "id": "2c9c74a3-ee53-4d7d-93b5-994ed25d46b0",
+  "name": "Random_frage_nicht_verstanden",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

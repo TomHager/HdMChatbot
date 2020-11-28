@@ -1,0 +1,45 @@
+{
+  "id": "0b54d0ea-7ca9-471a-84cb-7200a10731b7",
+  "name": "Zulassung_Anrechenbare Berufsausbildungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ceed41ab-f9ab-4d5b-ba7f-83f852570d55",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "3615c283-b576-4c7d-815c-406acbdc4049",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Eine einschlägige Berufsausbildung kann dazu beitragen, Deine Chancen in den Studiengang Medienwirtschaft aufgenommen zu werden, zu erhöhen. So führt beispielsweise eine Ausbildung zur Industriekauffrau/-mann zu einem Bonus von 0,3. Falls Du weitere Fragen zu der Anrechenbarkeit von Ausbildungen hast, wenden Sie sich bitte direkt an das Studienbüro, da keine pauschalen Aussagen im Voraus möglich sind:\nhttps://www.hdm-stuttgart.de/studieninteressierte/info/studienbuero"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547694520,
+  "fallbackIntent": false,
+  "events": []
+}

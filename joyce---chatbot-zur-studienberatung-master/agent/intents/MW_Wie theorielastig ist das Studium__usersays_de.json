@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6d66b077-5f4f-47d6-9a8b-5e2c1a358a1f",
+    "data": [
+      {
+        "text": "Wie stark theorielastig ist das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405518
+  },
+  {
+    "id": "0ebf8796-4651-4693-9b72-60b7114adc38",
+    "data": [
+      {
+        "text": "Theorieanteil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405518
+  },
+  {
+    "id": "950308d3-0f5a-40c9-b6cb-1836ae3da055",
+    "data": [
+      {
+        "text": "Welche Art von Theorie wird vermittelt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545234243
+  },
+  {
+    "id": "afd29817-a095-4fbd-8e60-a450a5be8df4",
+    "data": [
+      {
+        "text": "Wie hoch ist der Theorie Anteil in MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545234243
+  },
+  {
+    "id": "ae6cec81-0d1e-45d1-8ad2-63471e172c5e",
+    "data": [
+      {
+        "text": "Wie sieht die Verteilung zwischen Theorie und Praxis aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545234243
+  },
+  {
+    "id": "8aafc9f5-7158-4f0d-b53c-7009a2949310",
+    "data": [
+      {
+        "text": "Wie theoretisch ist das Studium der Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545234243
+  },
+  {
+    "id": "6630e42c-0dbf-4212-8d35-7af90faaa955",
+    "data": [
+      {
+        "text": "Wie theorielastig ist das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545234243
+  }
+]

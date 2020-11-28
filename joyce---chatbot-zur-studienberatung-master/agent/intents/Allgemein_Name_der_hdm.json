@@ -1,0 +1,28 @@
+{
+  "id": "68bc14fb-b9d1-473e-aa0a-571866f3afaa",
+  "name": "Allgemein_Name_der_hdm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "HdM steht für Hochschule der Medien."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548429488,
+  "fallbackIntent": false,
+  "events": []
+}

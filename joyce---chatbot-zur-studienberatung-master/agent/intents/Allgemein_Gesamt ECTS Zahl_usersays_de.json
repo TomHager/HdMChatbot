@@ -1,0 +1,168 @@
+[
+  {
+    "id": "bd3fff71-8bcb-48e7-8936-55370493bd30",
+    "data": [
+      {
+        "text": "wie viele ects hat ",
+        "userDefined": false
+      },
+      {
+        "text": "das erste",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48399018-5464-4c1d-b3f4-3332e9e6329b",
+    "data": [
+      {
+        "text": "Wie viele credits gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548150607
+  },
+  {
+    "id": "f39aa218-22f2-4ed4-be50-ed9b33b4c412",
+    "data": [
+      {
+        "text": "Wie viele Credits hat der Bachelor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547312064
+  },
+  {
+    "id": "860bd275-f1fb-4cb5-bc99-3047f91600b1",
+    "data": [
+      {
+        "text": "Wie viele Punkte muss man im Bachelor erreichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397201
+  },
+  {
+    "id": "067a39a4-526a-4078-bb08-0defdfaab180",
+    "data": [
+      {
+        "text": "Wie viele ECTS muss man im Bachelor erreichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397201
+  },
+  {
+    "id": "43d776c3-b91e-4022-af98-a733c4e31284",
+    "data": [
+      {
+        "text": "Wie viele ECTS braucht man insgesamt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397201
+  },
+  {
+    "id": "b8228393-f0f6-40cb-8c01-d799ff1b7136",
+    "data": [
+      {
+        "text": "Nenne mir die Anzahl der ECTS im gesamten Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397201
+  },
+  {
+    "id": "c81696d7-5a30-4228-8fc1-75d49cfe8a70",
+    "data": [
+      {
+        "text": "Wie viel ECTS kann ich über das ganze Studium verteilt erzielen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397201
+  },
+  {
+    "id": "62d38928-d33c-4d84-8f12-c0b22b49b589",
+    "data": [
+      {
+        "text": "ECTS Anzahl ganzes Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397201
+  },
+  {
+    "id": "38fbc3c1-cad8-4f81-853f-d66472726d6a",
+    "data": [
+      {
+        "text": "Wie hoch ist die gesamt ECTS Anzahl im Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545240723
+  },
+  {
+    "id": "fe578cee-de1f-4aeb-b867-10dee4a8c44c",
+    "data": [
+      {
+        "text": "Wie viele ECTS muss ich im ganzen Studium insgesamt erbringen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545240723
+  },
+  {
+    "id": "2755cbf4-74f4-4b81-a6c0-3f9f256d7ca6",
+    "data": [
+      {
+        "text": "Wie ist der Gesamtaufwand über das ganze Studium bemessen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545240723
+  },
+  {
+    "id": "170f815c-bcb0-42b2-9216-f2ce6c47cf27",
+    "data": [
+      {
+        "text": "Wie viele ECTS-Punkte müssen im Laufe des Studiums erbracht werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545240723
+  }
+]

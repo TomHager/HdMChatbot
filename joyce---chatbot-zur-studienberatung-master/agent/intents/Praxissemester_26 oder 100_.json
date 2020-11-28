@@ -1,0 +1,58 @@
+{
+  "id": "c8ae29a6-f391-40f0-9467-10e0d1c2fbbb",
+  "name": "Praxissemester_26 oder 100?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HilfeAnfrage.HilfeAnfrage-Studieninhalte",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "61c536a1-f96b-43fd-9933-111d5825b828",
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "5be2622c-3692-48fb-8f45-29ae7c981d10",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "49513425-9a4c-43a2-a404-eaa27deecdb2",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "9cd150bd-0b6a-4b11-add4-c27c272be4f0",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Der Zeitraum der Tätigkeit muss im Vertrag mit genau 26 Wochen angegeben werden. Für die erfolgreiche Anerkennung muss ein Minimum von 100 Arbeitstagen innerhalb der Vertragsdauer von 26 Wochen nachgewiesen werden. Die Differenz bilden Fehltage, bspw. aufgrund von Urlaub oder Krankheit."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547489942,
+  "fallbackIntent": false,
+  "events": []
+}

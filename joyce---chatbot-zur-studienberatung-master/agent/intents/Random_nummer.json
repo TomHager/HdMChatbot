@@ -1,0 +1,28 @@
+{
+  "id": "104518e9-b881-4a05-9e98-1df4e99a4fa1",
+  "name": "Random_nummer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Schau doch mal im Telefonbuch 😉 Falls du die Studienberatung erreichen willst, findest du hier einen Ansprechpartner: https://www.hdm-stuttgart.de/studieninteressierte/info/studienberatung"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548425811,
+  "fallbackIntent": false,
+  "events": []
+}

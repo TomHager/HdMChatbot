@@ -1,0 +1,202 @@
+[
+  {
+    "id": "947429ea-e2c7-4001-af67-fe636b831223",
+    "data": [
+      {
+        "text": "Darf ich mich mit ",
+        "userDefined": false
+      },
+      {
+        "text": "180",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ECTS für den ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Semestrigen Master einschreiben ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625270
+  },
+  {
+    "id": "1e62cef3-9b50-4474-aba8-b3a74fe36b94",
+    "data": [
+      {
+        "text": "Kann ich mit ",
+        "userDefined": false
+      },
+      {
+        "text": "180",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ECTS den Master machen ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546625270
+  },
+  {
+    "id": "33fce4ea-19ba-46be-8e01-9e6fed1b99ba",
+    "data": [
+      {
+        "text": "Drei",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " semestriger Master trotz ",
+        "userDefined": false
+      },
+      {
+        "text": "180",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ECTS im Bachelor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545859943
+  },
+  {
+    "id": "0e944b3b-a25b-4c9f-a325-5424ff935485",
+    "data": [
+      {
+        "text": "Kann ich trotzdem ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " 3-semestrigen Master machen, wenn ich im Bachelor nur ",
+        "userDefined": false
+      },
+      {
+        "text": "180",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ECTS gemacht habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546875302
+  },
+  {
+    "id": "603fb1b4-f1f3-413b-b413-0ca0fc7280a1",
+    "data": [
+      {
+        "text": "Ist es möglich sich ",
+        "userDefined": false
+      },
+      {
+        "text": "für einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " 3-semestrigen Master zu bewerben, wenn mein Bachelor nur ",
+        "userDefined": false
+      },
+      {
+        "text": "180",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ECTS umfasst?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545859943
+  },
+  {
+    "id": "e4b5e4a4-606f-4c66-a475-bed37860edf6",
+    "data": [
+      {
+        "text": "Wie kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "für einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " 3-semestrigen Master bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545859943
+  },
+  {
+    "id": "99c53902-9618-4ee2-899c-3005351e5c6d",
+    "data": [
+      {
+        "text": "Ich habe meinen Bachelor mit ",
+        "userDefined": false
+      },
+      {
+        "text": "180",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ECTS abgeschlossen. Kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "für einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " 3-semestrigen Master an der HdM bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545859943
+  }
+]

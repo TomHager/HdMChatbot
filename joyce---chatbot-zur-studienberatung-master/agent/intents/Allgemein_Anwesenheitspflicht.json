@@ -1,0 +1,37 @@
+{
+  "id": "fb4b334a-5111-4029-8638-d3e63fb1acb2",
+  "name": "Allgemein_Anwesenheitspflicht",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c0c92e61-d16d-4c51-ba22-7c2012f6ed06",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Prinzipiell ist der Besuch der Veranstaltungen freiwillig. Die regelmäßige Anwesenheit der Studierenden ist trotzdem erwünscht und teilweise wird sie vorausgesetzt. Einzelheiten regelt jeweils der zuständige Dozent, dem es freigestellt ist auch Anwesenheitslisten zu führen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547639403,
+  "fallbackIntent": false,
+  "events": []
+}

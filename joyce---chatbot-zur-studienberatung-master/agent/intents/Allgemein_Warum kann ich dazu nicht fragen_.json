@@ -1,0 +1,51 @@
+{
+  "id": "7b813c9f-2e4a-457a-bd27-2ff4ec6b275c",
+  "name": "Allgemein_Warum kann ich dazu nicht fragen?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2c338f06-617b-40f4-ae08-dddd4f1e97f9",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "9127933c-7ec4-4538-8895-24ff9ea755d6",
+          "dataType": "@Beleidigung",
+          "name": "Beleidigung",
+          "value": "$Beleidigung",
+          "isList": false
+        },
+        {
+          "id": "8ff787b5-250b-4050-bdb9-5908d31f63c5",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ich bin trotz allem nur ein Bot, der nicht alles wissen kann :/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548863882,
+  "fallbackIntent": false,
+  "events": []
+}

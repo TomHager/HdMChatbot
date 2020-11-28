@@ -1,0 +1,33 @@
+{
+  "id": "ebe19c34-f3ac-448d-b396-ecd38165acaa",
+  "parentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "rootParentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "name": "HilfeAnfrage - Allgemeines",
+  "auto": true,
+  "contexts": [
+    "HilfeAnfrage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HilfeAnfrage.HilfeAnfrage-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hier sind ein paar Beispielfragen zum Thema \"Allgemeines\":\n-Was sind allgemeine Vorteile eines Studiums?-\n-Was sind die Vorteile wenn ich an einer Hochschule studiere im Vergleich zu einer Universität?- \n-Warum überhaupt ein Medienstudium?- \n-Wie finde ich die HdM?-\n-Wo finde ich Ansprechpartner?-"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546690104,
+  "fallbackIntent": false,
+  "events": []
+}

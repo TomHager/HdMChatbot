@@ -1,0 +1,33 @@
+{
+  "id": "43429b43-3c2a-4859-b08d-5601226a658c",
+  "parentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "rootParentId": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "name": "HilfeAnfrage - Medienwirtschaft",
+  "auto": true,
+  "contexts": [
+    "HilfeAnfrage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HilfeAnfrage.HilfeAnfrage-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hier sind ein paar Beispielfragen zum Thema Medienwirtschaft:\n-Welchen Abschluss habe ich am Ende?-\n-Wie sind die Erfolgschancen mit einem MW-Studium auf dem späteren Arbeitsmarkt?-\n-Wie theorielastig ist das Studium?-\n-Muss ich ein Vorpraktikum machen?-\n-Welche weiteren Studienmöglichkeiten gibt es nach dem Bachelor?-"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546689946,
+  "fallbackIntent": false,
+  "events": []
+}

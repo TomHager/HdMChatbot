@@ -1,0 +1,164 @@
+[
+  {
+    "id": "fcc69159-52d8-4bf5-852d-f91c22d3d0cb",
+    "data": [
+      {
+        "text": "Bist du nicht zu jung um zu studieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "83d835ad-2df6-4083-b407-e4ede8ab7642",
+    "data": [
+      {
+        "text": "Wie heißt du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548426041
+  },
+  {
+    "id": "7c3a564e-8d60-4271-b02c-42b04cefbbdb",
+    "data": [
+      {
+        "text": "Warum ist du ein Kücken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a3ebf7b-6f84-4ee5-8dde-a243b5dfddb3",
+    "data": [
+      {
+        "text": "Wieso bist du ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Tier ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05025dd8-6c3f-4033-9aff-a41fbe8b556a",
+    "data": [
+      {
+        "text": "wieso küken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a92a116c-9bff-436e-8fb5-d22c90c7aaaa",
+    "data": [
+      {
+        "text": "Wieso bist du ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " küken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77242ca8-6f84-4d4b-9dcf-970a76186f40",
+    "data": [
+      {
+        "text": "Bist Du ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " kücken? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ce4aef7-451f-4c57-a7d2-aa1a38c478ec",
+    "data": [
+      {
+        "text": "Was macht das Küken da oben ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4a91a51-10e6-4c2c-8176-44d191e7778c",
+    "data": [
+      {
+        "text": "Das küken überdeckt den text auf smartphones ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6be33101-9c2a-4fdf-a123-2c835611c7a7",
+    "data": [
+      {
+        "text": "Was soll das",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaa6489f-9bd2-4678-a565-f43904e5cbf3",
+    "data": [
+      {
+        "text": "Was soll dieses küken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

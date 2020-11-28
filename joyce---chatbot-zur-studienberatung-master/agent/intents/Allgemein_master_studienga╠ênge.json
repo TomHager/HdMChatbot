@@ -1,0 +1,28 @@
+{
+  "id": "35563667-214b-4005-955a-3bba934122a2",
+  "name": "Allgemein_master_studiengänge",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Master Studiengänge an der HdM sind sehr vielfältig. Hier findest du eine Übersicht: https://www.hdm-stuttgart.de/studieninteressierte/studium/master"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548430103,
+  "fallbackIntent": false,
+  "events": []
+}

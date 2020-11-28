@@ -1,0 +1,37 @@
+{
+  "id": "37bfed9c-32ea-4867-adca-cea350db4e0a",
+  "name": "Bewerbung_Motivationsschreiben",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0d7e0242-5459-4e4b-b6c0-bf01d7952a6f",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das hängt vom jeweiligen Studiengang ab. Für Medienwirtschaft gilt: Ein Motivationsschreiben wird nicht gefordert."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547717995,
+  "fallbackIntent": false,
+  "events": []
+}

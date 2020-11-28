@@ -1,0 +1,33 @@
+{
+  "id": "88f190d2-42a9-4776-b9e4-1de119f0e333",
+  "name": "Studieninhalte_wirtschaftliche Inhalte",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Diese Antwort ist abhängig von dem möglichen Schwerpunkt, den Du nach dem Grundstudium setzen kannst. Grundsätzlich kann ich Dir aber sagen: Mindestens die Hälfte Deiner ECTS sind wirtschaftlich ausgerichtet."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Mehr Informationen zu den genauen Inhalten und möglichen Vertiefungen findest Du hier: https://mw.hdm-stuttgart.de/medienwirtschaft/bew/studieninhalte/schwerpunkt/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546984416,
+  "fallbackIntent": false,
+  "events": []
+}

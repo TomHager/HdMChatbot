@@ -1,0 +1,116 @@
+[
+  {
+    "id": "f81e0ccb-0834-442d-bd79-69590b51a5ac",
+    "data": [
+      {
+        "text": "Wie viel Zeit nimmt ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studium in Anspruch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545411388
+  },
+  {
+    "id": "0f39a2d4-bd4f-472c-909b-79ac1db3fac5",
+    "data": [
+      {
+        "text": "Zeitaufwand im Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545411388
+  },
+  {
+    "id": "1380c257-4123-4ffc-afdd-923ebc68a958",
+    "data": [
+      {
+        "text": "Wie viel Zeitaufwand habe ich mit ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545233782
+  },
+  {
+    "id": "b7717775-e82c-4756-af6b-e32573c208ca",
+    "data": [
+      {
+        "text": "Brauche ich viel Zeit ",
+        "userDefined": false
+      },
+      {
+        "text": "in der Woche",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " für das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545233782
+  },
+  {
+    "id": "d9aa6f59-f60f-4abc-aea5-591766340e41",
+    "data": [
+      {
+        "text": "Kann ich neben dem Studium arbeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545233782
+  },
+  {
+    "id": "8aec1a0f-a3d6-46df-82bc-7dabd0ea4e2c",
+    "data": [
+      {
+        "text": "Wie viel Zeit muss ich durchschnittlich für das Studium einplanen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545233782
+  },
+  {
+    "id": "3c55e42d-dc33-4d41-a7bb-fdd6c22b7161",
+    "data": [
+      {
+        "text": "Wie zeitaufwändig ist das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545233782
+  }
+]

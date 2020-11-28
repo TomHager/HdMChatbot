@@ -1,0 +1,28 @@
+{
+  "id": "ea1ee570-f473-40fa-9b62-b0d4cdb63a55",
+  "name": "Allgemein_medianight",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Auf der MediaNight stellen die Studierenden der Hochschule der Medien vor, woran sie im Semester gearbeitet haben. Das Spektrum reicht von künstlerisch-kreativen Projekten bis hin zu alltagstauglichen Industrieanwendungen. Mehr Infos zu den jeweiligen Projekten findest du hier: https://www.hdm-stuttgart.de/medianight"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548425361,
+  "fallbackIntent": false,
+  "events": []
+}

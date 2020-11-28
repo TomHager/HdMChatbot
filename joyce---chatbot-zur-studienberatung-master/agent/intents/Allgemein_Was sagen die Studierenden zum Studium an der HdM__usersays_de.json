@@ -1,0 +1,226 @@
+[
+  {
+    "id": "7ea747c0-c56f-4aba-b619-96c43dba592c",
+    "data": [
+      {
+        "text": "Wo finde ich Meinungen von Studierenden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd70cb2d-4ba5-493e-a420-753a1df15806",
+    "data": [
+      {
+        "text": "Lohnt es sich wirklich ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " km fürs Studium von zuhause weg zu ziehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "223d591a-416b-425e-852d-cf306fc4cdfe",
+    "data": [
+      {
+        "text": "Warum die HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547653765
+  },
+  {
+    "id": "58049a70-d9b8-4b2c-bde9-7446a182914c",
+    "data": [
+      {
+        "text": "Was zeichnet die HdM aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547312860
+  },
+  {
+    "id": "8b15bf26-9843-4f39-ade6-d4c9f15b3e88",
+    "data": [
+      {
+        "text": "Was sagen Studierende?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547213105
+  },
+  {
+    "id": "15e4b34a-b800-4582-8ed7-569738f814f9",
+    "data": [
+      {
+        "text": "Studium an der HdM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039795
+  },
+  {
+    "id": "1b470404-ed7b-4360-ba3b-d626604dab13",
+    "data": [
+      {
+        "text": "Erzähl mir etwas über das Studium an der HdM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039795
+  },
+  {
+    "id": "0051e90a-16e3-478e-be65-d581e1fa22fa",
+    "data": [
+      {
+        "text": "Kannst Du mir etwas über das Studium an der HdM erzählen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039795
+  },
+  {
+    "id": "6dfbba0d-7975-430d-8241-c9eb9bccad63",
+    "data": [
+      {
+        "text": "Was machen Studierende an der Hdm?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546959000
+  },
+  {
+    "id": "18dc7597-44e2-4974-afe0-c8bf72d5fc13",
+    "data": [
+      {
+        "text": "Kannst du mir ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " bisschen über das Studium erzählen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546906223
+  },
+  {
+    "id": "7b5ed00a-4c8b-4ccd-85a5-b07546d4cc41",
+    "data": [
+      {
+        "text": "Wie ist es an der HdM zu studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407216
+  },
+  {
+    "id": "630e15c7-7833-4ae6-af7b-fa4c51a04754",
+    "data": [
+      {
+        "text": "Stimmen zum Studium allgemein",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407216
+  },
+  {
+    "id": "080a609a-24f7-4012-9f5f-7b1f76159cab",
+    "data": [
+      {
+        "text": "Zufriedenheit im Studium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407216
+  },
+  {
+    "id": "c7ba153a-5046-475f-9a28-e7aa15972b66",
+    "data": [
+      {
+        "text": "Sind die Studenten zufrieden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129558
+  },
+  {
+    "id": "1924466b-9e9c-495b-b73e-98ac4c366e72",
+    "data": [
+      {
+        "text": "Was meinen die Studenten zum Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129558
+  },
+  {
+    "id": "53e51b83-adf5-49f0-81ab-15e6e1759fd2",
+    "data": [
+      {
+        "text": "Was meinen die Studierenden zum Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129558
+  },
+  {
+    "id": "2971079a-82a9-463f-a7ce-fbba8908c275",
+    "data": [
+      {
+        "text": "Was sagen die Studierenden zum Studium an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129558
+  }
+]

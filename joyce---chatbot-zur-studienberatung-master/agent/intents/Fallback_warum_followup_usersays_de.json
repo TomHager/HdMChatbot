@@ -1,0 +1,74 @@
+[
+  {
+    "id": "65b096a0-e96a-4748-8230-89ff167d82af",
+    "data": [
+      {
+        "text": "Ok...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548241011
+  },
+  {
+    "id": "46bef23b-0e4f-4ab7-a328-68508279daf6",
+    "data": [
+      {
+        "text": "Hä",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548241011
+  },
+  {
+    "id": "b5e79134-852b-4d85-9166-229dc3cee418",
+    "data": [
+      {
+        "text": "Weshalb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548241011
+  },
+  {
+    "id": "9437c448-7fd2-4823-a362-2041089b46d6",
+    "data": [
+      {
+        "text": "Weshalb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548241011
+  },
+  {
+    "id": "eae08617-116e-4018-abec-b39192351eae",
+    "data": [
+      {
+        "text": "Wieso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548241011
+  },
+  {
+    "id": "9422e88c-38f9-456f-b3c0-1b2189f3b39b",
+    "data": [
+      {
+        "text": "Warum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548241011
+  }
+]

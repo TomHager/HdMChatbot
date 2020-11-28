@@ -1,0 +1,277 @@
+[
+  {
+    "id": "0aefd615-53d0-4349-be10-77cb94b9b8b9",
+    "data": [
+      {
+        "text": "Muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikum machen ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1355195e-1797-4a42-9565-36ed1f34c471",
+    "data": [
+      {
+        "text": "Praktikum trotz Arbeitserfahrung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547490429
+  },
+  {
+    "id": "a03cfed4-64c9-46b4-bac6-eca3cd99b032",
+    "data": [
+      {
+        "text": "Muss man auch ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikum machen, wenn man schon Arbeitserfahrung hat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547490429
+  },
+  {
+    "id": "a04d9ac7-e35a-4d4c-a6c6-c1ef51a73119",
+    "data": [
+      {
+        "text": "Muss man auch ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikum machen, wenn man schon gearbeitet hat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547490429
+  },
+  {
+    "id": "1abb93ce-c1dc-4e84-9015-cf310607041c",
+    "data": [
+      {
+        "text": "Muss jeder ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikum machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547490429
+  },
+  {
+    "id": "d09194c6-4684-4010-9065-20b1577fe058",
+    "data": [
+      {
+        "text": "Ist das Praktikum Pflicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547490429
+  },
+  {
+    "id": "d48ce0a1-dc63-4bad-b229-0844ba588b00",
+    "data": [
+      {
+        "text": "Muss man ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikum machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547490429
+  },
+  {
+    "id": "e8ff52ab-fccc-4c84-867f-561fdb5eeef3",
+    "data": [
+      {
+        "text": "Praxissemester mit Ausbildung verkürzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559143
+  },
+  {
+    "id": "2620f6a9-95df-4951-902f-bce1938e84f4",
+    "data": [
+      {
+        "text": "Ist es möglich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ausbildung anzurechnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559143
+  },
+  {
+    "id": "6bd76754-6082-4ada-a6f1-5f6c41ba72b5",
+    "data": [
+      {
+        "text": "Anrechnen ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ausbildung möglich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559143
+  },
+  {
+    "id": "90b1336c-3fce-458c-ba97-419c8ea251ad",
+    "data": [
+      {
+        "text": "Kann ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ausbildung angerechnet werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559143
+  },
+  {
+    "id": "e1080f2f-0a8d-486d-b4a9-1114b2c1f888",
+    "data": [
+      {
+        "text": "Kann ich mein Praxissemester irgendwie verkürzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545657894
+  },
+  {
+    "id": "d5ef89f6-f2bb-49bb-9472-e050d9f9be00",
+    "data": [
+      {
+        "text": "Kann ich meine Ausbildung auf das Praxissemester anrechnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545657894
+  },
+  {
+    "id": "28979498-3ba1-4d9a-bad8-8b1a9b7e718b",
+    "data": [
+      {
+        "text": "Ich habe bereits ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikum absolviert, kann ich dieses auf das Praxissemester anrechnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545657894
+  },
+  {
+    "id": "2a20a1a6-8955-4696-819d-6339ebbee503",
+    "data": [
+      {
+        "text": "Kann ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ausbildung für das Praxissemester angerechnet werden bzw. die Dauer der praktischen Tätigkeit verkürzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545657894
+  }
+]

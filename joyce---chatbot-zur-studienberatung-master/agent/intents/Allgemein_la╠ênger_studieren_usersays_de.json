@@ -1,0 +1,104 @@
+[
+  {
+    "id": "f652f4c7-fa68-4e7b-bd5e-0ea7b30fdae2",
+    "data": [
+      {
+        "text": "Kann ich mehr Semester studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548692141
+  },
+  {
+    "id": "ef573248-663a-4ca8-8768-d7fddd7655de",
+    "data": [
+      {
+        "text": "Muss ich in ",
+        "userDefined": false
+      },
+      {
+        "text": "sieben",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Semestern fertig sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548692141
+  },
+  {
+    "id": "0dbc376f-b8e0-4889-a0a3-e8b8602320a8",
+    "data": [
+      {
+        "text": "muss ich in ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " semestern fertig sein",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548692141
+  },
+  {
+    "id": "061af3e7-dd23-4beb-9119-2a64a37ccf37",
+    "data": [
+      {
+        "text": "muss ich in ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " semestern fertig sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548692141
+  },
+  {
+    "id": "8882ba4e-808d-4011-bc29-325cb5d4b8b6",
+    "data": [
+      {
+        "text": "Kann ich länger studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548692141
+  },
+  {
+    "id": "41be4a4b-8f26-49dd-b444-cfbdef141f93",
+    "data": [
+      {
+        "text": "wieso kann ich nicht länger studieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

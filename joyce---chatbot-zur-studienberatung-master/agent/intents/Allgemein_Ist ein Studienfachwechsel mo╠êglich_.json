@@ -1,0 +1,28 @@
+{
+  "id": "47200380-4a2f-4c34-9125-896da6ed4f9e",
+  "name": "Allgemein_Ist ein Studienfachwechsel möglich?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Unter bestimmten Bedingungen ist ein Studienfachwechsel möglich. Allerdings hängt das vom Einzelfall ab. Daher empfehle ich Dir, in so einem Fall direkt Kontakt mit der Zentralen Studienberatung aufzunehmen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640153,
+  "fallbackIntent": false,
+  "events": []
+}

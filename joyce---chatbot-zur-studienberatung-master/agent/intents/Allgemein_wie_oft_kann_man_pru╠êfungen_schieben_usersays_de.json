@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0b92ad58-a419-4ef7-b528-123c95fc1db3",
+    "data": [
+      {
+        "text": "Frist für Prüfungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548427075
+  },
+  {
+    "id": "975e8717-843c-4eff-90a8-f4b273a7a4a6",
+    "data": [
+      {
+        "text": "Bis wann muss ich Prüfungen gemacht haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548427075
+  },
+  {
+    "id": "96482e47-b841-4aa8-a183-8cbbb082f152",
+    "data": [
+      {
+        "text": "Prüfungen schieben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548427075
+  },
+  {
+    "id": "f0ca01ed-2530-4585-b310-d24ccb1b83b3",
+    "data": [
+      {
+        "text": "Kann man Prüfungen schieben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548427075
+  },
+  {
+    "id": "17f81b98-1b64-4a51-a205-31f1a20c726c",
+    "data": [
+      {
+        "text": "Wie oft das man eine Prüfung schieben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

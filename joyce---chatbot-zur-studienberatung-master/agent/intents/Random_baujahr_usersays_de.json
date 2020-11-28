@@ -1,0 +1,84 @@
+[
+  {
+    "id": "fa13bcad-adf1-43ac-bd73-108334d8e1c2",
+    "data": [
+      {
+        "text": "Seit wann gibt es dich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548411699
+  },
+  {
+    "id": "990555aa-4d45-40e7-847a-707975d92ce3",
+    "data": [
+      {
+        "text": "Wie lang gibt es dich schon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548411699
+  },
+  {
+    "id": "b9c6d8d7-dbbd-49ff-9672-cb3b622dd4f1",
+    "data": [
+      {
+        "text": "Wann bist du gebohren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548411699
+  },
+  {
+    "id": "ae87a6c6-5348-4282-aa2d-fc17f7c1de2f",
+    "data": [
+      {
+        "text": "Wann wurdest du programmiert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548411699
+  },
+  {
+    "id": "9b42edd3-51b6-442a-bfba-84347c25ccb0",
+    "data": [
+      {
+        "text": "wie lange gibt es dich schon ",
+        "userDefined": false
+      },
+      {
+        "text": "Joyce",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d4f6409-aec7-4128-a24f-097471e70ad7",
+    "data": [
+      {
+        "text": "Wie alt bist du",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

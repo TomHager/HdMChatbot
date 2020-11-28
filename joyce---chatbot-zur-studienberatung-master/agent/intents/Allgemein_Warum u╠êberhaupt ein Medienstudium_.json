@@ -1,0 +1,37 @@
+{
+  "id": "7f8de1d7-16fc-4162-9458-abb9d73ca399",
+  "name": "Allgemein_Warum überhaupt ein Medienstudium?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "de674a39-c568-4982-b2f0-e45ad9fe2ce7",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ein Medienstudium rockt ;) Es vermittelt viele Perspektiven auf folgende Bereiche: Gesellschaft, Wirtschaft, Technik und kreative wie technische Inhalte. Durch ihre besondere Aktualität ist die Branche von hoher gesellschaftlicher Relevanz."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547722286,
+  "fallbackIntent": false,
+  "events": []
+}

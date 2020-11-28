@@ -1,0 +1,84 @@
+[
+  {
+    "id": "ceb289f0-0487-42cd-87d2-deab9c498029",
+    "data": [
+      {
+        "text": "Was wenn ich mein Bachelorzeugnis noch nicht habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545859465
+  },
+  {
+    "id": "7dce0a76-6b87-42c8-8af3-8a52bb0c6504",
+    "data": [
+      {
+        "text": "Wie kann ich mich für den Master bewerben, wenn ich noch kein Bachelor Zeugnis habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545859465
+  },
+  {
+    "id": "6273a7de-88dd-43d5-b53a-0f9b50a7d468",
+    "data": [
+      {
+        "text": "Masterbewerbung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545859465
+  },
+  {
+    "id": "f7db2f38-d166-4630-86c9-731e032f3575",
+    "data": [
+      {
+        "text": "Was ist wichtig wenn ich nach meinem Bachelor mich für den Master bewerben will und mein Zeugnis noch nicht habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545859465
+  },
+  {
+    "id": "ef489664-8779-4d0e-8268-b61fcef01f02",
+    "data": [
+      {
+        "text": "Wie kann ich mich nach dem Bachelor ",
+        "userDefined": false
+      },
+      {
+        "text": "für einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Master bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545859465
+  },
+  {
+    "id": "d724883e-394c-403b-8f68-4e3c451f286c",
+    "data": [
+      {
+        "text": "Ich schließe demnächst meinen Bachelor ab. Kann ich mich für den Master bewerben? Bis wann muss ich meine Unterlagen vorlegen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545859465
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "7bc7f4d5-ff5f-4a38-92bb-2c87d441b74d",
+    "data": [
+      {
+        "text": "Geht es mich zu bewerben, wenn ich mein Abschlusszeugnis noch nicht habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857612
+  },
+  {
+    "id": "520b5ad9-16aa-406e-9540-4e365d09c256",
+    "data": [
+      {
+        "text": "Bewerbung ohne Abschlusszeugnis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857612
+  },
+  {
+    "id": "a9a8b4c7-26cc-4dff-b130-f539e8476d39",
+    "data": [
+      {
+        "text": "Wie kann ich mich bewerben wenn ich mein Abschlusszeugnis noch nicht habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857612
+  },
+  {
+    "id": "034f1be7-787e-49e2-be72-546f021d4bf9",
+    "data": [
+      {
+        "text": "Was wenn ich mein Zeugnis noch nicht habe? Kann ich mich trotzdem bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857612
+  },
+  {
+    "id": "48de09bf-9ce5-4dab-97b8-2b5c6f92ed1d",
+    "data": [
+      {
+        "text": "Besteht die Möglichkeit mich mit meinem Halbjahreszeugnis zu bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857612
+  },
+  {
+    "id": "391eb317-bba6-4e9e-ab55-f96e6602ee12",
+    "data": [
+      {
+        "text": "Mein Abi-Zeugnis liegt noch nicht vor. Kann ich mich mit dem Halbjahreszeugnis bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545857612
+  }
+]

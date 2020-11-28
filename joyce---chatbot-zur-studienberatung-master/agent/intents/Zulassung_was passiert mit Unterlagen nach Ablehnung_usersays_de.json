@@ -1,0 +1,116 @@
+[
+  {
+    "id": "78c77a75-0086-4388-a7a9-d9b1754f7441",
+    "data": [
+      {
+        "text": "Behaltet ihr meine Unterlagen ",
+        "userDefined": false
+      },
+      {
+        "text": "nach einer",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Absage ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546627632
+  },
+  {
+    "id": "cef9fa61-aa37-4bff-ab10-82e0979e8498",
+    "data": [
+      {
+        "text": "Ich wurde abgelehnt, was passiert ",
+        "userDefined": false
+      },
+      {
+        "text": "jetzt",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " mit meinen Unterlagen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546627632
+  },
+  {
+    "id": "eb7adcad-fc0d-4c21-8f83-cc154ae7bac8",
+    "data": [
+      {
+        "text": "Was macht ihr mit meinen Unterlagen wenn ich abgelehnt wurde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546627632
+  },
+  {
+    "id": "be34c9cc-8c9e-420d-8fb5-85d1cece30df",
+    "data": [
+      {
+        "text": "Wenn ich keine Zulassung bekommen habe, was passiert dann mit meinen Bewerbungsunterlagen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924035
+  },
+  {
+    "id": "05dd669d-d734-4092-9c16-b1c5dcd6fd5d",
+    "data": [
+      {
+        "text": "Was passiert mit Unterlagen nachdem ich als Bewerber abgelehnt worden bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924035
+  },
+  {
+    "id": "c8cfebe9-6a13-4de9-8566-aa537c03bde2",
+    "data": [
+      {
+        "text": "Was passiert mit meinen Unterlagen, wenn ich nicht ",
+        "userDefined": false
+      },
+      {
+        "text": "für einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studienplatz zugelassen werde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924035
+  },
+  {
+    "id": "4b90f988-5f15-463c-b6cc-141cb49254d2",
+    "data": [
+      {
+        "text": "Was geschieht mit meinen Bewerbungsunterlagen, wenn ich keine Zulassung erhalten habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545924035
+  }
+]

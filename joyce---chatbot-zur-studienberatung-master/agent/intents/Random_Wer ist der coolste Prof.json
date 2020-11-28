@@ -1,0 +1,33 @@
+{
+  "id": "207801db-c35e-43ab-b6cf-2918ccfa9311",
+  "name": "Random_Wer ist der coolste Prof",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Natürlich sind alle Profs super cool ;)"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Bewerb Dich doch und mach Dir selbst ein Bild!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548095763,
+  "fallbackIntent": false,
+  "events": []
+}

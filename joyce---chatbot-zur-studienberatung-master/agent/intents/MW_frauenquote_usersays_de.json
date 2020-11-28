@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5acc9966-2516-4d3c-972f-d7c02b0d5f1a",
+    "data": [
+      {
+        "text": "Wie viele Frauen gibt es bei MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548427430
+  },
+  {
+    "id": "c3dd6c93-3701-4682-b409-aa45272ded62",
+    "data": [
+      {
+        "text": "Studieren viele frauen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548427430
+  },
+  {
+    "id": "ee9bf5c9-49b1-4785-9d9f-e16ed240aedd",
+    "data": [
+      {
+        "text": "Wie viel Frauen studieren Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548427430
+  },
+  {
+    "id": "94c11a3c-4994-4bca-93a7-2ca13c846af5",
+    "data": [
+      {
+        "text": "Wie viel Frauen studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548427430
+  },
+  {
+    "id": "780b5666-a581-4cc9-b480-a52f53f92573",
+    "data": [
+      {
+        "text": "Wie ist die Frauenquote ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " der hdm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548427430
+  }
+]

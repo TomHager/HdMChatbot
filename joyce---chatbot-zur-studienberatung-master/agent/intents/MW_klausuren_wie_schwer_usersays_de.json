@@ -1,0 +1,98 @@
+[
+  {
+    "id": "b055706d-bca4-4419-9a5c-8b20c5d75976",
+    "data": [
+      {
+        "text": "Wie schwer sind die Prüfungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418269
+  },
+  {
+    "id": "87d61efa-0571-4201-8241-669003dcd524",
+    "data": [
+      {
+        "text": "Sind Prüfungen schwierig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418269
+  },
+  {
+    "id": "56de79a5-0292-424a-b087-21533cb04a50",
+    "data": [
+      {
+        "text": "Sind Prüfungen schwer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418269
+  },
+  {
+    "id": "19edd1d8-410a-4eb5-b855-75f2155773b7",
+    "data": [
+      {
+        "text": "Sind die Klausuren schwierig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418269
+  },
+  {
+    "id": "58a33f0d-1660-4f3a-8936-10e4d40077dd",
+    "data": [
+      {
+        "text": "Klausur wie schwer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418269
+  },
+  {
+    "id": "3f6b1289-5389-49d9-b0d5-3d3cbe909748",
+    "data": [
+      {
+        "text": "Sind die Klausuren machbar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418269
+  },
+  {
+    "id": "71833434-fd7d-40a7-b692-6734b710f2e9",
+    "data": [
+      {
+        "text": "Wie schwer sind die Klausuren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418269
+  },
+  {
+    "id": "bbbdccec-0a65-49af-888c-0eb376dfb5ad",
+    "data": [
+      {
+        "text": "Sind die Klausuren schwer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

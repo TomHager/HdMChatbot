@@ -1,0 +1,28 @@
+{
+  "id": "b23bb5e9-e441-4e64-aa70-8860eb9c7f32",
+  "name": "Bewerbung_für mehrere Studiengänge",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Beim Bachelor kannst Du Dich auf bis zu drei HdM-Bachelor-Studiengänge gleichzeitig bewerben. \nFür ein Masterstudium, ein Zweitstudium sowie die Bewerbung für höhere Fachsemester kann nur ein Zulassungsantrag gestellt werden."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547717728,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5840f04e-920b-4849-8bbc-7153c92104de",
+    "data": [
+      {
+        "text": "Kann ich mit dem Bachelorabschluss in anderen Bundesländern und international arbeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480465
+  },
+  {
+    "id": "59e48ecf-cae2-40e9-9f2f-b8ab443250b5",
+    "data": [
+      {
+        "text": "Wird der Bachelor bundesweit anerkannt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480465
+  },
+  {
+    "id": "df7e393e-7a9d-4664-9c71-d248c8be655f",
+    "data": [
+      {
+        "text": "Wird der Bachelor international anerkannt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480465
+  },
+  {
+    "id": "69b75710-7a73-4fa0-9269-7b00786fd6f6",
+    "data": [
+      {
+        "text": "Ist der Bachelor bundesweit und international anerkannt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480465
+  }
+]

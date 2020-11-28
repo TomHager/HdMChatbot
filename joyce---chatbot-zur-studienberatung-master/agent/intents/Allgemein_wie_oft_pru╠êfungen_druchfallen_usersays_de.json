@@ -1,0 +1,71 @@
+[
+  {
+    "id": "360835b9-3572-42d5-9e7f-0160f10345bf",
+    "data": [
+      {
+        "text": "Kann ich nicht bestandene Prüfungen wiederholen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548428658
+  },
+  {
+    "id": "bca53069-ecb4-48f6-8cb2-f6e1341fa598",
+    "data": [
+      {
+        "text": "Wie oft kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Prüfung wiederholen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548428658
+  },
+  {
+    "id": "6a8f8bdf-6ec9-46e4-899d-0e495abfcded",
+    "data": [
+      {
+        "text": "Wie viel Versuche gibt es für Prüfungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548428658
+  },
+  {
+    "id": "28652810-6e96-40f1-9930-900406177b79",
+    "data": [
+      {
+        "text": "Wie oft kann man durch Klausuren fallen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8c11b0b-a593-4fb0-8b57-00b67c30ed51",
+    "data": [
+      {
+        "text": "Was passiert wenn ich eine meiner Prüfungen nicht bestehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

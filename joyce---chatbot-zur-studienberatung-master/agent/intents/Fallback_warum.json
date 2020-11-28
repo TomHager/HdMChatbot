@@ -1,0 +1,33 @@
+{
+  "id": "1a0ec22e-0799-4208-a943-3616bafa9506",
+  "parentId": "2ce90761-90cb-4b5b-85f9-9604110f895b",
+  "rootParentId": "2ce90761-90cb-4b5b-85f9-9604110f895b",
+  "name": "Fallback_warum",
+  "auto": true,
+  "contexts": [
+    "DefaultFallbackIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ich lerne auch immer dazu 😉"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548240936,
+  "fallbackIntent": false,
+  "events": []
+}

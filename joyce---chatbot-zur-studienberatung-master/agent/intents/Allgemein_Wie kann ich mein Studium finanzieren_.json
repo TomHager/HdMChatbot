@@ -1,0 +1,37 @@
+{
+  "id": "1496d70a-7a00-4ba6-a992-30ae59ced57e",
+  "name": "Allgemein_Wie kann ich mein Studium finanzieren?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cbd1a60b-326e-43b6-9d34-727d6c4104c5",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Auskünfte hierüber erteilt das zuständige BAföG-Amt. Ausländische Studierende sollten die Finanzierung des Studiums vor der Abreise nach Deutschland absichern. Allgemeine Informationen zum BAföG findest du unter  https://www.hdm-stuttgart.de/studieninteressierte/rund_ums_studium/bafoeg"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640865,
+  "fallbackIntent": false,
+  "events": []
+}

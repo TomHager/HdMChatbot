@@ -1,0 +1,74 @@
+[
+  {
+    "id": "db2c8609-9e82-48d9-9da0-31a598234a8f",
+    "data": [
+      {
+        "text": "geht auch master",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56ee920a-af22-4c68-87d4-39cd22d215b5",
+    "data": [
+      {
+        "text": "Masterstudiengang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548430103
+  },
+  {
+    "id": "cc77f4b3-842a-4511-8b8f-5c84f4344405",
+    "data": [
+      {
+        "text": "Was für Studiengänge gibt es als Master?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548430103
+  },
+  {
+    "id": "1858a6e7-9b47-434f-8d9a-76c7dad71251",
+    "data": [
+      {
+        "text": "Welche Master gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548430103
+  },
+  {
+    "id": "a9a20342-a916-438e-a974-b5e483ebbe0b",
+    "data": [
+      {
+        "text": "Was für Master gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548430103
+  },
+  {
+    "id": "d3fbda65-c802-4366-bd90-83351704aa19",
+    "data": [
+      {
+        "text": "Was kann ich im Master studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

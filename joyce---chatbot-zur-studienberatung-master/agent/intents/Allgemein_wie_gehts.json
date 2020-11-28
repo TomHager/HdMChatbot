@@ -1,0 +1,31 @@
+{
+  "id": "dc845640-7464-41c8-8242-b99d87e9bd14",
+  "name": "Allgemein_wie_gehts",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Gut 😁",
+            "Bestens ☺️"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548093351,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "e948227c-d68b-48e2-a5cb-0cd63dea2960",
+  "name": "MW_Unterschied zu Online Media Management",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bb220cae-dff2-46d3-951a-b01c5401894d",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das Studium der Medienwirtschaft versucht einen möglichst breiten Blick über alle Mediengattungen zu geben. Je nach Interesse kann der Fokus auf das Medium Film, Fernsehen, Radio oder auch Print gelegt werden, während in Online Medien Management besonders das Internet und damit verbundene digitale Strategien untersucht werden. Solltest du unsicher sein, welcher Studiengang der Richtige für dich ist, wende dich an die Zentrale Studienberatung. Kontaktdaten und Informationen zu den Sprechzeiten findest du hier: https://www.hdm-stuttgart.de/studieninteressierte/info/studienberatung"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548245633,
+  "fallbackIntent": false,
+  "events": []
+}

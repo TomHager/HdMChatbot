@@ -1,0 +1,62 @@
+[
+  {
+    "id": "69c37bf2-825b-47d3-b958-30989ed154c4",
+    "data": [
+      {
+        "text": "Joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548340957
+  },
+  {
+    "id": "38acd1a2-df9f-404f-80bc-8919939cf454",
+    "data": [
+      {
+        "text": "Witz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548340957
+  },
+  {
+    "id": "a256cd47-00f2-4d51-96a0-31170cd74f33",
+    "data": [
+      {
+        "text": "Du bist lustig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548340782
+  },
+  {
+    "id": "1a0f0341-9b6e-4dc4-9f1d-2ae107496192",
+    "data": [
+      {
+        "text": "Kennst du Witze?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548340782
+  },
+  {
+    "id": "749771a0-ce98-402d-8c8e-9d9e10329752",
+    "data": [
+      {
+        "text": "Erzähl mir einen Witz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548340555
+  }
+]

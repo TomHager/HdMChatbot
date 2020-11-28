@@ -1,0 +1,36 @@
+{
+  "id": "bdb4cf00-15cd-4582-926a-1c607121a83c",
+  "name": "MW_ruf",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c5044400-a90b-4ff5-8e6e-fd8c66e457f8",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Schau Dir an, was andere über uns sagen: https://www.studycheck.de/studium/medienwirtschaft/hdm-stuttgart-16089"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548341045,
+  "fallbackIntent": false,
+  "events": []
+}

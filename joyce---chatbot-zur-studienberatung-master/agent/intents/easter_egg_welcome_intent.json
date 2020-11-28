@@ -1,0 +1,37 @@
+{
+  "id": "5b6b681a-68f7-447d-b0f9-fc6161717cdb",
+  "name": "easter_egg_welcome_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9ec4fe42-3742-433c-b389-dee81f128f28",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "I bims der n1ste Bot vong ingtelligemz her"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545235704,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "112e67df-9999-4797-8157-561e6bd91b77",
+  "name": "Bewerbung_amtliche Beglaubigung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7bf5d795-f70a-4a60-9855-03a6710a9b64",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Unterlagen können in öffentlichen Ämtern (z.B. im Bürgerbüro oder Rathaus) beglaubigt werden. Nicht anerkannt werden Beglaubigungen von Banken und Krankenkassen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du musst aber nicht zwingend alle Dokumente begläubigen lassen. Informiere Dich darüber bitte entsprechend, um gegebenenfalls Geld sparen zu können."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547718731,
+  "fallbackIntent": false,
+  "events": []
+}

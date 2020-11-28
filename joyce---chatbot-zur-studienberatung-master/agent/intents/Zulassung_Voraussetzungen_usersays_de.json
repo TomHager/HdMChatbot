@@ -1,0 +1,128 @@
+[
+  {
+    "id": "884c3870-aa92-40df-b940-c8abf2bb8855",
+    "data": [
+      {
+        "text": "Welche Voraussetzungen brauche ich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "892914d6-7090-49e0-8fa4-42fca2804c1e",
+    "data": [
+      {
+        "text": "was muss ich können?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4202b8f6-07b5-4cd4-8064-99bae21222e7",
+    "data": [
+      {
+        "text": "Vorraussetzungen für die Bewerbung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626980
+  },
+  {
+    "id": "da17a7ed-17e4-4093-b6e7-60d7bfca01af",
+    "data": [
+      {
+        "text": "Welche Vorraussetzungen muss ich erfüllen um mich bewerben zu können?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626980
+  },
+  {
+    "id": "a0d4da37-5b5b-4265-8153-f42c86bf49ac",
+    "data": [
+      {
+        "text": "Welche Vorraussetzungen gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626980
+  },
+  {
+    "id": "a7e924f9-643b-4e85-9c6b-c7487676d77c",
+    "data": [
+      {
+        "text": "Was brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "für einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Abschluss um mich an der HdM bewerben zu können?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909940
+  },
+  {
+    "id": "a9fa2723-ca0d-4149-a180-b1521ed469e9",
+    "data": [
+      {
+        "text": "Was gibt es für Zulassungsbedingungen an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909940
+  },
+  {
+    "id": "87d2ec68-cd0a-4ee8-b72a-621331530fba",
+    "data": [
+      {
+        "text": "Was sind die allgemeinen Voraussetzungen, ",
+        "userDefined": false
+      },
+      {
+        "text": "um an einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Hochschule studieren zu können?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909940
+  },
+  {
+    "id": "65f432f2-e7c8-4a07-b01d-c144647f3c6c",
+    "data": [
+      {
+        "text": "Welche Zulassungsvoraussetzungen gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545909940
+  }
+]

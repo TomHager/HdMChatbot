@@ -1,0 +1,182 @@
+[
+  {
+    "id": "11ea87a4-edda-43a1-a9b7-9aa26924f694",
+    "data": [
+      {
+        "text": "Was wenn ich ein Kind habe und studieren will?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547640553
+  },
+  {
+    "id": "4bdeaa65-22aa-4658-b625-0b3ee902d503",
+    "data": [
+      {
+        "text": "An wen kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "wenden",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ", wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Kind habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547640553
+  },
+  {
+    "id": "3024b26f-6d87-4994-a845-620856a41f40",
+    "data": [
+      {
+        "text": "Unterstützung bei Studium mit Kind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039036
+  },
+  {
+    "id": "daf52970-8ce7-43ce-8108-9a36e751b0aa",
+    "data": [
+      {
+        "text": "Wie werde ich unterstützt, wenn ich mit Kind studiere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039036
+  },
+  {
+    "id": "cdf9fdcd-730d-47f4-b2df-74e775c2dfd1",
+    "data": [
+      {
+        "text": "Kann ich mich bewerben, wenn ich schon ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Kind habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039036
+  },
+  {
+    "id": "b4ea00dc-d322-4b0f-a4be-bfebf4d4d033",
+    "data": [
+      {
+        "text": "Kann ich mich auch bewerben, wenn ich Mutter werde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039036
+  },
+  {
+    "id": "c0ca7345-b39c-4b0f-8ed7-0f233e83cc18",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Kind und will trotzdem studieren. Geht das?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039036
+  },
+  {
+    "id": "589a51e4-9f14-4b81-9cfa-233687f34738",
+    "data": [
+      {
+        "text": "Studieren mit Kind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039036
+  },
+  {
+    "id": "58a18ce6-c68b-44a0-bf62-e332900a2922",
+    "data": [
+      {
+        "text": "Kann ich auch studieren, wenn ich bereits ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Kind habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039036
+  },
+  {
+    "id": "e946cca4-d63b-4614-ab2f-219d789186ad",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Kind. Welche Förderung erhalte ich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039036
+  }
+]

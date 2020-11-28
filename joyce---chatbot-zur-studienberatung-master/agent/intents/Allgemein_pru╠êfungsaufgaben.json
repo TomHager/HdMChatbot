@@ -1,0 +1,28 @@
+{
+  "id": "ea109d34-f60c-4b92-a634-d56966e09c67",
+  "name": "Allgemein_prüfungsaufgaben",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das kann dir nur dein Prof. sagen 😉"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548092716,
+  "fallbackIntent": false,
+  "events": []
+}

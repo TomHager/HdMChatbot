@@ -1,0 +1,244 @@
+[
+  {
+    "id": "74bf95a9-8827-420c-a696-ef96300079f2",
+    "data": [
+      {
+        "text": "Was findest du am besten an dem Studiengang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "707d8c1c-5ea5-4d59-a533-ead0dbff88f3",
+    "data": [
+      {
+        "text": "Erzähl ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " paar Fun Facts zur Medienwirtschaft ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ac80c8a-efbf-4c18-9640-92710f201a8b",
+    "data": [
+      {
+        "text": "Was geht ab in Medienwirtschaft",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d25d237-3e72-4fd2-981a-de5d837256e3",
+    "data": [
+      {
+        "text": "für wen ist der studiengang geeignet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547653912
+  },
+  {
+    "id": "767b0e0b-e7f3-4567-b547-b0f1c19f2939",
+    "data": [
+      {
+        "text": "Macht man da Werbung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547310763
+  },
+  {
+    "id": "8464db47-d2a0-49f4-939e-ab2457560c29",
+    "data": [
+      {
+        "text": "Was macht man in MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039979
+  },
+  {
+    "id": "f4c4c1fa-99db-40c9-a876-9ac5a2a895a4",
+    "data": [
+      {
+        "text": "Erzähl mir etwas über das Studium der Medienwirtschaft",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039636
+  },
+  {
+    "id": "fd5f145f-26ba-49fb-b0ea-0c8463f65785",
+    "data": [
+      {
+        "text": "Kannst Du mir etwas über das mw studium erzählen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547039636
+  },
+  {
+    "id": "6debb8a1-f842-408e-8c9f-1633335a0538",
+    "data": [
+      {
+        "text": "Wie ist es MW zu studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405360
+  },
+  {
+    "id": "de047360-a108-4869-a309-080a6a738a46",
+    "data": [
+      {
+        "text": "Kannst Du mir ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Eindruck davon geben, wie ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time1",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " MW Studium abläuft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405360
+  },
+  {
+    "id": "5bf4606d-9fbd-472a-9cac-1e6e0741d72c",
+    "data": [
+      {
+        "text": "Zeig mir was MW Studenten ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " machen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405360
+  },
+  {
+    "id": "719445e4-e6c4-4668-9b43-000e27728712",
+    "data": [
+      {
+        "text": "Was machen MW Studierende?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545233137
+  },
+  {
+    "id": "0972d03c-cd29-44c4-a165-da8effcc761d",
+    "data": [
+      {
+        "text": "Macht das MW Studium Spaß?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545233137
+  },
+  {
+    "id": "cd70eb28-7129-42c5-9f8e-f5ac09ef2596",
+    "data": [
+      {
+        "text": "Wie ist es Medienwirtschaft zu studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545233137
+  },
+  {
+    "id": "d827a2d9-c87c-4f36-a261-e0f6264bebbe",
+    "data": [
+      {
+        "text": "Gib mir ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Eindruck Atmosphäre im Studiengang MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545233137
+  },
+  {
+    "id": "317c7770-e215-40a3-8db2-b168ed974f92",
+    "data": [
+      {
+        "text": "Was sagen MW Studierende über ihren Studiengang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545233137
+  }
+]

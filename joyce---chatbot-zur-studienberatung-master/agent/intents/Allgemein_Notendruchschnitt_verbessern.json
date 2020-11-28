@@ -1,0 +1,28 @@
+{
+  "id": "3009ba5f-12a7-4a02-b469-3bb728635453",
+  "name": "Allgemein_Notendruchschnitt_verbessern",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Schau dir dazu mal den folgenden Link an. Solltest du weiter Fragen dazu haben, melde dich beim Studienbüro der Hochschule: https://www.hdm-stuttgart.de/studieninteressierte/bewerber/studienplatzvergabe"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547740833,
+  "fallbackIntent": false,
+  "events": []
+}

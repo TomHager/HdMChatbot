@@ -1,0 +1,28 @@
+{
+  "id": "79b644da-b432-4df4-9d2c-c29b7617b0cf",
+  "name": "MW_gibt_es_tutorien",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ja, jedes Semester werden Tutorien zu verschiedenen Vorlesungen und Themen angeboten. Am Anfang des Semesters findest Du hier eine Übersicht: https://mw.hdm-stuttgart.de/medienwirtschaft/tutorien-studentische-projekte-und-forschungsprojekte/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548419164,
+  "fallbackIntent": false,
+  "events": []
+}

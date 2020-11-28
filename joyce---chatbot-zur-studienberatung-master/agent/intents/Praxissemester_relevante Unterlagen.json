@@ -1,0 +1,28 @@
+{
+  "id": "e38c165e-6c47-4a2e-920b-baaaaad069c1",
+  "name": "Praxissemester_relevante Unterlagen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Alle relevanten Unterlagen, die vor dem PS eingereicht werden müssen, kannst Du hier nachlesen: https://mw.hdm-stuttgart.de/medienwirtschaft/studierende/praxissemester/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547713863,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,250 @@
+[
+  {
+    "id": "6862ca75-a0cd-44b6-94f9-327a56992aa4",
+    "data": [
+      {
+        "text": "Wo wohnst du",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "2b2e1f65-f7cb-4401-974c-d2ae5836fbfd",
+    "data": [
+      {
+        "text": "Wie lautet deine Handynr.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "6a921ae8-5e3d-4ecd-a949-ac717e7ea34a",
+    "data": [
+      {
+        "text": "Wo sind deine Elstern",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "519306ad-2424-49eb-ab61-f436dd8a3e3f",
+    "data": [
+      {
+        "text": "was für sprüche kannst du klopfen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "cefc0589-2539-417d-b59e-a7fb06db603a",
+    "data": [
+      {
+        "text": "Wie viel Alkohol konsumiert man als durchschnittlicher Student an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c7e4d25-b32b-4336-b49b-d042a8d40eca",
+    "data": [
+      {
+        "text": "Welcher Yuri aus Yuri on Ice ist der bessere Skater?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25ffd06f-1532-4b06-a69b-1b5cb091aed1",
+    "data": [
+      {
+        "text": "Wieso ist Naomi hier?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8ca5635-3625-4f07-8dd7-6e68a315e9f8",
+    "data": [
+      {
+        "text": "bock zu saufen? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccc6d792-ad22-4d66-a4c8-61f33f1b68f9",
+    "data": [
+      {
+        "text": "6er nuggets",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d5f60fb9-a97f-4277-a611-f52074eca5ea",
+    "data": [
+      {
+        "text": "HS ",
+        "userDefined": false
+      },
+      {
+        "text": "pforzheim",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9488fa1e-159b-4fe0-b392-695e3e6a89be",
+    "data": [
+      {
+        "text": "Hergesell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e1c63b9-bd55-470d-b84c-b3f2d5da3ffd",
+    "data": [
+      {
+        "text": "erzähl mal ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " witz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "945b1cbd-ec9e-4ccf-b936-bfaac00bc1fb",
+    "data": [
+      {
+        "text": "langweilig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13dd9de0-a04d-40c4-9e70-2eb970ea8316",
+    "data": [
+      {
+        "text": "Meinung zu Chicken Nuggets?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e20c1bc8-37fb-497f-867f-f427d579d633",
+    "data": [
+      {
+        "text": "was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "1 1",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f193a0c1-0191-445c-ac15-3c0231632e2d",
+    "data": [
+      {
+        "text": "ist Ria nicht ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " dein fall? Oder warum schreibst du ihr nicht zurück?:D",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5e28982-885c-4cc3-89f4-b62b3e5d7d20",
+    "data": [
+      {
+        "text": "Warum antwortest du mir nicht mehr?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfea0acb-4729-411a-8707-a17477c1bc22",
+    "data": [
+      {
+        "text": "wie lange bist du schon single",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

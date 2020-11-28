@@ -1,0 +1,28 @@
+{
+  "id": "81858350-5587-4db3-bb39-c4b9593e06dd",
+  "name": "Allgemein_Wann geht es los?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Im Wintersemester beginnen die Vorlesungen Anfang Oktober, im Sommersemester beginnen sie Mitte März. Die genauen Daten kannst du dem Studienführer oder der Homepage des Studiengangs bzw. der Hochschule zu entnehmen (https://www.hdm-stuttgart.de/terminkalender)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640650,
+  "fallbackIntent": false,
+  "events": []
+}

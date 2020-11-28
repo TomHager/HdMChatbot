@@ -1,0 +1,28 @@
+{
+  "id": "7d7fe8b9-b73c-4ea8-98d7-1a6aeb2fb4fe",
+  "name": "Zulassung_Studienplatzvergabe_HDM",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "90% der Studienplätze an der HdM werden nach der sogenannten Verfahrensnote vergeben – die errechnet sich aus der Note Deiner Hochschulreife und Notenboni, die darauf angerechnet werden. Welche Art von Bonus (zum Beispiel abgeschlossene Berufsausbildung, Motivationsschreiben oder Praktikum) auf Deine Verfahrensnote angerechnet wird, ist für jeden Studiengang unterschiedlich. \nAus den eingegangen Verfahrensnoten der Bewerber wird eine Rangliste erstellt und die Zulassungsangebote werden dann nach der Reihe rausgeschickt. \nEs gibt außerdem eine bestimmte Quote von Studienplätzen, die bestimmten Bewerbergruppen zugeteilt wird. Dazu gehören Bewerber aus dem Nicht-EU Ausland, Bewerber mit den längsten Wartezeiten oder außergewöhnliche Härtefälle. \nMehr Infos zur Studienplatzvergabe findet ihr hier: \nhttps://www.hdm-stuttgart.de/studieninteressierte/bewerber/studienplatzvergabe"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547695068,
+  "fallbackIntent": false,
+  "events": []
+}

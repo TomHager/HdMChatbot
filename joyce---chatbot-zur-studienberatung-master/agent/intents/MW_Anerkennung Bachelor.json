@@ -1,0 +1,28 @@
+{
+  "id": "5f987125-7fa4-40ad-a492-f9dd2f6d781a",
+  "name": "MW_Anerkennung Bachelor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ja. Seit 2010 ist das gestufte System in ganz Deutschland eingeführt. Mit der Umstellung zum Bachelor erhalten alle Studiengänge durch das System der ECTS-Punkte Abschlüsse, die in sämtlichen Ländern anerkannt sind, die ebenfalls mit dem ECTS arbeiten."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545480465,
+  "fallbackIntent": false,
+  "events": []
+}

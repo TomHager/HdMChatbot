@@ -1,0 +1,92 @@
+[
+  {
+    "id": "89366c6a-53ac-4664-8e44-0ab25dee4bed",
+    "data": [
+      {
+        "text": "Was wenn ich meine Unterlagen online hochlade?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545856422
+  },
+  {
+    "id": "256006da-3f1b-427c-9082-04ac5c7058c9",
+    "data": [
+      {
+        "text": "Wie funktioniert das mit der Online Bewerbung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545856422
+  },
+  {
+    "id": "baa55ed4-53f9-4837-8716-9bd9ed7ccfe3",
+    "data": [
+      {
+        "text": "Reicht ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Online Bewerbung aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546561419
+  },
+  {
+    "id": "4156ec1a-062b-4fbc-b1f0-e361c9642d86",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Online Bewerbung ausreichend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546561419
+  },
+  {
+    "id": "e104b961-4e3a-4543-b247-77ec31a00169",
+    "data": [
+      {
+        "text": "Online Bewerbung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545856422
+  },
+  {
+    "id": "7045858d-4125-4e1c-861f-a515171a6a3e",
+    "data": [
+      {
+        "text": "Genügt es, wenn ich nur die Online-Bewerbung durchführe und dort meine Unterlagen hochlade?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545856422
+  }
+]

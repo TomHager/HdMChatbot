@@ -1,0 +1,28 @@
+{
+  "id": "8dfcb01a-5e02-47cc-b124-22c92c1668e6",
+  "name": "Bewerbung_Wann bewerben",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Der Bewerbungszeitraum für das Wintersemester (Vorlesungsbeginn Anfang Oktober) geht von Mitte Mai bis 15. Juli.\nDer Bewerbungszeitraum für das Sommersemester (Vorlesungsbeginn Mitte März) geht von Mitte November bis 15. Januar."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547718311,
+  "fallbackIntent": false,
+  "events": []
+}

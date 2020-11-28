@@ -1,0 +1,42 @@
+{
+  "id": "bf4481e6-1cc9-486b-ae85-8425c2f0cd7e",
+  "name": "Bewerbung_wichtige Unterlagen vergessen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9a5563de-5d3e-44d2-9fa5-4f63892dfb40",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wenn die Bewerbung frühzeitig vor Bewerbungsschluss bei der Hochschule eingereicht wurde, ist es möglich, Dich auf unserer Infoseite auf ggf. noch fehlende Unterlagen hinzuweisen: https://vw-online.hdm-stuttgart.de/wimma/"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Diese Unterlagen können dann noch bis zum Ende der Bewerbungsfrist nachgereicht werden. Unterlagen, die nach der Frist eingehen, können nicht mehr berücksichtigt werden und führen leider zum Ausschluss der Bewerbung."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547718382,
+  "fallbackIntent": false,
+  "events": []
+}

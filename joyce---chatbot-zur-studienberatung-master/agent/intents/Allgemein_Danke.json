@@ -1,0 +1,28 @@
+{
+  "id": "bd9e1790-02fd-4cd3-96f6-cb877e7e74ca",
+  "name": "Allgemein_Danke",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Gern geschehen :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640110,
+  "fallbackIntent": false,
+  "events": []
+}

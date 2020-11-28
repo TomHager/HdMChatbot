@@ -1,0 +1,114 @@
+[
+  {
+    "id": "85651c53-a43d-415a-a088-58a6fa5cc53d",
+    "data": [
+      {
+        "text": "Ändert sich etwas an der Bewerbung wenn ich noch keine ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Jahre",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " alt bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862704
+  },
+  {
+    "id": "e01fe79e-326b-4b42-b8a1-5032b9135fbb",
+    "data": [
+      {
+        "text": "Wie läuft die Bewerbung ab wenn ich noch keine ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862704
+  },
+  {
+    "id": "cd62396d-41ef-4897-9a4e-4098571b1f56",
+    "data": [
+      {
+        "text": "Trotz Minderjährigkeit bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862704
+  },
+  {
+    "id": "16f22baf-dc63-44aa-85e2-16b6cccb7b08",
+    "data": [
+      {
+        "text": "Was wenn ich noch minderjährig bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862704
+  },
+  {
+    "id": "8487b5bd-fcda-4ec5-a54e-9354a25c43b6",
+    "data": [
+      {
+        "text": "Kann ich mich bewerben wenn ich noch minderjährig bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862704
+  },
+  {
+    "id": "6b6df83d-ad2b-456a-a8af-79a1d722ca10",
+    "data": [
+      {
+        "text": "Ich bin noch minderjährig. Kann ich die Bewerbung ",
+        "userDefined": false
+      },
+      {
+        "text": "selbst",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " durchführen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862704
+  }
+]

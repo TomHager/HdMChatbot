@@ -1,0 +1,210 @@
+[
+  {
+    "id": "1903ce55-edc3-49d9-8603-aac36d5ce584",
+    "data": [
+      {
+        "text": "bitch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a562ff0d-684e-4862-9851-4f7a47646673",
+    "data": [
+      {
+        "text": "vegan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b27cf85-1165-4dc0-916d-46ede5f42a93",
+    "data": [
+      {
+        "text": "Hund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e73ee36c-8262-49ee-877e-0da6d336f928",
+    "data": [
+      {
+        "text": "Fuck u",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f1655f5-1487-40d6-91dd-135735e3a19e",
+    "data": [
+      {
+        "text": "Fick dich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "397d0d8a-d64f-4a60-b236-1e899a9b1138",
+    "data": [
+      {
+        "text": "Fotze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "14ca1e32-0695-4a55-b863-30fc37b7edae",
+    "data": [
+      {
+        "text": "ob du behindert bist habe ich gefragt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4223e47-4007-429a-87be-0f36431909ed",
+    "data": [
+      {
+        "text": "bist du geistig nicht ganz auf der Höhe ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3237c8b-6d1d-4171-80ee-f2848b04a50d",
+    "data": [
+      {
+        "text": "ich hasse dich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547581339
+  },
+  {
+    "id": "6c3ef09c-2634-4944-97c7-bda10373a524",
+    "data": [
+      {
+        "text": "bist du ",
+        "userDefined": false
+      },
+      {
+        "text": "dumm",
+        "alias": "Beleidigung",
+        "meta": "@Beleidigung",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547127362
+  },
+  {
+    "id": "ad928a28-016c-4d0b-8f09-11c033840597",
+    "data": [
+      {
+        "text": "was ",
+        "userDefined": false
+      },
+      {
+        "text": "labasch",
+        "alias": "Beleidigung",
+        "meta": "@Beleidigung",
+        "userDefined": true
+      },
+      {
+        "text": " du an mich hin du ",
+        "userDefined": false
+      },
+      {
+        "text": "pissa",
+        "alias": "Beleidigung",
+        "meta": "@Beleidigung",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547127362
+  },
+  {
+    "id": "29ced670-9d94-4987-8953-248502061a9a",
+    "data": [
+      {
+        "text": "Du bist ",
+        "userDefined": false
+      },
+      {
+        "text": "doof",
+        "alias": "Beleidigung",
+        "meta": "@Beleidigung",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547127362
+  },
+  {
+    "id": "97034d23-8bfc-4c0d-b2db-955855d6e7d8",
+    "data": [
+      {
+        "text": "Blödmann",
+        "alias": "Beleidigung",
+        "meta": "@Beleidigung",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547127362
+  },
+  {
+    "id": "41f89118-9a80-4401-92fa-7dcf89722ec4",
+    "data": [
+      {
+        "text": "arsch",
+        "alias": "Beleidigung",
+        "meta": "@Beleidigung",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547127362
+  }
+]

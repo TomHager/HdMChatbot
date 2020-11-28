@@ -1,0 +1,143 @@
+[
+  {
+    "id": "3668dad6-dabd-4d6b-bec0-dd39fd1a8978",
+    "data": [
+      {
+        "text": "Ist die Hochschule gut? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db0a2823-c08d-423b-ae08-5f413020d279",
+    "data": [
+      {
+        "text": "Kamera equipment leihen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9132af0-6fca-4ee0-aceb-f19457f11907",
+    "data": [
+      {
+        "text": "Technik pool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0fdf822-7fd9-4dd9-b62d-a677945cf633",
+    "data": [
+      {
+        "text": "Kann ich kameraequipment ausleihen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be4fa28a-1a79-4d49-816c-608fba6281f0",
+    "data": [
+      {
+        "text": "Wie gut ausgestattet ist die HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545409849
+  },
+  {
+    "id": "7caeed7f-62de-45ef-abdc-6375d8b23dee",
+    "data": [
+      {
+        "text": "Wie sieht die technische Ausstattung der HdM aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545409849
+  },
+  {
+    "id": "c8856587-cf90-4cb6-9891-ada54ce755c8",
+    "data": [
+      {
+        "text": "Ausstattung an der HdM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545409849
+  },
+  {
+    "id": "8b004054-50aa-445d-90ba-36b0443ffe90",
+    "data": [
+      {
+        "text": "Kann ich mir Technik ausleihen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545131705
+  },
+  {
+    "id": "d23ada4d-d33b-4815-b58c-7a9c1a005998",
+    "data": [
+      {
+        "text": "Ist die Technik der Hochschule ",
+        "userDefined": false
+      },
+      {
+        "text": "aktuell",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545131705
+  },
+  {
+    "id": "5b7c3fa8-0b87-464b-a813-9da01e3c6556",
+    "data": [
+      {
+        "text": "Wie ist die Ausstattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545131705
+  },
+  {
+    "id": "1ca3fdea-1c3b-409f-a3d2-e7ba5a36a407",
+    "data": [
+      {
+        "text": "Wie ist die HdM ausgestattet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545131705
+  }
+]

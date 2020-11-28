@@ -1,0 +1,33 @@
+{
+  "id": "b586412b-1ea0-4656-ab82-8ec29f60919b",
+  "name": "MW_durchfallquote",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das kann ich dir pauschal nicht sagen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Allerdings kann ich dir sagen, dass MW im Vergleich zu vergleichbaren Studiengängen eine relativ geringe Durchfallquote hat."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548409593,
+  "fallbackIntent": false,
+  "events": []
+}

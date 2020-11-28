@@ -1,0 +1,28 @@
+{
+  "id": "6df3aa58-1a5c-4a6e-8cfd-bf9f4d3a8f15",
+  "name": "Zulassung_Erhalten von Zulassungsbescheid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du wirst per E-Mail durch das Portal hochschulstart.de über Deine Zulassungsangebote informiert. Überprüfe daher regelmäßig Deine E-Mail-Adresse auf Nachrichten von hochschulstart.de. Der Zulassungbescheid kommt dann auch per Post - bevor Du zugelassen wirst, musst Du allerdings noch ein paar Dokumente einreichen und einen Antrag stellen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547694078,
+  "fallbackIntent": false,
+  "events": []
+}

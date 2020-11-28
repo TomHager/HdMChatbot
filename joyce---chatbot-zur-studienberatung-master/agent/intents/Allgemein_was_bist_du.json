@@ -1,0 +1,28 @@
+{
+  "id": "7f12cee6-652a-411a-9dc5-8a31cd1fbe3b",
+  "name": "Allgemein_was_bist_du",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ich bin Joyce, Dein Infobot für Medienwirtschaft. Du kannst mich alles rund ums Studium fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548426041,
+  "fallbackIntent": false,
+  "events": []
+}

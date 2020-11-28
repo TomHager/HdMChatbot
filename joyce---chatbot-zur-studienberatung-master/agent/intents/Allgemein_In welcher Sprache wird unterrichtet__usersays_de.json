@@ -1,0 +1,131 @@
+[
+  {
+    "id": "4bb1f783-d727-459c-8df5-ad524b9fb44f",
+    "data": [
+      {
+        "text": "Sind die Vorlesungen nur auf deutsch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547640214
+  },
+  {
+    "id": "3507cdb8-c22e-4c12-b48a-154b449adb9e",
+    "data": [
+      {
+        "text": "Kann ich nur in deutsch studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547640214
+  },
+  {
+    "id": "7163d232-c1fe-47f0-9146-65e2d2caac3d",
+    "data": [
+      {
+        "text": "Kann ich auf deutsch studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547640214
+  },
+  {
+    "id": "f03a045b-5b36-4646-9acb-b09b0539cf29",
+    "data": [
+      {
+        "text": "Vorlesungen in englischer und deutscher Sprache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397685
+  },
+  {
+    "id": "fea75013-e5d9-4b1e-900c-8a905b3a0f10",
+    "data": [
+      {
+        "text": "Wie wichtig sind englisch Kenntnisse ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studium an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546558154
+  },
+  {
+    "id": "17e12aaf-2fa7-41b5-9aa6-b8911edb90a9",
+    "data": [
+      {
+        "text": "Vorlesungssprache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397685
+  },
+  {
+    "id": "03203aad-3c11-436e-8920-19e0945b13cd",
+    "data": [
+      {
+        "text": "Gibt es englische Vorlesungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545135401
+  },
+  {
+    "id": "983505da-86a7-4f28-a85e-3f178c57d048",
+    "data": [
+      {
+        "text": "Sind die Vorlesungen auf Deutsch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545135401
+  },
+  {
+    "id": "2a25567e-3f9f-4cfd-8688-de7f9cfbd8dc",
+    "data": [
+      {
+        "text": "In welcher Sprache finden die Vorlesungen statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545135401
+  },
+  {
+    "id": "78f80fec-119e-4e12-88a2-cf02e087df06",
+    "data": [
+      {
+        "text": "In welcher Sprache wird unterrichtet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545135401
+  }
+]

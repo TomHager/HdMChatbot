@@ -1,0 +1,26 @@
+[
+  {
+    "id": "62f71b68-f51a-41ec-9c6a-1bae1f067739",
+    "data": [
+      {
+        "text": "wie werden die Studienplätze vergeben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547695068
+  },
+  {
+    "id": "cc8c7dab-89cc-45d6-a143-c2f39584b10d",
+    "data": [
+      {
+        "text": "Wie werden die Studienplätze an der HdM vergeben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547695068
+  }
+]

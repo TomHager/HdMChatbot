@@ -1,0 +1,86 @@
+[
+  {
+    "id": "87943bd6-c6ea-4b2b-9a70-ef74587f7aa0",
+    "data": [
+      {
+        "text": "Prüfungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548410751
+  },
+  {
+    "id": "b9412a26-8745-4d23-8435-b08be751ae66",
+    "data": [
+      {
+        "text": "Wie viele Prüfungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548410751
+  },
+  {
+    "id": "46acba89-17b8-4947-b54b-49a8b1899f91",
+    "data": [
+      {
+        "text": "Wie viele Prüfungen werde ich schreiben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548410751
+  },
+  {
+    "id": "04027da9-8bdb-489f-a697-53fe1d1a6ed4",
+    "data": [
+      {
+        "text": "Wie viele Prüfungen muss ich schreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548410751
+  },
+  {
+    "id": "b574caa0-a461-4228-86a8-4f183af5332e",
+    "data": [
+      {
+        "text": "Wie viele Prüfungen schreibe ich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548410751
+  },
+  {
+    "id": "9d661531-36d3-4ab5-a310-04d219b04d31",
+    "data": [
+      {
+        "text": "Wie viele Prüfungen habe ich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6338608-3b2a-49cc-83ba-ee4875ce3899",
+    "data": [
+      {
+        "text": "Wie viele Prüfungen schreibt man?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

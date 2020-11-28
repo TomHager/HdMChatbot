@@ -1,0 +1,46 @@
+{
+  "id": "a64d6a0a-e343-4a92-8119-3793dee78d4e",
+  "name": "Praxissemester_Bewerbung und Ablauf",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6bc23f4b-0b3f-47b6-8c45-33c845c9c332",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Studierenden müssen sich selbständig um einen Praktikantenplatz bemühen und rechtzeitig (min. sechs Monate vor Beginn des Praktikums) beginnen, Bewerbungen zu schreiben."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Im fünften Semester wird in der Regel das Praxissemester absolviert. Es sollte eine Dauer von min. 26 Wochen umfassen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Praktikumsdatenbank und die Jobbörsen der HdM können Dir bei der Suche und der Auswahl des Praktikumsplatzes helfen: https://www.hdm-stuttgart.de/unternehmen/jobboerse/praktikumsstellen"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548091940,
+  "fallbackIntent": false,
+  "events": []
+}

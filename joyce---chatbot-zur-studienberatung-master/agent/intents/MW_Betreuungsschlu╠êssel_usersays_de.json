@@ -1,0 +1,96 @@
+[
+  {
+    "id": "f0342214-96d3-4984-929c-296b254a04b1",
+    "data": [
+      {
+        "text": "Wie viele Professoren gibt es in MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545398143
+  },
+  {
+    "id": "962c4650-cdc1-4372-82e1-6518ee09a098",
+    "data": [
+      {
+        "text": "Wie groß sind die Kurse durchschnittlich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545398143
+  },
+  {
+    "id": "1bc08b1e-c8e8-4d85-8738-8dab8214bae0",
+    "data": [
+      {
+        "text": "Betreuungsschlüssel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545398143
+  },
+  {
+    "id": "95e096e2-caeb-4b1b-9e97-f14fc4a65f62",
+    "data": [
+      {
+        "text": "Bei wie viel Studierenden pro Professor liegt der Betreuungsschlüssel in MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545232737
+  },
+  {
+    "id": "cb6a6dba-f45f-4010-9689-d595162bd9e1",
+    "data": [
+      {
+        "text": "Wie sieht der Betreuungsschlüssel in MW aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545232737
+  },
+  {
+    "id": "810e4852-68f4-4ec7-af21-c92881c36cf8",
+    "data": [
+      {
+        "text": "Wie viel Professoren gibt es im Studiengang Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545232737
+  },
+  {
+    "id": "7ac47c20-970e-4eb9-bb01-16ae6650a9d0",
+    "data": [
+      {
+        "text": "Wie viele Studierende kommen ",
+        "userDefined": false
+      },
+      {
+        "text": "auf einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Professor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545232737
+  }
+]

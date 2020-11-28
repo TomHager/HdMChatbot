@@ -1,0 +1,28 @@
+{
+  "id": "04be4cc0-c11e-49fd-afc3-094d8821d549",
+  "name": "Studieninhalte_Name MW",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Genau das, was der Name sagt. Medienwirtschaft \u003d Medien + Wirtschaft. Und genau dafür lieben die Studierenden diesen Studiengang!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546560473,
+  "fallbackIntent": false,
+  "events": []
+}

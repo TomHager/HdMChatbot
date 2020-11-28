@@ -1,0 +1,36 @@
+{
+  "id": "e6b8a94c-b9db-48b8-924f-4b29cb759d0a",
+  "name": "MW_laptop_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5ddd0a63-e9cf-4e0d-a2ef-5fe5aae081be",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du brauchst nicht zwingend einen Laptop für das Studium. Es ist jedoch von Vorteil."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547564718,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,105 @@
+[
+  {
+    "id": "e089c100-7904-42ad-8bc8-bd1553fcb3af",
+    "data": [
+      {
+        "text": "Habe ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Vorteil durch Wartesemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545922962
+  },
+  {
+    "id": "2a42edf4-5145-48a2-9662-2753a0bd61e4",
+    "data": [
+      {
+        "text": "Bonus durch Wartesemester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545922962
+  },
+  {
+    "id": "b90da791-17a9-446e-8267-54cb2f005e55",
+    "data": [
+      {
+        "text": "Wartesemester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545922962
+  },
+  {
+    "id": "f5c76f36-f9ff-4a9e-9dec-e513d8c780ed",
+    "data": [
+      {
+        "text": "Bekomme ich eher ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studienplatz mit viel Wartesemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910513
+  },
+  {
+    "id": "a5ff7636-241f-4a74-b715-5b115fb138d8",
+    "data": [
+      {
+        "text": "Werden die Wartesemester mit der Verfahrensnote verrechnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910513
+  },
+  {
+    "id": "8e3820e0-8149-406f-9fbd-df1abb0786f3",
+    "data": [
+      {
+        "text": "Was bringen mir die Wartesemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910513
+  },
+  {
+    "id": "5be95d67-0873-4857-b86e-21e09075be26",
+    "data": [
+      {
+        "text": "Wie wirkt sich die Wartezeit auf meine Zulassungschancen aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910513
+  }
+]

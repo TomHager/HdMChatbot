@@ -1,0 +1,104 @@
+[
+  {
+    "id": "ea28ce44-c43b-44a2-976d-143b4707088e",
+    "data": [
+      {
+        "text": "Kann man das Praxissemester auch außerhalb Deutschlands absolvieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545854481
+  },
+  {
+    "id": "b0ae72e5-263d-4e6b-b08f-9d4e36c05c74",
+    "data": [
+      {
+        "text": "Ist es möglich das Praktikum im Ausland zu machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545854481
+  },
+  {
+    "id": "aecaee5c-d4be-4ab1-b28b-7a856e016c2c",
+    "data": [
+      {
+        "text": "Auslandspraktikum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545854481
+  },
+  {
+    "id": "047c2d51-c50f-4ccc-bc1e-d86d697d4d5a",
+    "data": [
+      {
+        "text": "Wie läuft das mit dem Auslandspraktikum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658863
+  },
+  {
+    "id": "fa369a81-a5b6-4e1d-97d3-476948a4a0f7",
+    "data": [
+      {
+        "text": "Was gibt es beim Auslandspraktikum zu beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658863
+  },
+  {
+    "id": "2273b89e-6b8f-4428-97d0-86f6f836dbf5",
+    "data": [
+      {
+        "text": "An wen kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "wenden",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wenn ich mein Praktikum im Ausland machen möchte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658863
+  },
+  {
+    "id": "2e4b7ac0-d88a-4613-a25b-9c22f17057c7",
+    "data": [
+      {
+        "text": "Was sollte ich berücksichtigen, wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikum im Ausland absolvieren möchte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545658863
+  }
+]

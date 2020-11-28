@@ -1,0 +1,80 @@
+[
+  {
+    "id": "83d835ad-2df6-4083-b407-e4ede8ab7642",
+    "data": [
+      {
+        "text": "Wie heißt du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548426041
+  },
+  {
+    "id": "824e5c89-3095-4aec-8f64-0f134512eac5",
+    "data": [
+      {
+        "text": "Wer sind sie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7f8cd59-9136-4488-8e42-24b6fb1d5591",
+    "data": [
+      {
+        "text": "Warum heißt du ",
+        "userDefined": false
+      },
+      {
+        "text": "Joyce",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9dad645-da02-4301-b93e-e1e0ceb75636",
+    "data": [
+      {
+        "text": "Wer bist du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1547631837
+  },
+  {
+    "id": "5392f311-4f57-4206-8225-78f2f929f331",
+    "data": [
+      {
+        "text": "Sag deinen Namen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547631898
+  },
+  {
+    "id": "e705e127-f505-4f4d-a34b-5b44ab4e6fd8",
+    "data": [
+      {
+        "text": "Wie ist dein Name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547631837
+  }
+]

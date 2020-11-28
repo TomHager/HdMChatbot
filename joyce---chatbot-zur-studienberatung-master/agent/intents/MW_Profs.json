@@ -1,0 +1,36 @@
+{
+  "id": "e6ff8de3-e3d1-451d-8b28-4003f70db103",
+  "name": "MW_Profs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fa70f1f9-b62a-4c2a-8cb1-7f4a2651939b",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Unser Team in MW findest Du unter diesem Link: https://mw.hdm-stuttgart.de/medienwirtschaft/studiengang/team/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548341226,
+  "fallbackIntent": false,
+  "events": []
+}

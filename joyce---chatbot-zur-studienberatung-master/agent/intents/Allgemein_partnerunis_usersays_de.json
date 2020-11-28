@@ -1,0 +1,114 @@
+[
+  {
+    "id": "89813f8b-f7e1-4341-bc1d-cf9b40f297f1",
+    "data": [
+      {
+        "text": "Wo kann ich mein Auslandssemester machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548424138
+  },
+  {
+    "id": "067cd877-60c0-4edb-8e26-50c94699265e",
+    "data": [
+      {
+        "text": "Partnerhochschulen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548424138
+  },
+  {
+    "id": "ae29465f-9cd2-485d-9545-077c62abcd36",
+    "data": [
+      {
+        "text": "Welche Partnerhochschulen gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548424138
+  },
+  {
+    "id": "a5d15ace-3db5-4a39-af28-f08da947e9f5",
+    "data": [
+      {
+        "text": "An welche Hochschulen kann ich im Ausland?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548424138
+  },
+  {
+    "id": "78ffa5b3-91ce-41ce-8567-c061460b37f8",
+    "data": [
+      {
+        "text": "toronto",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd7f0980-ee88-42e0-b9b2-6a39ff0b980b",
+    "data": [
+      {
+        "text": "Welche Partneruniversitäten passen zum Studiengang Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ed07fd82-6e36-4764-8806-917de60ec127",
+    "data": [
+      {
+        "text": "Wo kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " auslandssemester machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548424138
+  },
+  {
+    "id": "96d03685-ddeb-4117-aa6a-a36b73cd243c",
+    "data": [
+      {
+        "text": "Gibt es eine Partneruni in Irland?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

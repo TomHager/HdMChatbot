@@ -1,0 +1,33 @@
+{
+  "id": "f15f7efe-9660-446e-b916-809e1856f91d",
+  "parentId": "08c52585-f4d1-4d93-8bcb-ab40f4c5c184",
+  "rootParentId": "08c52585-f4d1-4d93-8bcb-ab40f4c5c184",
+  "name": "Emoji_Freundlich - fallback",
+  "auto": false,
+  "contexts": [
+    "Emoji_Freundlich-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Emoji_Freundlich.Emoji_Freundlich-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Besser du frägst mich etwas zum Studium 😉"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548093087,
+  "fallbackIntent": true,
+  "events": []
+}

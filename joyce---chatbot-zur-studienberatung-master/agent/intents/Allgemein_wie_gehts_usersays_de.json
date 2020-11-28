@@ -1,0 +1,72 @@
+[
+  {
+    "id": "116ed78c-69ec-4a5a-b8ee-2e8d716caa97",
+    "data": [
+      {
+        "text": "hallo ",
+        "userDefined": false
+      },
+      {
+        "text": "joyce",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " wie gehts?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f1539aa-2a9e-403c-aaf2-e20a784e0c57",
+    "data": [
+      {
+        "text": "wie geht es dir ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5ef0d279-1be0-4f9b-8123-e9590b66deca",
+    "data": [
+      {
+        "text": "wie gehts dir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97c25bb4-40b4-4f83-9fe6-233a08d24d1f",
+    "data": [
+      {
+        "text": "Wie geht\u0027s?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548093351
+  },
+  {
+    "id": "4a6cbfbc-388a-42e8-a3d9-93eb4d6f56c2",
+    "data": [
+      {
+        "text": "Wie geht\u0027s dir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548093351
+  }
+]

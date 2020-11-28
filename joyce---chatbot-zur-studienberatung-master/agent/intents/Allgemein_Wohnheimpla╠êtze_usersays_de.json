@@ -1,0 +1,147 @@
+[
+  {
+    "id": "6df008c2-5e73-4256-8467-90170ac1c539",
+    "data": [
+      {
+        "text": "Hilft die Hochschule bei der Wohnungssuche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fc7fb02-9556-41e2-80ac-b64d5a06555f",
+    "data": [
+      {
+        "text": "Gibt es die Möglichkeit ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Wohnheimsplatz zu bekommen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545412170
+  },
+  {
+    "id": "bbb97011-4d2c-4c00-8358-dcdb176e6217",
+    "data": [
+      {
+        "text": "Zeige mir Infos zu den Wohnheimen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545412170
+  },
+  {
+    "id": "64615efe-8894-46dc-ab6e-02266dc924d6",
+    "data": [
+      {
+        "text": "Kannst Du mir nähere Infos zur Wohnheimsvergabe geben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545412170
+  },
+  {
+    "id": "860267ca-5e7a-4be2-b1c3-95971d0f0fc7",
+    "data": [
+      {
+        "text": "Wohnheimplätze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545412170
+  },
+  {
+    "id": "a6bca8a8-5731-4af7-a683-53caddb63420",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Unterkunft für Studierende?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545134283
+  },
+  {
+    "id": "c1a58564-99dd-4113-bfb2-12181033de1e",
+    "data": [
+      {
+        "text": "Wie kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "für einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Platz im Wohnheim bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545134283
+  },
+  {
+    "id": "bfc3aff8-619d-4717-8a3b-e2d7a35f03a7",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Wohnheim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545134283
+  },
+  {
+    "id": "9aac7806-8b58-4ee3-96a2-3e8381b3d7b5",
+    "data": [
+      {
+        "text": "Wo kann ich mich über Wohnheimplätze informieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545134283
+  }
+]

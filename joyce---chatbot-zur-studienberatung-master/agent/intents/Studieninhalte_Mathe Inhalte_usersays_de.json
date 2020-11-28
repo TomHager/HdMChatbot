@@ -1,0 +1,134 @@
+[
+  {
+    "id": "5da71f90-053a-4d7a-9e09-01ff580d2f73",
+    "data": [
+      {
+        "text": "Wie viel Mathe hab ich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3733b18-317f-4203-9a6f-ba6ce34a68c0",
+    "data": [
+      {
+        "text": "Muss man gut in Mathe sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dcd85ae-151b-4a28-ad41-b60e0b6b48b1",
+    "data": [
+      {
+        "text": "Ist viel Mathe drin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311690
+  },
+  {
+    "id": "f75bfd85-860b-4e91-87a1-568f33ec60bb",
+    "data": [
+      {
+        "text": "Gibt es Mathematik in Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559788
+  },
+  {
+    "id": "aca18678-d7a0-4097-bab7-c99fa2a507ef",
+    "data": [
+      {
+        "text": "Gibt es Mathematikvorlesungen in MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559788
+  },
+  {
+    "id": "0382ae0b-137e-4814-a689-d99f83f43bfd",
+    "data": [
+      {
+        "text": "Mathe in Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559788
+  },
+  {
+    "id": "d2f82aee-2a84-4051-9bfb-09e610d66cb2",
+    "data": [
+      {
+        "text": "Mathe in MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559788
+  },
+  {
+    "id": "fd7e14ba-9bcd-4610-a0ad-3a8a4021cccd",
+    "data": [
+      {
+        "text": "Muss ich gut in Mathe sein um MW zu studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545659597
+  },
+  {
+    "id": "c2f96f48-a19e-4270-826a-a3ebc70c648b",
+    "data": [
+      {
+        "text": "Werden fortgeschrittene Mathekenntnisse für Medienwirtschaft benötigt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545659597
+  },
+  {
+    "id": "67a5ab4a-e5c8-42c8-a604-75a772c32ff3",
+    "data": [
+      {
+        "text": "Gibt es eine Mathe Vorlesung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545659597
+  },
+  {
+    "id": "79c44036-640d-40ad-89f6-ba982d66d3f3",
+    "data": [
+      {
+        "text": "Wie viel Mathe ist im Studium dabei?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545659597
+  }
+]

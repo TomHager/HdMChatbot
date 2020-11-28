@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3fb32b93-ee61-48d7-82d0-bbbeb4084902",
+    "data": [
+      {
+        "text": "Im Ernst!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548149646
+  },
+  {
+    "id": "36866d96-b1c9-4ba6-afb6-18171a437a34",
+    "data": [
+      {
+        "text": "im ernst",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548149646
+  },
+  {
+    "id": "facb44d8-dea1-4586-a8e0-1034f5f1e272",
+    "data": [
+      {
+        "text": "im Ernst?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

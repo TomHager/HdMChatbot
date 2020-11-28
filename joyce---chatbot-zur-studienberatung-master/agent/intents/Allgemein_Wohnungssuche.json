@@ -1,0 +1,49 @@
+{
+  "id": "cb48c6ce-b579-411f-a8f8-722232a58ceb",
+  "name": "Allgemein_Wohnungssuche",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e4dd95db-d36a-49a8-9f25-e7774fa9712d",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "ecb55379-644f-47de-a329-27cb8ae2ccca",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ich kann Dir nur Infos zu Wohnheimsplätzen in Stuttgart geben: https://www.hdm-stuttgart.de/studieninteressierte/rund_ums_studium/wohnheime"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Generell empfiehlt es sich aber frühzeitig nach der Zusage der HdM auf Wohnungssuche zu gehen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547722877,
+  "fallbackIntent": false,
+  "events": []
+}

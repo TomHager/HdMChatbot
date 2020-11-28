@@ -1,0 +1,172 @@
+[
+  {
+    "id": "6f007f50-ced7-4f28-8950-b792cfde9da8",
+    "data": [
+      {
+        "text": "Was bringt mir eine Ausbildung in Bezug auf den geforderten NC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547741260
+  },
+  {
+    "id": "05c9fd2b-2a1c-46c3-b7cb-622acd23251c",
+    "data": [
+      {
+        "text": "was bringt ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " vorher gemachte ausbildung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "0b1b346d-1fc8-41b7-995b-3f55b2cfa456",
+    "data": [
+      {
+        "text": "habe ich vorteile wenn ich vorher ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ausbildung gemacht habe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "6cf058ae-e88f-4b35-93ac-46513ee9f271",
+    "data": [
+      {
+        "text": "Was bringt mir meine Ausbildung für die Zulassung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626325
+  },
+  {
+    "id": "c24268bc-7e3e-42f2-bda1-a9e4a02efd1d",
+    "data": [
+      {
+        "text": "Bringt mir ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Ausbildung etwas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626325
+  },
+  {
+    "id": "1625e919-6e1a-414b-90f4-3fda96dd8a3b",
+    "data": [
+      {
+        "text": "Bringt mir meine Ausbildung etwas für die Zulassung an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545925575
+  },
+  {
+    "id": "608897a0-17ef-4f84-acb6-022e9e09b7ff",
+    "data": [
+      {
+        "text": "Berücksichtigung der Ausbildung bei der Zulassung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545925575
+  },
+  {
+    "id": "f3673920-234a-4f7c-a351-77d0199efaf2",
+    "data": [
+      {
+        "text": "Wird meine Ausbildung bei der Zulassung berücksichtigt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545925575
+  },
+  {
+    "id": "d8a117e7-3829-4ed8-8328-19e5a7f7ec49",
+    "data": [
+      {
+        "text": "Ich habe vor dem Studium ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Ausbildung absolviert, wird dies bei der Zulassung berücksichtigt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545925575
+  },
+  {
+    "id": "5cee57fb-c943-49af-b603-120f8efa16c7",
+    "data": [
+      {
+        "text": "Wird bei der Zulassung berücksichtigt, wenn ich davor ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Ausbildung in diesem Bereich gemacht habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545925575
+  }
+]

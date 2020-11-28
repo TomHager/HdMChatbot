@@ -1,0 +1,126 @@
+[
+  {
+    "id": "9cc8e2ea-6bb9-4996-9093-30e60fc63761",
+    "data": [
+      {
+        "text": "Wie viele Stunden muss ich pro ",
+        "userDefined": false
+      },
+      {
+        "text": "Woche",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " investieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548692218
+  },
+  {
+    "id": "a3bc8eeb-2183-48b7-8bd7-914c72acefa4",
+    "data": [
+      {
+        "text": "Wie viele Stunden muss man pro ",
+        "userDefined": false
+      },
+      {
+        "text": "Woche",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " investieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548692218
+  },
+  {
+    "id": "af646a00-e4ca-4077-b7e7-64b090fde54a",
+    "data": [
+      {
+        "text": "Muss ich viel für die Klausuren lernen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548342039
+  },
+  {
+    "id": "3cbf7cf5-3239-452b-a393-fdf21e96cf48",
+    "data": [
+      {
+        "text": "Welche Zeitaufwand habe ich ",
+        "userDefined": false
+      },
+      {
+        "text": "bei einer",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Veranstaltung die X ects gibt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548342039
+  },
+  {
+    "id": "d7c62fe1-ac6a-47df-8b1b-f66b7a6ecc15",
+    "data": [
+      {
+        "text": "Wie viel Zeit muss ich zum lernen für die Klausuren einkalkulieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548342039
+  },
+  {
+    "id": "a4accedd-3149-478b-b802-af5958f0555b",
+    "data": [
+      {
+        "text": "Wie viel ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ECTS in Zeitstunden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548342039
+  },
+  {
+    "id": "126965be-4873-4b3f-89c0-2245fe58418e",
+    "data": [
+      {
+        "text": "wie viel stunden muss ich für die Klausur für Medienwirtschaft im ersten Semester lernen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "b306adba-c6b4-486c-8737-c6bf07c8e8ea",
+  "name": "Bewerbung_ohne Abitur bewerben?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "An der HdM und anderen Hochschulen für angewandte Wissenschaft kann man auch studieren, wenn man eine Berufsaufstiegsqualifikation (zum Beispiel Meister oder Fachwirt) absolviert hat. Wenn Du eine abgeschlossene Berufsausbildung und mindestens zwei Jahre Berufserfahrung hast, kannst Du durch Bestehen einer Eignungsprüfung den Zugang zu einem Studium erlangen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Beim Hochschulzugang mit beruflicher Qualifizierung ist ein Beratungsgespräch zwingend erforderlich. \nFür mehr Infos zum Thema und falls Du offene Fragen hast, kannst Du die Zentrale Studienberatung kontaktieren."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547718064,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "da7eba78-29f4-492b-9a01-fc2b7ba389f8",
+  "name": "Allgemein_sinn_des_lebens",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "42. Und ein Studium an der HdM absolvieren 😉"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548424802,
+  "fallbackIntent": false,
+  "events": []
+}

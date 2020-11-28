@@ -1,0 +1,47 @@
+{
+  "id": "f3c0ffbc-e129-439e-9ab8-8a1584a5a69d",
+  "name": "Allgemein_Wie funktioniert das ECTS System?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b071d860-afab-4d8a-ac13-172fb1e8f992",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Alle Studiengänge an der HdM sind in Module gegliedert. Ein Modul umfasst vorab definierte Kompetenzen, deren Erwerb mit Hilfe von Studienleistungen am Ende des Moduls überprüft wird. Art, Form und Umfang der Studienleistungen sind abhängig vom jeweiligen Modul."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Zur internationalen Vergleichbarkeit werden Studienleistungen in Leistungspunkten nach ECTS (European Credit Transfer System) für jedes Modul bemessen. Die\nRegelstudienzeit ist auf den Erwerb von 30 ECTS-Punkten pro Semester ausgelegt."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die ECTS Punkte werden durch das Bestehen der Studienleistung erbracht. Mehr Infos dazu findest Du in der SPO:  https://www.hdm-stuttgart.de/studierende/studium/spo/SPO_Bachelor_7_SoSe_18_sig.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640849,
+  "fallbackIntent": false,
+  "events": []
+}

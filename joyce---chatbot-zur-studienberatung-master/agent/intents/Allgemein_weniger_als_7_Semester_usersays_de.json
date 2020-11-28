@@ -1,0 +1,116 @@
+[
+  {
+    "id": "918acc9f-abb9-46b4-a053-777e928c74d3",
+    "data": [
+      {
+        "text": "Muss ich die vorgesehene Semesteranzahl studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548410284
+  },
+  {
+    "id": "01e60f6f-02aa-4b6c-b7e2-8db1ca9beb7d",
+    "data": [
+      {
+        "text": "Muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Semester studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548410284
+  },
+  {
+    "id": "fbdb1d45-41c4-4940-a3ce-dbffc91c6623",
+    "data": [
+      {
+        "text": "Kann ich schneller abschließen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548410284
+  },
+  {
+    "id": "2a81405b-1d2b-4984-bd29-2d19313a2c77",
+    "data": [
+      {
+        "text": "Kann ich mein Studium auch schneller abschließen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548410284
+  },
+  {
+    "id": "111e0bec-d64a-45b9-a408-6dd90caa3f21",
+    "data": [
+      {
+        "text": "Kann ich mein Studium in weniger als ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Semestern abschließen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548410284
+  },
+  {
+    "id": "b8dd6c5f-c6fc-4997-ac1e-14b750b61c9b",
+    "data": [
+      {
+        "text": "Kann ich auch weniger als ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Semester studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548410284
+  },
+  {
+    "id": "f7e14da6-893d-4eba-b90c-8f0c3a2b7d02",
+    "data": [
+      {
+        "text": "Kann ich auch in weniger als 7. Semester fertig studieren ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

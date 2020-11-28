@@ -1,0 +1,132 @@
+[
+  {
+    "id": "d57edbda-d5d2-4e73-9b3e-ccdbe2af9c5c",
+    "data": [
+      {
+        "text": "Anzahl der Prüfungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654906
+  },
+  {
+    "id": "490ba482-6d89-4495-93c0-5d1801b613be",
+    "data": [
+      {
+        "text": "Anzahl der Prüfungen die ich schreiben muss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654906
+  },
+  {
+    "id": "613ccc2e-ae90-4281-899c-4c762187d546",
+    "data": [
+      {
+        "text": "Wie viele Prüfungen muss ich schreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654906
+  },
+  {
+    "id": "de32ba9c-e955-4534-8b04-c908c69642fd",
+    "data": [
+      {
+        "text": "Wie viel Zeit sollte ich zum lernen einplanen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041180
+  },
+  {
+    "id": "7344ec66-d8c1-41f0-99e8-586419408530",
+    "data": [
+      {
+        "text": "Ist Lernaufwand im Studium hoch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041180
+  },
+  {
+    "id": "114c5669-8798-4bbd-8167-d731e69a2d66",
+    "data": [
+      {
+        "text": "Wie hoch ist der Lernaufwand in ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Hochschulstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041180
+  },
+  {
+    "id": "d584af82-4ce0-431d-b404-6fecd44202dd",
+    "data": [
+      {
+        "text": "Muss ich viel lernen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041180
+  },
+  {
+    "id": "aa7bbc27-7f90-4f4a-b357-5daef6b4987d",
+    "data": [
+      {
+        "text": "Wie viel muss ich lernen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041180
+  },
+  {
+    "id": "dbd94a6c-17e1-402d-8f69-e6a5cb03a496",
+    "data": [
+      {
+        "text": "Ist das Studium schwer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041180
+  },
+  {
+    "id": "6b49ec9b-c41a-4e60-be7c-7c7180ae8c20",
+    "data": [
+      {
+        "text": "Lernaufwand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041180
+  }
+]

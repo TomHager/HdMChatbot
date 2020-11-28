@@ -1,0 +1,42 @@
+{
+  "id": "43c2240f-7b3d-4f17-9430-a287c3516d16",
+  "parentId": "08c52585-f4d1-4d93-8bcb-ab40f4c5c184",
+  "rootParentId": "08c52585-f4d1-4d93-8bcb-ab40f4c5c184",
+  "name": "love_you_follow_up",
+  "auto": true,
+  "contexts": [
+    "Emoji_Freundlich-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Emoji_Freundlich.Emoji_Freundlich-custom",
+      "affectedContexts": [
+        {
+          "name": "love_you_follow_up-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Tut mir leid, ich bin nur ein Bot 🤷‍♀️",
+            "Sorry, ich bin nur ein Bot 😶"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547639653,
+  "fallbackIntent": false,
+  "events": []
+}

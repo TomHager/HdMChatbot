@@ -1,0 +1,375 @@
+[
+  {
+    "id": "a6523b99-05fb-4d8d-aef7-941762afee3f",
+    "data": [
+      {
+        "text": "Wo kann man mit dem Studium arbeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c95cbd32-e214-47f1-8a28-1b3b58bffcdb",
+    "data": [
+      {
+        "text": "Sind Medienwissenschaftler beliebt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbb1e1e8-3b8f-4a5b-b778-06927ca7b5e0",
+    "data": [
+      {
+        "text": "Was machen Studenten nach dem Studium ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83ae3324-8d78-4380-a23c-88defd7b4349",
+    "data": [
+      {
+        "text": "Welchen ",
+        "userDefined": false
+      },
+      {
+        "text": "Lohn",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " erhalten MW Studenten nach dem Studium wenn sie arbeiten ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08b9f598-e385-43f3-ae3a-b89fc22b72b8",
+    "data": [
+      {
+        "text": "und hat man dann gute Gehaltschancen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f430e4c6-fe76-4cbb-a8e9-8e6dfcf18f5e",
+    "data": [
+      {
+        "text": "Berufsperspektiven ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b4b44cc-3548-447e-b674-ae88134369f8",
+    "data": [
+      {
+        "text": "Bin ich nach dem Studium arbeitslos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a57725b1-f9a0-4650-abef-1a05e91f928d",
+    "data": [
+      {
+        "text": "Wieso medienwirtschaft studieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4f2cf44-4f07-4c02-b113-2bb44554935e",
+    "data": [
+      {
+        "text": "Lohnt sich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Medienwirtschaft Studium ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3668268-32e8-48cd-b3e2-6b51026768f3",
+    "data": [
+      {
+        "text": "Berufsaussichten ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f0b16c2-d0c4-4282-8f78-00938851a39b",
+    "data": [
+      {
+        "text": "Was habe ich für Berufschancen nach dem studiengang? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecfa7577-8bff-4bd6-8ad3-5b983b524fce",
+    "data": [
+      {
+        "text": "Welche Berufsaussichten gibt es bei diesem Studiengang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d44922fd-de15-4edc-bb6d-3e9bf0cdc003",
+    "data": [
+      {
+        "text": "Was kann ich nach dem Studium machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e65c28f8-5784-4b54-b122-6e5c018aeb95",
+    "data": [
+      {
+        "text": "Was kann ich später damit machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041225
+  },
+  {
+    "id": "5e990404-0825-42bc-98bc-43fb366b8265",
+    "data": [
+      {
+        "text": "Was kann ich später damit mal machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547041225
+  },
+  {
+    "id": "c8c87b6e-5385-4267-8525-ec4c6ffa94ea",
+    "data": [
+      {
+        "text": "Wo kann ich nach dem Studium arbeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546868740
+  },
+  {
+    "id": "060f227a-30aa-4e40-9f5b-ee76868d3ace",
+    "data": [
+      {
+        "text": "Was kann ich mit ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " MW Studium später einmal machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545398779
+  },
+  {
+    "id": "944cdd6f-db10-4a37-a044-6ffbd615c054",
+    "data": [
+      {
+        "text": "Welche Berufe in der Medienbranche kann ich mit ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " MW Studium machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545398779
+  },
+  {
+    "id": "4c42cc4e-7fcd-444d-a4a6-d32ad43b7f0b",
+    "data": [
+      {
+        "text": "Wie sieht es mit späteren Jobs aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545398779
+  },
+  {
+    "id": "35b713e3-be1f-401c-aee7-727f916106c8",
+    "data": [
+      {
+        "text": "Später Berufsaussichten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545398779
+  },
+  {
+    "id": "2eade00e-9098-46e9-ad9d-1fe0bcbc1c69",
+    "data": [
+      {
+        "text": "welche berufschancen habe ich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545294959
+  },
+  {
+    "id": "b826afc4-2ba8-42b6-b942-34902def5d32",
+    "data": [
+      {
+        "text": "in welchen beruf kann ich mit mw arbeiten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545294959
+  },
+  {
+    "id": "e06ffe27-3063-4fad-8688-22b69fb012f7",
+    "data": [
+      {
+        "text": "was kann ich mit diesem studium arbeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545294959
+  },
+  {
+    "id": "e92996c5-d71e-407d-8a7e-820d61c2495c",
+    "data": [
+      {
+        "text": "Welche jobchancen habe ich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545294959
+  },
+  {
+    "id": "238f35c7-a699-4c8c-89d9-4bfc3a4b6ebd",
+    "data": [
+      {
+        "text": "was für jobs kann ich machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545294959
+  },
+  {
+    "id": "50675957-10df-4153-bdca-e8b8de28bf24",
+    "data": [
+      {
+        "text": "Finde ich nach dem Studium einfach ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Job?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150923
+  },
+  {
+    "id": "33caa19c-d8d0-4d7a-b89c-ca4511d5ac7c",
+    "data": [
+      {
+        "text": "Wie sind die Jobchancen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150923
+  }
+]

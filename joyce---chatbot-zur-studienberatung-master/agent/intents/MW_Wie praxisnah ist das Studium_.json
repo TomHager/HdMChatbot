@@ -1,0 +1,36 @@
+{
+  "id": "62890a30-ab06-4181-8847-9c9988189e64",
+  "parentId": "6f955331-32e9-4add-a531-6f136f4d58fc",
+  "rootParentId": "6f955331-32e9-4add-a531-6f136f4d58fc",
+  "name": "MW_Wie praxisnah ist das Studium?",
+  "auto": true,
+  "contexts": [
+    "MW_WietheorielastigistdasStudium-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MW_WietheorielastigistdasStudium.MW_WietheorielastigistdasStudium-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Am Anfang des Studiums sind die Vorlesungen theorielastiger, um wichtige Grundlagen zu vermitteln. Je weiter Du im Studium kommst gibt es gerade ab dem Hauptstudium viele Projekt- und Gruppenarbeiten, in denen sehr praktisch gearbeitet wird. Zudem gibt es im fünften Semester das Praxissemester, in dem Du ein Praktikum in einem Unternehmen absolvierst.",
+            "Schau Dir dazu gerne auch die Infos auf der MW Internetseite an: https://mw.hdm-stuttgart.de/medienwirtschaft/bew/studieninhalte/studienverlauf/"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545234853,
+  "fallbackIntent": false,
+  "events": []
+}

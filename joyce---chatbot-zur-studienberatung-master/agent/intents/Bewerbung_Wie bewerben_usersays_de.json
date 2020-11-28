@@ -1,0 +1,218 @@
+[
+  {
+    "id": "c75c92db-5db1-4d7f-9776-c789da1aadeb",
+    "data": [
+      {
+        "text": "wie bewerbe ich mich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548418724
+  },
+  {
+    "id": "d09d9523-967e-431e-ad52-9281535bcd86",
+    "data": [
+      {
+        "text": "was muss ich machen um mich für medienwirtschaft zu bewerben??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4117f56-06ff-4506-830a-e14eeb7c6209",
+    "data": [
+      {
+        "text": "und wie bewerbe ich mich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "652e8959-b184-4da5-a457-c5a6887181fc",
+    "data": [
+      {
+        "text": "Wie bewerbe ich mich für Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "595303ab-d629-4399-91ec-1334246f842c",
+    "data": [
+      {
+        "text": "Wie bewirbt man sich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546859835
+  },
+  {
+    "id": "fa893e8a-24fe-4880-8d6f-bc0b466b2025",
+    "data": [
+      {
+        "text": "Wie kann ich mich für einen Studiengang bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546859835
+  },
+  {
+    "id": "2a72cd8b-adec-420e-9d0d-1f853ac0cdbf",
+    "data": [
+      {
+        "text": "Wie kann ich mich für Medienwirtschaft bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546859835
+  },
+  {
+    "id": "71f709c1-70ef-47d6-9c02-36634898b228",
+    "data": [
+      {
+        "text": "Wie kann ich mich bei der HdM bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546859835
+  },
+  {
+    "id": "5fa1bb88-af02-42a3-850a-261e89d66985",
+    "data": [
+      {
+        "text": "Bewerbungsverfahren und Fristen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560862
+  },
+  {
+    "id": "7a281572-f8f5-4678-817a-60a133320654",
+    "data": [
+      {
+        "text": "Bewerbungsverfahren an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560862
+  },
+  {
+    "id": "4856dd57-be84-4116-8bb4-66bcef2f8db4",
+    "data": [
+      {
+        "text": "Bewerben ",
+        "userDefined": false
+      },
+      {
+        "text": "auf einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studienplatz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560862
+  },
+  {
+    "id": "04018bca-6760-4637-8ce9-2de2dc4c4fce",
+    "data": [
+      {
+        "text": "Wie kann man sich ",
+        "userDefined": false
+      },
+      {
+        "text": "auf einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Platz bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690711
+  },
+  {
+    "id": "6d3e66c0-5484-4649-a6a6-15509d22b968",
+    "data": [
+      {
+        "text": "Was gibt es für Bewerbungsfristen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690711
+  },
+  {
+    "id": "6270dea9-ea27-4ce3-b7e2-dce24e8c4334",
+    "data": [
+      {
+        "text": "Was gibt es zum Bewerbungsverfahren zu ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690711
+  },
+  {
+    "id": "d1e76ce7-41e9-4c9b-9912-654225a5187d",
+    "data": [
+      {
+        "text": "Wie kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "auf einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studienplatz bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690711
+  }
+]

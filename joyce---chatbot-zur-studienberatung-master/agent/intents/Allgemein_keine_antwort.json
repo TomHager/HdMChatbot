@@ -1,0 +1,28 @@
+{
+  "id": "6a5c5780-a4b6-439a-897e-0cbcae55f1b1",
+  "name": "Allgemein_keine_antwort",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ich lerne mit jeder deiner Fragen dazu. Schließlich bin ich nur eine künstliche Intelligenz."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548092535,
+  "fallbackIntent": false,
+  "events": []
+}

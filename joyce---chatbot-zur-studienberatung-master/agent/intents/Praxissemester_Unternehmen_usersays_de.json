@@ -1,0 +1,104 @@
+[
+  {
+    "id": "688791d8-d816-4441-b1ea-c683a00ea742",
+    "data": [
+      {
+        "text": "Gibt es Vorgaben für Unternehmen beim Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559490
+  },
+  {
+    "id": "b9f1c502-f30d-4a42-8455-b2b85624a46a",
+    "data": [
+      {
+        "text": "Unternehmen für Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559490
+  },
+  {
+    "id": "ea143fdb-0445-42ad-9161-94d6f7834ff9",
+    "data": [
+      {
+        "text": "Vorgaben für Unternehmen Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559490
+  },
+  {
+    "id": "e6e54fb3-8d65-4695-b143-a6576a5ace38",
+    "data": [
+      {
+        "text": "Gibt es Vorgaben bei Unternehmen für das Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545659067
+  },
+  {
+    "id": "a30e652d-9f95-448b-ac68-cca6bb919b4e",
+    "data": [
+      {
+        "text": "Welche Unternehmen kommen in Frage ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545659067
+  },
+  {
+    "id": "af86ae7a-edef-468b-b8c6-58feaff18402",
+    "data": [
+      {
+        "text": "An welche Unternehmen kann ich mich für mein Praxissemester ",
+        "userDefined": false
+      },
+      {
+        "text": "wenden",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545659067
+  },
+  {
+    "id": "a186e0de-2503-4151-94c8-a7cf9d9fbba2",
+    "data": [
+      {
+        "text": "Bei welchen Unternehmen kann ich mein Praxissemester machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545659067
+  }
+]

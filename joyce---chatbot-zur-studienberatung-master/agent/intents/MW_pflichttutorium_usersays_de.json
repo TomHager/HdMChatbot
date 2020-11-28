@@ -1,0 +1,89 @@
+[
+  {
+    "id": "c66ec4aa-96c8-48f9-9ee0-f102f0781667",
+    "data": [
+      {
+        "text": "Ist Tutorium Pflicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548424638
+  },
+  {
+    "id": "82edf4ac-26d0-4b76-a00c-02e576fd1e5d",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tutorium Pflicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548424638
+  },
+  {
+    "id": "11a3f823-18ba-4ccb-b241-6770927ea503",
+    "data": [
+      {
+        "text": "Muss ich Tutorium ",
+        "userDefined": false
+      },
+      {
+        "text": "halten",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548424638
+  },
+  {
+    "id": "fd4788c3-ebe6-4ef6-b020-9efe189b8589",
+    "data": [
+      {
+        "text": "Muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Tutorium machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548424638
+  },
+  {
+    "id": "a8d89f85-c7f1-452f-8c6d-6c2bf256925a",
+    "data": [
+      {
+        "text": "Ist das Tutorium halten Pflicht ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

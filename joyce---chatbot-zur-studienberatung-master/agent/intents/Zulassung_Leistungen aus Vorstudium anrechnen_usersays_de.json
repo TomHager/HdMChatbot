@@ -1,0 +1,116 @@
+[
+  {
+    "id": "70399ac5-7717-47e8-b400-1394aa083ef8",
+    "data": [
+      {
+        "text": "Kann ich mir ECTS aus vorherigen Studiengängen anrechnen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546905808
+  },
+  {
+    "id": "f78a9a20-1a1a-4fa8-93f6-c512ef02a012",
+    "data": [
+      {
+        "text": "Was kann ich mir aus meinem Vorstudium anrechnen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626827
+  },
+  {
+    "id": "e36587a1-ffa5-488e-a7e1-911942eafad0",
+    "data": [
+      {
+        "text": "An wen kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "wenden",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " wenn ich Informationen über die Anrechnung von Leistungen aus meinem Vorstudium brauche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545927844
+  },
+  {
+    "id": "7f01fe6e-e09a-448c-a19b-df4255ca402c",
+    "data": [
+      {
+        "text": "Leistungen aus Vorstudium anrechnen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545927844
+  },
+  {
+    "id": "0fab2415-06b2-48aa-ba0d-d241a407032c",
+    "data": [
+      {
+        "text": "Wie kann ich mir Leistungen aus meinem Vorstudium anrechnen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545927844
+  },
+  {
+    "id": "095d4594-763f-460f-a8a5-01a394fcf29d",
+    "data": [
+      {
+        "text": "Kann ich mir etwas aus meinem Vorstudium anrechnen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545927844
+  },
+  {
+    "id": "53df5e5c-8003-4749-b405-f3c96708cad5",
+    "data": [
+      {
+        "text": "Wie lasse ich meine Prüfungsleistungen aus ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " vorhergehenden Studium anerkennen und an wen muss ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "wenden",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545927844
+  }
+]

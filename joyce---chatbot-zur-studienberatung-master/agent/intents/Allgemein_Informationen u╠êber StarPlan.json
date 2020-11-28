@@ -1,0 +1,42 @@
+{
+  "id": "b8f892d6-a42a-40b3-8f55-f6093d90eb6d",
+  "name": "Allgemein_Informationen über StarPlan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c67f0059-6da4-48ae-9e22-342a45f53962",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Mit Hilfe des Planungstools StarPlan, erstellst Du Deinen persönlichen Stundenplan über diesen Link: https://splan.hdm-stuttgart.de/splan/mobile?lan\u003dde\u0026acc\u003dtrue\u0026act\u003dtt\u0026sel\u003dpg\u0026pu\u003d9\u0026pg\u003d\u0026sd\u003dtrue\u0026dfc\u003d2019-01-09\u0026loc\u003d1\u0026sa\u003dfalse\u0026cb\u003do"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wähle Deinen Studiengang (MW7) und Dein Semester (MW7-1) aus. Hier werden auch alle Raumänderungen eingetragen und vermerkt. Weitere Informationen hier: https://www.hdm-stuttgart.de/studierende/stundenplan/vorlesungsverzeichnis"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640236,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "f4552bf1-d46c-4fb4-be9f-8fb413e0a1ba",
+  "name": "Bewerbung_Online Bewerbung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die reine Online-Bewerbung über hochschulstart.de ist nicht gültig. Die Bewerbung kann nur berücksichtigt werden, wenn innerhalb der Bewerbungsfrist alle erforderlichen Bewerbungsunterlagen auch in Papierform bei der Hochschule eingereicht werden. Unvollständig oder zu spät eingereichte Unterlagen werden nicht berücksichtigt."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547718098,
+  "fallbackIntent": false,
+  "events": []
+}

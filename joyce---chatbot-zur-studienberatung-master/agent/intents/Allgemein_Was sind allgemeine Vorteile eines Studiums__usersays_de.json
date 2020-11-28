@@ -1,0 +1,131 @@
+[
+  {
+    "id": "9c58fa3e-c3ac-4b42-9073-f82c88c0a687",
+    "data": [
+      {
+        "text": "Gibt es Gründe, die ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studium sprechen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407433
+  },
+  {
+    "id": "81902ee9-d31d-4d23-a162-f2bd202ceea7",
+    "data": [
+      {
+        "text": "Warum sollte ich überhaupt studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407433
+  },
+  {
+    "id": "9ef6bb5b-7fb4-4a64-9f0c-134696a8a886",
+    "data": [
+      {
+        "text": "Nenne mir Vorteile des Studiums",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407433
+  },
+  {
+    "id": "7c57f9ec-5873-42b4-97eb-058e4595b0a3",
+    "data": [
+      {
+        "text": "Vorteile ",
+        "userDefined": false
+      },
+      {
+        "text": "eines",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studiums?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545127283
+  },
+  {
+    "id": "14374e64-93fc-4ef3-867a-6de7628c31d8",
+    "data": [
+      {
+        "text": "Was nützt mir ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545127283
+  },
+  {
+    "id": "9344844d-3d21-4386-9eec-96a43d0f845a",
+    "data": [
+      {
+        "text": "Was bringt mir ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545127283
+  },
+  {
+    "id": "9ef258ff-1aab-427f-8e51-765803d46f34",
+    "data": [
+      {
+        "text": "Was sind allgemeine Vorteile ",
+        "userDefined": false
+      },
+      {
+        "text": "eines",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studiums?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545127100
+  }
+]

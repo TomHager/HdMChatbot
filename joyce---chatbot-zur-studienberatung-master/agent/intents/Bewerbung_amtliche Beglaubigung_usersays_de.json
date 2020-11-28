@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1e4d4207-3d97-4a61-a055-75a0c2202b8f",
+    "data": [
+      {
+        "text": "Wie bekomme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Amtliche Beglaubigung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546624826
+  },
+  {
+    "id": "c69f4e58-2ae4-4972-a5bb-df457a5ae385",
+    "data": [
+      {
+        "text": "Wie kann ich meine Unterlagen amtlich beglaubigen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545860343
+  },
+  {
+    "id": "43c96bdc-e36d-4a11-b4d3-09196bff5a10",
+    "data": [
+      {
+        "text": "Wo bekomme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " amtliche Beglaubigung für meine Dokumente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545860343
+  },
+  {
+    "id": "52fb71c3-5a7e-41a2-b596-76901ae3ef21",
+    "data": [
+      {
+        "text": "An welchem Ort kann ich meine Unterlagen amtlich beglaubigen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545860343
+  },
+  {
+    "id": "c2515d86-9c71-44e8-a712-e5be86b7389f",
+    "data": [
+      {
+        "text": "Unterlagen amtlich beglaubigen lassen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545860343
+  },
+  {
+    "id": "1373fd47-b7e2-4a34-83d3-c5ec4e0906e9",
+    "data": [
+      {
+        "text": "Wo kann ich meine Unterlagen amtlich beglaubigen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545860343
+  }
+]

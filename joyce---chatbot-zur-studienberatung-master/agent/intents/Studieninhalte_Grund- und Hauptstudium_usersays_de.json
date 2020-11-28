@@ -1,0 +1,240 @@
+[
+  {
+    "id": "70c208c8-2f65-4db5-84c4-bbed006a0872",
+    "data": [
+      {
+        "text": "Was sind die Lerninhalte in Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c0a72b9a-1dbc-4cd7-8f2b-2a0d2a827d77",
+    "data": [
+      {
+        "text": "Was ist Inhalt des Studienganges Medienwirtschaft",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c69b3707-7597-4a35-ab7b-228544fb31fa",
+    "data": [
+      {
+        "text": "Welche Inhalte erwarten mich ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e356e29b-6009-4a7c-b122-9b73111d401d",
+    "data": [
+      {
+        "text": "Kursangebot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547721200
+  },
+  {
+    "id": "41e5a14b-5307-4b9b-8dac-cbb6a6de0b5e",
+    "data": [
+      {
+        "text": "Was für Kurse werden angeboten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547721200
+  },
+  {
+    "id": "5e0abfb2-5a85-4f56-aca6-0a7e33f669d6",
+    "data": [
+      {
+        "text": "Gibt es Studentenprojekte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547312739
+  },
+  {
+    "id": "a36d573d-2c5c-48f6-b9cf-539b6833c34e",
+    "data": [
+      {
+        "text": "Gibt es Projekte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547312739
+  },
+  {
+    "id": "c2d7b53a-1a87-4929-852f-cad8a9dc4ab3",
+    "data": [
+      {
+        "text": "Kann ich während des Studiums auch Projekte durchführen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547312739
+  },
+  {
+    "id": "37900cb0-b7d0-4b24-b9c4-2f280794efb1",
+    "data": [
+      {
+        "text": "Was macht man im ",
+        "userDefined": false
+      },
+      {
+        "text": "ersten",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " Semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547310441
+  },
+  {
+    "id": "c3c06864-f518-4c3c-8f15-3cbaf1d01e34",
+    "data": [
+      {
+        "text": "Was sind die Themen im Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547310441
+  },
+  {
+    "id": "c2b735b8-5612-4bf6-801d-45ecd4051a8f",
+    "data": [
+      {
+        "text": "Erzähl mir etwas über die Studieninhalte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547221127
+  },
+  {
+    "id": "e3ccf769-bd20-4c9a-9cff-62420d832985",
+    "data": [
+      {
+        "text": "Welche Inhalte hat das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547221127
+  },
+  {
+    "id": "89309b34-9d4e-4b58-a789-c8cc7e0b6082",
+    "data": [
+      {
+        "text": "Welche Studieninhalte hat Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547221127
+  },
+  {
+    "id": "3ed06b02-cadc-49cd-9c9e-70c976417cf6",
+    "data": [
+      {
+        "text": "Welche Studieninhalte hat MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547221127
+  },
+  {
+    "id": "193399d2-8c8d-4c34-83cb-f56826a0b953",
+    "data": [
+      {
+        "text": "Was sind die Studieninhalte von Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547130532
+  },
+  {
+    "id": "ec529988-2a31-48a0-a5cf-a589e3ab4341",
+    "data": [
+      {
+        "text": "Studieninhalte MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547130532
+  },
+  {
+    "id": "17d94fa7-8611-4a1b-841b-ad3b3968f149",
+    "data": [
+      {
+        "text": "Studieninhalte Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547130532
+  },
+  {
+    "id": "2131c33a-e6df-4fcf-89a8-d64225ffd472",
+    "data": [
+      {
+        "text": "Was lerne ich beim MW Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547130532
+  },
+  {
+    "id": "e2157792-ddc2-498c-8d0d-e48d8fe9911c",
+    "data": [
+      {
+        "text": "Was lernt man bei MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547130532
+  }
+]

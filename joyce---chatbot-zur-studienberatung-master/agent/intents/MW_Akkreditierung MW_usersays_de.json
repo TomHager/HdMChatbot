@@ -1,0 +1,59 @@
+[
+  {
+    "id": "5949ae91-cdb0-4810-97a8-54dedca3e0b5",
+    "data": [
+      {
+        "text": "Wurde für Medienwirtschaft akkreditiert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480649
+  },
+  {
+    "id": "5fa31889-a773-4c60-9197-fac9484971a3",
+    "data": [
+      {
+        "text": "Wurden die Studiengänge der HdM akkreditiert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480649
+  },
+  {
+    "id": "2dd6690e-efea-4ea9-a473-8d848f974c31",
+    "data": [
+      {
+        "text": "Gab es für Medienwirtschaft bereits ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Akkreditierungsverfahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480649
+  },
+  {
+    "id": "38fc1b8b-70a4-4e96-9fe7-c90f4c88e4fd",
+    "data": [
+      {
+        "text": "Ist der Studiengang Medienwirtschaft (MW) bereits akkreditiert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480649
+  }
+]

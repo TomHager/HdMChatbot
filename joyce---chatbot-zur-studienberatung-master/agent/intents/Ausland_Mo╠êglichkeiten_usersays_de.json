@@ -1,0 +1,212 @@
+[
+  {
+    "id": "78ffa5b3-91ce-41ce-8567-c061460b37f8",
+    "data": [
+      {
+        "text": "toronto",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d16f369-f648-4bae-ae14-66abec5e6507",
+    "data": [
+      {
+        "text": "Ich will alles über das Auslandssemester wissen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a00ec759-b672-4726-903e-92d9bdf4c87a",
+    "data": [
+      {
+        "text": "Welche Auslandssemester kann man an der HdM machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ade1269-2be7-4535-98c3-4884f1826fdb",
+    "data": [
+      {
+        "text": "Wann macht man am besten ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Semester im Ausland?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f246ac40-5b63-45d6-b0ab-c0a63ef4b2e7",
+    "data": [
+      {
+        "text": "Was muss ich alles ",
+        "userDefined": false
+      },
+      {
+        "text": "bei einem",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Auslandssemester beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0397f877-0617-4665-b85e-89b2a875a833",
+    "data": [
+      {
+        "text": "Welche Punkte müssen ",
+        "userDefined": false
+      },
+      {
+        "text": "bei einem",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Auslandssemester beachtet werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c2f9026-4172-4c3a-bc64-918fc7f56cf4",
+    "data": [
+      {
+        "text": "Wohin kann ich im Auslandssemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547313852
+  },
+  {
+    "id": "83b70560-5877-4001-a6b3-7b2a2b7527b6",
+    "data": [
+      {
+        "text": "Asnprechpartner zum Auslandssemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546558601
+  },
+  {
+    "id": "29e997f0-5627-4ad7-bf69-c4a8074afc55",
+    "data": [
+      {
+        "text": "Leistungen von Auslandssemester anrechnen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546558601
+  },
+  {
+    "id": "602ab3f7-b81b-421b-a87f-d707e7332f71",
+    "data": [
+      {
+        "text": "Wer ist mein Ansprechpartner bei Fragen zum Auslandssemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545481303
+  },
+  {
+    "id": "7ece7fe7-d5e8-408e-8cdb-7dba4f7c4963",
+    "data": [
+      {
+        "text": "Kann ich meine im Ausland erworbenen Leistungen anrechnen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545481303
+  },
+  {
+    "id": "ba01fbe3-4b0d-4b93-b1fb-9397124afa1b",
+    "data": [
+      {
+        "text": "Wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ins",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ausland möchte, was kann die HdM mir bieten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545481303
+  },
+  {
+    "id": "f4931d12-d6f0-4ff2-9101-436a078dbc3b",
+    "data": [
+      {
+        "text": "Welche Möglichkeiten gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "um ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Auslandssemester zu absolvieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545481303
+  }
+]

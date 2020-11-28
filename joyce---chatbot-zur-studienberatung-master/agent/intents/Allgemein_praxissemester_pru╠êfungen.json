@@ -1,0 +1,36 @@
+{
+  "id": "6f006c05-d318-48cc-9697-42c6fefa6425",
+  "name": "Allgemein_praxissemester_prüfungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "517e4213-429f-4b2a-8698-3bf94cc2b737",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Nein. Du darfst allerdings bis zu zwei nichtbestandene Prüfungen während des Praxissemesters wiederholen. Prüfungen, die wegen Krankheit nicht angetreten werden konnten, gelten als Nullversuch und dürfen im Praxissemester nicht angemeldet werden."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548428908,
+  "fallbackIntent": false,
+  "events": []
+}

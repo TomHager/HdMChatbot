@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7409e2ab-e7e0-4251-a6e6-511e83bf06f1",
+    "data": [
+      {
+        "text": "Wie lange dauert das Grundstudium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1547721487
+  },
+  {
+    "id": "7bbf1f53-3191-4046-911f-b7416f1ec207",
+    "data": [
+      {
+        "text": "Wie lange dauert das Hauptstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547721487
+  },
+  {
+    "id": "cdba9d26-f09c-4ae4-b535-b4ab02d8c1e0",
+    "data": [
+      {
+        "text": "Wie viele Semester geht das Grundstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547721487
+  },
+  {
+    "id": "92212ed9-2d73-4fa1-9286-13d430a3174a",
+    "data": [
+      {
+        "text": "Dauer Grundstudium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547721487
+  }
+]

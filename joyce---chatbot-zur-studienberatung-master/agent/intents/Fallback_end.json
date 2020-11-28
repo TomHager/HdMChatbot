@@ -1,0 +1,33 @@
+{
+  "id": "954cfe87-acca-413e-87ce-a3daa02745e0",
+  "parentId": "9b5e8fb2-92db-4214-8438-7f48c497c71d",
+  "rootParentId": "2ce90761-90cb-4b5b-85f9-9604110f895b",
+  "name": "Fallback_end",
+  "auto": false,
+  "contexts": [
+    "DefaultFallbackIntent-fallback-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-fallback.DefaultFallbackIntent-fallback-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Besser, Du stellst mir eine andere Frage 😊\nWenn Du nicht weiter weißt, kannst du auch die Hilfe-Funktion nutzen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547983186,
+  "fallbackIntent": true,
+  "events": []
+}

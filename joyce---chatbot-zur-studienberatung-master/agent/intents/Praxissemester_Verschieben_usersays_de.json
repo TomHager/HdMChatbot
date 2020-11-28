@@ -1,0 +1,94 @@
+[
+  {
+    "id": "11c9e827-538b-4801-932d-0843ba98de0d",
+    "data": [
+      {
+        "text": "Praxissemester verschieben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654367
+  },
+  {
+    "id": "7299181b-0456-4db6-b8b9-0af26882673e",
+    "data": [
+      {
+        "text": "Geht es, dass ich mein Praxissemester verschiebe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654367
+  },
+  {
+    "id": "fcc2d0bc-a38e-42fd-b7a5-dbdf5e36fd38",
+    "data": [
+      {
+        "text": "Muss ich mein Praxissemester im ",
+        "userDefined": false
+      },
+      {
+        "text": "fünften",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Semester machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654367
+  },
+  {
+    "id": "730f5f15-8850-4fce-a02c-ef7edd8b93df",
+    "data": [
+      {
+        "text": "Kann ich das Praxissemester auch in ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " anderen Semester machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654367
+  },
+  {
+    "id": "a4fbe3b3-e274-453c-ad8d-d3c64e66a361",
+    "data": [
+      {
+        "text": "Ist es möglich das Praxissemester zu verschieben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654367
+  },
+  {
+    "id": "eb6a2a66-5e9b-46ec-8089-266febe505e5",
+    "data": [
+      {
+        "text": "Kann ich das Praxissemester verschieben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654367
+  }
+]

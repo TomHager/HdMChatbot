@@ -1,0 +1,191 @@
+[
+  {
+    "id": "e5d12da0-3b6c-4a7c-affd-396a3c88fce6",
+    "data": [
+      {
+        "text": "Wie lange muss ich studieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ea2d5811-0fca-473a-8d28-3ffc3071b164",
+    "data": [
+      {
+        "text": "Wie viel Semester gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1545129175
+  },
+  {
+    "id": "550c017b-7744-4638-b624-4bf2073b6e91",
+    "data": [
+      {
+        "text": "Wie lange ist die Regelstudienzeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1545129175
+  },
+  {
+    "id": "8bcd494e-3159-4ced-9166-15fdd6896dd3",
+    "data": [
+      {
+        "text": "Regelstudienzeit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f461ac32-6396-4e94-bd5f-fe8c919bb21a",
+    "data": [
+      {
+        "text": "Wie viele Semester dauert das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e94d08f-d293-42e3-a365-0d03c5fd066b",
+    "data": [
+      {
+        "text": "Wie viel Semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4480fb1-b23d-4545-a360-37cc85c12a44",
+    "data": [
+      {
+        "text": "Wie lang ist das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547310280
+  },
+  {
+    "id": "f0314e22-9f9b-4031-a809-96dcd10b24d1",
+    "data": [
+      {
+        "text": "Wie viele Semester braucht man?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547130646
+  },
+  {
+    "id": "730395b0-a02a-47bf-a4a9-9f042df88ace",
+    "data": [
+      {
+        "text": "Wie lange geht das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546860862
+  },
+  {
+    "id": "af8d8b14-9cb0-4cb3-8bed-a4c7896104ed",
+    "data": [
+      {
+        "text": "Wie ist die Regelstudienzeit bemessen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545410976
+  },
+  {
+    "id": "6f2fb820-f60e-47b6-ae65-5ee7fc0ad1ea",
+    "data": [
+      {
+        "text": "Dauer des Studiums an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545399010
+  },
+  {
+    "id": "f03902f7-cfbf-4adf-bf49-a5852c95c4fe",
+    "data": [
+      {
+        "text": "Studiendauer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545399010
+  },
+  {
+    "id": "b48ebb6b-0f0e-48ef-84f4-67f345986fc0",
+    "data": [
+      {
+        "text": "Wie viele Semester dauert der Studiengang Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545399010
+  },
+  {
+    "id": "0474b8f3-ea92-4d7a-8681-3e5d74c23ec7",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Regelstudienzeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129175
+  },
+  {
+    "id": "9191c1af-abab-4ed9-bcf8-a84587e2cb44",
+    "data": [
+      {
+        "text": "Wie lange dauert das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129175
+  }
+]

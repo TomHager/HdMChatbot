@@ -1,0 +1,47 @@
+{
+  "id": "68f20706-7424-42f2-b270-765c1f57ffc2",
+  "name": "Allgemein_Urlaubssemester",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7168b59b-1be3-411d-8527-f007197d0350",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Jede/r Studierende kann während des Studiums maximal zwei Urlaubssemester beantragen. Eine Beurlaubung im ersten Studiensemester ist nicht möglich. Zur Beantragung eines Urlaubssemester müssen triftige Gründe vorliegen. In jedem Fall wird empfohlen einen Beratungstermin mit der zentralen Studienberatung zu vereinbaren."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547640619,
+  "fallbackIntent": false,
+  "events": []
+}

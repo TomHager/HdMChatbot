@@ -1,0 +1,37 @@
+{
+  "id": "99d47932-03ee-4086-a102-c7e11d381c3e",
+  "name": "Allgemein_Studiengebühren",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2b6fcbdb-4f27-4237-b382-a2953a4bdd2e",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Eine Übersicht über mögliche anfallende Kosten findest Du hier: \nhttps://www.hdm-stuttgart.de/studieninteressierte/bewerber/kosten"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547694298,
+  "fallbackIntent": false,
+  "events": []
+}

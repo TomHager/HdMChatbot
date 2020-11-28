@@ -1,0 +1,104 @@
+[
+  {
+    "id": "3846ff3f-2098-4b55-b7cc-37eafbb1ca6b",
+    "data": [
+      {
+        "text": "Muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " eigenen Stundenplan zusammenstellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480232
+  },
+  {
+    "id": "163127fc-0e27-4714-9698-edb983c928e9",
+    "data": [
+      {
+        "text": "Gibt es im Grundstudium Wahlpflichtveranstaltungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480232
+  },
+  {
+    "id": "450b2f9f-f754-4a9f-8d81-5aa09d5cae55",
+    "data": [
+      {
+        "text": "Wie ",
+        "userDefined": false
+      },
+      {
+        "text": "stelle",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ich meinen Studienplan ",
+        "userDefined": false
+      },
+      {
+        "text": "für die ersten",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "zwei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Semester zusammen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480232
+  },
+  {
+    "id": "c6c390c7-6c5a-4381-afdc-968b736c60d7",
+    "data": [
+      {
+        "text": "Welche Veranstaltungen muss ich im ",
+        "userDefined": false
+      },
+      {
+        "text": "ersten",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Semester besuchen und wie ",
+        "userDefined": false
+      },
+      {
+        "text": "stelle",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ich den Studienplan zusammen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545480232
+  }
+]

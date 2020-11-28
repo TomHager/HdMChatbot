@@ -1,0 +1,28 @@
+{
+  "id": "87efa110-37f0-4139-9f0e-79808daec9b3",
+  "name": "Allgemein_was_machst_du",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ich versuche dir zu helfen! 😉"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548429655,
+  "fallbackIntent": false,
+  "events": []
+}

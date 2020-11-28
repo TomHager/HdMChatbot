@@ -1,0 +1,224 @@
+[
+  {
+    "id": "dd4bfa14-7276-448e-8297-0173c727be70",
+    "data": [
+      {
+        "text": "Kann man ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Auslandsjahr machen? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9650a4e4-8414-40a5-82d0-b028c8bdb11c",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ins",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " Ausland?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547313813
+  },
+  {
+    "id": "db4e4dd7-ba4e-42b9-b337-ce435d5d16c8",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ins",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " Ausland gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311589
+  },
+  {
+    "id": "659ecec4-5edf-4c43-85b2-44bf641d06ec",
+    "data": [
+      {
+        "text": "Kann ich auch ",
+        "userDefined": false
+      },
+      {
+        "text": "ins",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " Ausland gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311589
+  },
+  {
+    "id": "b60689e3-834c-4011-96fa-30c2e440f13c",
+    "data": [
+      {
+        "text": "Kann man hier ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Auslandssemester machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546533230
+  },
+  {
+    "id": "b45b0f81-2f0d-44d6-aa9c-588c27abd8ae",
+    "data": [
+      {
+        "text": "Kann ich im Ausland studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546533230
+  },
+  {
+    "id": "f26e6592-65dd-484f-b825-d394cbb28b9e",
+    "data": [
+      {
+        "text": "Kann ich auch im Ausland studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546533230
+  },
+  {
+    "id": "246115b3-5544-438d-8652-059f83bbe61a",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Auslandssemester machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546533230
+  },
+  {
+    "id": "4cbe2c30-5e27-4ac0-a806-086f705f98ee",
+    "data": [
+      {
+        "text": "Wird es von der HdM unterstützt im Ausland zu studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545481095
+  },
+  {
+    "id": "178a0575-d58f-4126-a008-11ff0553d779",
+    "data": [
+      {
+        "text": "Kann ich auch ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Semester im Ausland studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545481095
+  },
+  {
+    "id": "f7f00fb8-ccb9-492f-a687-9beca0a419e0",
+    "data": [
+      {
+        "text": "Habe ich während des Studiums die Möglichkeit im Ausland zu studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545481095
+  },
+  {
+    "id": "e9ccb244-6cd5-4be2-a5ee-ea02fbe0f827",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Auslandssemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545481095
+  }
+]

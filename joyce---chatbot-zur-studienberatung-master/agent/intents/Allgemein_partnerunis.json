@@ -1,0 +1,43 @@
+{
+  "id": "a57d4a9f-98f8-4ad4-95bd-a41c53490b45",
+  "name": "Allgemein_partnerunis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5d7830ba-fd47-4365-97bb-89a14acfa313",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "2c921609-a871-4dd0-b803-e3901437598f",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Eine Übersicht aller Partnerhochschulen der HdM findest Du hier: www.hdm-stuttgart.de/hochschule/profil/partnerhochschulen"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548424138,
+  "fallbackIntent": false,
+  "events": []
+}

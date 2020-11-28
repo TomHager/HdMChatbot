@@ -1,0 +1,114 @@
+[
+  {
+    "id": "3adbd47b-88a9-4266-aa70-5c4b879b277a",
+    "data": [
+      {
+        "text": "Was machst du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8d7ebac-ffe5-4252-9cea-fbfae353780a",
+    "data": [
+      {
+        "text": "du larry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "314096fa-8547-44a3-9d89-46d2af6d4e7a",
+    "data": [
+      {
+        "text": "was bist du ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " larry?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "438757ef-02fe-449a-a019-2764453d7565",
+    "data": [
+      {
+        "text": "Was bist Du ",
+        "userDefined": false
+      },
+      {
+        "text": "für 1",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " larry?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545235704
+  },
+  {
+    "id": "445cc02a-cece-44a7-9354-a26a38c93d9e",
+    "data": [
+      {
+        "text": "Was bimst Du ",
+        "userDefined": false
+      },
+      {
+        "text": "für 1",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " nicer Bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545235704
+  },
+  {
+    "id": "95dfea08-ca6d-49d2-bf01-6461244fd169",
+    "data": [
+      {
+        "text": "Was bimst Du ",
+        "userDefined": false
+      },
+      {
+        "text": "für 1",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " nicer boi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545235704
+  }
+]

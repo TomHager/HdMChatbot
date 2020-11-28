@@ -1,0 +1,123 @@
+[
+  {
+    "id": "94ddbb3a-c1ea-490f-8411-03a856a4ac5b",
+    "data": [
+      {
+        "text": "Ergeben sich Nachteile für mich wenn ich studiere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407347
+  },
+  {
+    "id": "8820bd0c-c64c-4c36-b4da-3aad25cdd6c4",
+    "data": [
+      {
+        "text": "Was muss ich beachten wenn ich mir überlege zu studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407347
+  },
+  {
+    "id": "53c1e5be-ef9a-4b9c-a88d-0949543d8a79",
+    "data": [
+      {
+        "text": "Gibt es Gründe die gegen ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studium sprechen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407347
+  },
+  {
+    "id": "94f76872-8874-423d-92db-182540facd95",
+    "data": [
+      {
+        "text": "Was sollte mir bewusst sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545127673
+  },
+  {
+    "id": "46def84d-7e4c-40d9-adbd-d4f229a25c84",
+    "data": [
+      {
+        "text": "Nachteile ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studiums?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545127673
+  },
+  {
+    "id": "e16f5487-6efe-4fc5-9607-4fdcea779b73",
+    "data": [
+      {
+        "text": "Was spricht gegen ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545127673
+  },
+  {
+    "id": "4a5d92b1-7d23-42de-afa6-2f8ef4db9182",
+    "data": [
+      {
+        "text": "Was sind allgemeine Nachteile ",
+        "userDefined": false
+      },
+      {
+        "text": "eines",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studiums?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545127673
+  }
+]

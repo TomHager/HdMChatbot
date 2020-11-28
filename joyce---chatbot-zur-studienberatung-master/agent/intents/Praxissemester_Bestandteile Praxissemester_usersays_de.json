@@ -1,0 +1,126 @@
+[
+  {
+    "id": "e6ea5249-1b4d-4e29-8358-eccc1a8c5952",
+    "data": [
+      {
+        "text": "Wann wird regulär das Praxissemester absolviert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "203586d3-167e-47a3-968f-4890b10b1d69",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Praxissemester vorgesehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1b091a6-b78a-4ec0-9103-a2317991a09b",
+    "data": [
+      {
+        "text": "Aus was besteht ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546558844
+  },
+  {
+    "id": "d0087b74-ea39-4263-85ff-edec98169fa5",
+    "data": [
+      {
+        "text": "Bestandteile Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546558844
+  },
+  {
+    "id": "351f8806-8f69-44af-8dc5-da3e91229495",
+    "data": [
+      {
+        "text": "Woraus besteht ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545482076
+  },
+  {
+    "id": "950d7a44-33c3-4478-bdc6-770b08783895",
+    "data": [
+      {
+        "text": "Wie lange geht das Praxissemester und wann muss ich dieses antreten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545482076
+  },
+  {
+    "id": "5208fc7d-7fe5-44ea-b5ca-ac139d944300",
+    "data": [
+      {
+        "text": "Wann wird das Praxissemester absolviert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545482076
+  },
+  {
+    "id": "3847a40d-5da9-4d52-a132-e00fb1b90f9f",
+    "data": [
+      {
+        "text": "Woraus setzt sich das Praktische Studiensemester zusammen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545482076
+  }
+]

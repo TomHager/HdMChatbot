@@ -1,0 +1,39 @@
+{
+  "id": "08c52585-f4d1-4d93-8bcb-ab40f4c5c184",
+  "name": "Emoji_Freundlich",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Emoji_Freundlich-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "☺️",
+            "🙈",
+            "Ich dich auch 😏",
+            "Ich mag dich ♡"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547632201,
+  "fallbackIntent": false,
+  "events": []
+}

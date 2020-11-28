@@ -1,0 +1,178 @@
+[
+  {
+    "id": "c807577b-627f-4328-970d-faeb05749860",
+    "data": [
+      {
+        "text": "Wo kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "essen",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "505a8756-565f-4d44-ab4c-a1faa6399b0d",
+    "data": [
+      {
+        "text": "Wo kann ich in der Mittagspause ",
+        "userDefined": false
+      },
+      {
+        "text": "essen",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56b8da3e-7a1c-43d9-ac8f-9894d8659e6a",
+    "data": [
+      {
+        "text": "Wie ist es um\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Essen",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " bestellt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3858b0f5-9eea-4dee-8188-00e37be8b697",
+    "data": [
+      {
+        "text": "gibt es essensmöglichkeiten an der hdm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "8567bf01-e388-492e-9d39-c7d60eac19fa",
+    "data": [
+      {
+        "text": "Wie ist das ",
+        "userDefined": false
+      },
+      {
+        "text": "Essen",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e54fc163-8044-42a6-bc70-31cc99cbba45",
+    "data": [
+      {
+        "text": "Hat die hdm ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Mensa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f058c49b-48ec-490d-ade3-6f0224f1981e",
+    "data": [
+      {
+        "text": "Ist das ",
+        "userDefined": false
+      },
+      {
+        "text": "Essen",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " gut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547564290
+  },
+  {
+    "id": "505400b5-4f36-439b-a441-cde835cdcab3",
+    "data": [
+      {
+        "text": "Gibt es Essensmöglichkeiten an der HDM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547564290
+  },
+  {
+    "id": "6098b630-d4d2-4466-b003-cc82f25dbde4",
+    "data": [
+      {
+        "text": "Gibt es eine Mensa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547311438
+  },
+  {
+    "id": "854df6a6-3c08-4525-b68c-f6dca37376a0",
+    "data": [
+      {
+        "text": "ist die Mensa gut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

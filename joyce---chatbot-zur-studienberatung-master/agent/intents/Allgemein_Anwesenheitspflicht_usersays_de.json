@@ -1,0 +1,106 @@
+[
+  {
+    "id": "0f9dcce4-e7c5-497c-9af3-f3073c2efffd",
+    "data": [
+      {
+        "text": "Muss ich anwesend sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545306655
+  },
+  {
+    "id": "33174d2f-04f4-40bf-87ac-8cd096f22857",
+    "data": [
+      {
+        "text": "Muss ich bei jeder Vorlesung anwesend sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545306655
+  },
+  {
+    "id": "8bcfed4e-569e-4418-8eec-597e5c852c86",
+    "data": [
+      {
+        "text": "Wird die Anwesenheit kontrolliert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545306655
+  },
+  {
+    "id": "af155d3c-0d9f-44ed-a01d-e391f155f21d",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Answesenheitspflicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545306655
+  },
+  {
+    "id": "eb45ed06-085f-4687-b6bc-302ad982f3b9",
+    "data": [
+      {
+        "text": "Wird die Anwesenheitspflicht kontrolliert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545235416
+  },
+  {
+    "id": "0839ef0f-80eb-4db7-b96b-1d3f70c7a9e5",
+    "data": [
+      {
+        "text": "Muss ich bei jeder Vorlesung da sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545235416
+  },
+  {
+    "id": "fc9a9ef8-978f-4421-98d0-c11ad4332bed",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " generelle Anwesenheitspflicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545235416
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "edef4276-3d32-4ef9-a9b8-320dcc211142",
+    "data": [
+      {
+        "text": "Wie stehen meine Chancen auf dem Arbeitsmarkt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545411345
+  },
+  {
+    "id": "5b86cba2-9cae-464c-8e89-a8880276bca8",
+    "data": [
+      {
+        "text": "spätere Chancen auf dem Arbeitsmarkt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545411345
+  },
+  {
+    "id": "bd45edb3-82f6-49f3-b2c4-1de8ea7b7e03",
+    "data": [
+      {
+        "text": "Wie sind die Chancen auf dem Arbeitsmarkt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129786
+  },
+  {
+    "id": "5eb07558-4998-49c8-8185-02ead4b13eb8",
+    "data": [
+      {
+        "text": "Was kommt nach dem Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129786
+  },
+  {
+    "id": "43f4eb23-abf0-43f5-afed-a496f19082fb",
+    "data": [
+      {
+        "text": "Finde ich schnell ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Job nach dem Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129786
+  },
+  {
+    "id": "9cde73ce-0b18-44a0-b401-867ed810a32b",
+    "data": [
+      {
+        "text": "Was sind die Erfolgschancen mit ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Medienstudium auf dem späteren Arbeitsmarkt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129786
+  }
+]

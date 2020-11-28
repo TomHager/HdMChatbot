@@ -1,0 +1,37 @@
+{
+  "id": "bfa6d776-dce1-4d80-a241-927975f7c805",
+  "name": "Bewerbung_Passfoto",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4b3c76d5-d2a1-4fe4-a510-fdcfbd6e1b38",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du brauchst kein aktuelles Passfoto für die Bewerbung. Erst nach der erfolgreichen Zulassung wird ein Bild für die Einschreibung / Immatrikulation benötigt."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547718130,
+  "fallbackIntent": false,
+  "events": []
+}

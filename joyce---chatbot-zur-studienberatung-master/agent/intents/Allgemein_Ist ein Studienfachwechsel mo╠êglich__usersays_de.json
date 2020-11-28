@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ccbdafa1-5a4a-4a95-8f98-3667d2d5a4f3",
+    "data": [
+      {
+        "text": "Besteht die Möglichkeit den Studiengang zu wechseln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397792
+  },
+  {
+    "id": "fc4df5d8-8638-4c34-86ed-d6f91abee3a9",
+    "data": [
+      {
+        "text": "Ist es möglich den Studiengang zu wechseln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397792
+  },
+  {
+    "id": "150ecb0e-9116-4a65-94f5-5f809a4a03a6",
+    "data": [
+      {
+        "text": "Was wenn mir mein Studiengang keinen Spaß mehr macht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397792
+  },
+  {
+    "id": "90f67870-c331-4e10-90cc-c739db39ca90",
+    "data": [
+      {
+        "text": "Studienfachwechsel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545397792
+  },
+  {
+    "id": "3cb73994-da8c-4a58-a2dc-94f9f2df954e",
+    "data": [
+      {
+        "text": "Kann ich zwischen den Studiengängen wechseln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129055
+  },
+  {
+    "id": "b07659d0-0296-4ee7-b1f3-027ada122d26",
+    "data": [
+      {
+        "text": "Kann ich mein Studienfach wechseln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129055
+  },
+  {
+    "id": "50328675-3594-4074-bc61-618e58b5e979",
+    "data": [
+      {
+        "text": "Kann ich den Studiengang wechseln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129055
+  },
+  {
+    "id": "929585c6-ac71-415b-9b3b-69f78245d79b",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studienfachwechsel möglich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545129055
+  }
+]

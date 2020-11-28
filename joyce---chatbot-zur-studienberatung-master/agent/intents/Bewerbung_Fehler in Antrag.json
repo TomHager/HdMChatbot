@@ -1,0 +1,42 @@
+{
+  "id": "4935d43c-fe7d-4a50-bd8c-59a180aecc18",
+  "name": "Bewerbung_Fehler in Antrag",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c6b43893-d9bc-4758-8343-53ff876b96d1",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wenn Du Dich für einen Bachelor Studiengang beworben hast, ziehen den Antrag im Portal hochschulstart.de zurück und stelle einen neuen Antrag. Diesen neuen Antrag solltest Du uns in Papierform zusenden. Eine Online-Änderungen von Anträgen, die bereits in Papierform an der Hochschule eingereicht sind, werden von uns nicht berücksichtigt. Bei Fehlern in Deinem Master Antrag, musst Du Dich erneut online bewerben und das Formular nochmals bei uns einreichen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Online-Änderungen von Anträgen werden von uns nicht berücksichtigt. Bei Fehlern in Deinem Master Antrag, musst Du Dich erneut online bewerben und das Formular nochmals bei uns einreichen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547717570,
+  "fallbackIntent": false,
+  "events": []
+}

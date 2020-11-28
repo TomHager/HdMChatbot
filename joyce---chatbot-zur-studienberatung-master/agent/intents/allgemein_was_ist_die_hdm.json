@@ -1,0 +1,33 @@
+{
+  "id": "a5aa45d2-f5d7-4dfb-8c93-d1a04665bb42",
+  "name": "allgemein_was_ist_die_hdm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Hochschule der Medien (HdM) in Stuttgart bildet als staatliche Fachhochschule Spezialisten und Allrounder für die Medienwelt aus. In allen Studiengängen wird nach eigenen Angaben durch Theorie und praxisnahe Projekte aktive Wissensvermittlung geboten."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Schau Dir alle Studienangebote, hier unter diesem Link an: https://www.hdm-stuttgart.de/studieninteressierte/studium/alle_studienangebote"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548340005,
+  "fallbackIntent": false,
+  "events": []
+}

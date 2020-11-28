@@ -1,0 +1,108 @@
+[
+  {
+    "id": "22cc3354-b207-4168-8617-33b207593da8",
+    "data": [
+      {
+        "text": "Also ",
+        "userDefined": false
+      },
+      {
+        "text": "26",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " oder ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547489942
+  },
+  {
+    "id": "aa216282-e9ea-4d9b-9722-90009481c20b",
+    "data": [
+      {
+        "text": "Muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Tage oder ",
+        "userDefined": false
+      },
+      {
+        "text": "26 Wochen",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ins",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " Praktikum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547489942
+  },
+  {
+    "id": "7549c421-d29a-4b5c-a02b-5a2c586e0f70",
+    "data": [
+      {
+        "text": "Beträgt die Praktikumsdauer nun ",
+        "userDefined": false
+      },
+      {
+        "text": "26 Wochen",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " oder ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Tage?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547489942
+  }
+]

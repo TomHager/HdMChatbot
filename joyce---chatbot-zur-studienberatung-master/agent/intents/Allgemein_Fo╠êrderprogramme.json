@@ -1,0 +1,42 @@
+{
+  "id": "32316eed-88e5-4204-9868-533bdc0f5071",
+  "name": "Allgemein_Förderprogramme",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4adefe4d-c0f0-4158-a0a6-b60c1ec296f3",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Es gibt Förderungen in Form der Allgemeine Studienförderung nach dem Bundesausbildungsförderungsgesetz (BAföG). Alle Infos dazu findest Du hier: https://www.hdm-stuttgart.de/studieninteressierte/rund_ums_studium/bafoeg"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Außerdem haben wir an der HdM ein eigenes Startup Center, da uns die Förderung der Ideen unserer Studierender besonders wichtig ist. Schau Dir an, was dort alles unterstützt wird: https://startupcenter-stuttgart.de/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547722215,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,144 @@
+[
+  {
+    "id": "9b43a833-cd11-48d0-9c63-107a7af8dc52",
+    "data": [
+      {
+        "text": "Welche Kosten fallen an",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad50cb80-81ba-4fe2-b50a-375a66db4ead",
+    "data": [
+      {
+        "text": "Wie hoch ist der Semesterbeitrag?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef81f3f5-389e-48dc-81f7-991cb413c430",
+    "data": [
+      {
+        "text": "Kostet das Studium etwas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e685eca1-5184-4537-97e0-21eb8a97a66f",
+    "data": [
+      {
+        "text": "Was für Kosten fallen im Studium an?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547640484
+  },
+  {
+    "id": "b3ad5008-3ff3-4a35-af26-d7385bfb5bef",
+    "data": [
+      {
+        "text": "Wie teuer ist ein Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547640484
+  },
+  {
+    "id": "1e756861-be0f-4154-9675-adf4b2749762",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studium teuer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547640484
+  },
+  {
+    "id": "0803ece0-1adc-4b6e-846d-dcab68dbbaed",
+    "data": [
+      {
+        "text": "Wie hoch sind die Studiengebühren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19ddbbd9-6340-48cf-81ad-9a10cbb7bd24",
+    "data": [
+      {
+        "text": "Wie hoch sind die Gebühren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547129383
+  },
+  {
+    "id": "ea00ece5-2bf4-4e15-9ecf-8dccb072b7d9",
+    "data": [
+      {
+        "text": "Wie viel kostet das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547130012
+  },
+  {
+    "id": "b4968891-74bb-4744-8c9f-d3bd5f0cfdbd",
+    "data": [
+      {
+        "text": "Was kostet das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547130012
+  },
+  {
+    "id": "33b272a6-165f-46c0-b895-b8865ace899b",
+    "data": [
+      {
+        "text": "Kostet es etwas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1547129383
+  }
+]

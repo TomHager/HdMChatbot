@@ -1,0 +1,110 @@
+[
+  {
+    "id": "5c435725-368c-4ad7-9c1c-0d61f10a62be",
+    "data": [
+      {
+        "text": "Gibt es auch praktische Aufgaben im Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547654762
+  },
+  {
+    "id": "e8e4d177-40d1-4fb7-9e43-8754252168f3",
+    "data": [
+      {
+        "text": "Wie stark ist die Verbindung zur Praxis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405455
+  },
+  {
+    "id": "c96d6562-f8ec-445b-9dd1-a425beb5cf04",
+    "data": [
+      {
+        "text": "Wie viel praktische Anteile gibt es im MW Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405455
+  },
+  {
+    "id": "089aa765-0ebe-4a67-83f6-3ecb446f7107",
+    "data": [
+      {
+        "text": "Praxisanteil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405455
+  },
+  {
+    "id": "753478be-173b-4acc-9ffb-836701ddff80",
+    "data": [
+      {
+        "text": "Praxisbezug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405455
+  },
+  {
+    "id": "f6583988-cc0c-4356-942b-b11156683f0d",
+    "data": [
+      {
+        "text": "Wie hoch ist der Praxisanteil in Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545235012
+  },
+  {
+    "id": "41eb59e7-d3db-4740-b4b9-1e5ff693991e",
+    "data": [
+      {
+        "text": "Wie sieht der Praxisbezug im Studium konkret aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545235012
+  },
+  {
+    "id": "691d475f-35d3-4aed-979a-eab0edf9191d",
+    "data": [
+      {
+        "text": "Wie wichtig ist der Praxisbezug im MW Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545235012
+  },
+  {
+    "id": "7efc2ac2-f409-4018-be9a-e2ca85a99ac5",
+    "data": [
+      {
+        "text": "Wie praxisnah ist das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545235012
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "dd10d748-c1bd-42ea-a6b2-a5d14f361c60",
+  "name": "Bewerbung_Beratung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e6735a30-df5c-46f4-996e-ba65c70747cf",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "e5ba83a5-f3e0-4936-8248-55b06606860b",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time1",
+          "value": "$time1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Eine studienfachliche Beratung führt der zuständige Studiendekan des Studiengangs durch."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Kontaktdaten der Studiendekane findest Du auf den Studiengangs-Websites:\nhttps://www.hdm-stuttgart.de/studieninteressierte/studium/bachelor"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548094155,
+  "fallbackIntent": false,
+  "events": []
+}

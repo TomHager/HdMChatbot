@@ -1,0 +1,110 @@
+[
+  {
+    "id": "77b1f44a-f293-4f90-be5f-e84847ceccfe",
+    "data": [
+      {
+        "text": "Gibt es Praxissemester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca00faba-40e8-4a8f-93b3-65bf9c6b6669",
+    "data": [
+      {
+        "text": "Welche Voraussetzungen fürs PS, wenn ich keinen Schwerpunkt habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547492012
+  },
+  {
+    "id": "dc8df2a7-da3d-4085-aaac-04c91e814894",
+    "data": [
+      {
+        "text": "Welche Voraussetzungen fürs Praxissemester, wenn ich den Schwerpunkt Konzeption und Analyse habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1547492012
+  },
+  {
+    "id": "9358bfdd-5d7b-4ce9-96c1-f25b62d68f39",
+    "data": [
+      {
+        "text": "Voraussetzungen fürs PS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547492012
+  },
+  {
+    "id": "8dda459f-fa3a-47a7-9bb9-265e832a07ce",
+    "data": [
+      {
+        "text": "Welche Voraussetzungen fürs PS, wenn ich den Schwerpunkt Konzeption und Analyse habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547491061
+  },
+  {
+    "id": "ade128e9-05ff-48a9-8727-12ee5245cdfa",
+    "data": [
+      {
+        "text": "Welche Voraussetzungen fürs PS, wenn ich den Schwerpunkt Management habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547491061
+  },
+  {
+    "id": "0e5e6bef-270d-4c77-acca-ecfa71fee901",
+    "data": [
+      {
+        "text": "Welche Voraussetzungen fürs Praxissemester, wenn ich keinen Schwerpunkt habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547491061
+  },
+  {
+    "id": "647f998a-7c44-4ccb-a4da-8301998528ac",
+    "data": [
+      {
+        "text": "Welche Voraussetzungen brauche ich fürs Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547491061
+  },
+  {
+    "id": "628c976e-c059-4d62-b27b-405c7e5df9bd",
+    "data": [
+      {
+        "text": "Voraussetzungen fürs Praxissemester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547491061
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "c3ed8541-03ba-43a5-b14e-390e34de392e",
+    "data": [
+      {
+        "text": "Lüge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733433
+  },
+  {
+    "id": "fabf554b-1dee-4702-9b70-04880e3cb24f",
+    "data": [
+      {
+        "text": "Was ",
+        "userDefined": false
+      },
+      {
+        "text": "labasch",
+        "alias": "Beleidigung",
+        "meta": "@Beleidigung",
+        "userDefined": false
+      },
+      {
+        "text": " Du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733433
+  },
+  {
+    "id": "1b48d610-c19c-43d5-b4e1-5fbc4830e667",
+    "data": [
+      {
+        "text": "Lüg doch nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733433
+  },
+  {
+    "id": "9babe391-37c1-4a36-8243-f6eceb5fa5d6",
+    "data": [
+      {
+        "text": "Warum lügst Du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733433
+  },
+  {
+    "id": "8df98b44-eaf7-47a2-a7c8-648e0ce82621",
+    "data": [
+      {
+        "text": "Ich kann das nicht glauben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733433
+  },
+  {
+    "id": "b2c02ca6-8288-4f17-89d5-77523bbeb023",
+    "data": [
+      {
+        "text": "Stimmt das wirklich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733433
+  },
+  {
+    "id": "a18bc44c-a0db-4603-b4f1-bc682514130b",
+    "data": [
+      {
+        "text": "glaub ich Dir nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733433
+  },
+  {
+    "id": "3225742f-4457-41c4-a8e2-eef3279ed60a",
+    "data": [
+      {
+        "text": "stimmt doch gar nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733433
+  },
+  {
+    "id": "904b9daf-9348-4180-b67c-ac82c4ab1783",
+    "data": [
+      {
+        "text": "Du lügst",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733433
+  },
+  {
+    "id": "06ba763b-4f84-4fb4-978a-70f2851e7b37",
+    "data": [
+      {
+        "text": "Fake News",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547733433
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "6a3875df-ee01-46cf-9563-6eacf30e91f0",
+    "data": [
+      {
+        "text": "Bewerben trotz NC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405899
+  },
+  {
+    "id": "ca22025b-3bd4-4b47-bc17-ccfac728dde5",
+    "data": [
+      {
+        "text": "Was wenn meine Noten schlechter sind als der NC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405899
+  },
+  {
+    "id": "5ae3acc8-757a-4436-b953-0f3edac99c44",
+    "data": [
+      {
+        "text": "Darf ich mich auch bewerben, wenn meine Noten schlechter sind als der NC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405899
+  },
+  {
+    "id": "7c56591c-e4ef-421d-897a-5c42a9729967",
+    "data": [
+      {
+        "text": "Sollte ich mich trotz NC bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405899
+  },
+  {
+    "id": "a954c4c8-26dc-44a6-bd50-a2abc6073c5e",
+    "data": [
+      {
+        "text": "Kann ich mich trotzdem bewerben, auch wenn meine Noten schlechter sind?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545137155
+  },
+  {
+    "id": "b05ea34f-aa49-455d-b864-a26594f8d90d",
+    "data": [
+      {
+        "text": "Was ist wenn meine Noten schlechter sind als der NC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545137155
+  },
+  {
+    "id": "2ad9f30e-a8b1-41b6-81cb-e7f66b7941d0",
+    "data": [
+      {
+        "text": "Warum soll ich mich trotzdem bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545137155
+  },
+  {
+    "id": "f0b51555-a049-4911-b79c-5022022212bc",
+    "data": [
+      {
+        "text": "Kann ich mich auch bewerben wenn mein Notendurchschnitt unter dem NC liegt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545137155
+  }
+]

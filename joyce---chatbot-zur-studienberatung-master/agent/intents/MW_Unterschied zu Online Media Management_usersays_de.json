@@ -1,0 +1,132 @@
+[
+  {
+    "id": "d31b5add-2043-412f-b6fa-8060ed1a91b6",
+    "data": [
+      {
+        "text": "Was sind mögliche Unterschiede zum Studiengang Online Medien Management?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405076
+  },
+  {
+    "id": "bf8b0b97-8974-4c0c-9c69-d27f275172ec",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ähnlichen Studiengang an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405076
+  },
+  {
+    "id": "f28848a6-6aa1-4d23-b88e-6433d0ce5d2e",
+    "data": [
+      {
+        "text": "Unterschiede MW und Online Medien Management?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545405076
+  },
+  {
+    "id": "399bec12-b9ad-4179-a62c-d0617ac2d017",
+    "data": [
+      {
+        "text": "Was unterscheidet Medienwirtschaft und Online ",
+        "userDefined": false
+      },
+      {
+        "text": "Media",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Management?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150751
+  },
+  {
+    "id": "5def2bd3-e076-47f2-bcd6-3ded7dea2da1",
+    "data": [
+      {
+        "text": "Was ist bei Online ",
+        "userDefined": false
+      },
+      {
+        "text": "Media",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Management anders?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150751
+  },
+  {
+    "id": "327fd29f-de94-4ec5-a356-633b57f02aae",
+    "data": [
+      {
+        "text": "Was ist der Unterschied zwischen Medienwirtschaft und Online ",
+        "userDefined": false
+      },
+      {
+        "text": "Media",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Management?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150751
+  },
+  {
+    "id": "fb08f950-ebe5-421d-9ae4-1ba8673cec96",
+    "data": [
+      {
+        "text": "Was ist der Unterschied zu Online ",
+        "userDefined": false
+      },
+      {
+        "text": "Media",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Management?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150751
+  }
+]

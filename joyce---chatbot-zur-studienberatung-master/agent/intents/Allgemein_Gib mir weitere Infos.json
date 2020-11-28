@@ -1,0 +1,42 @@
+{
+  "id": "399935c7-e15d-495e-af38-5ea28634a621",
+  "name": "Allgemein_Gib mir weitere Infos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d5117e9c-2019-40e1-9d0e-357d83f5e281",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die Studien- und Prüfungsordnung umfasst alle allgemeinen Regelungen rund um das Studium an der Hochschule der Medien. Die aktuellste Fassung findest Du unter diesem Link (oben auf der Internetseite): https://www.hdm-stuttgart.de/studierende/studium/spo"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548854026,
+  "fallbackIntent": false,
+  "events": []
+}

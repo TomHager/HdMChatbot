@@ -1,0 +1,136 @@
+[
+  {
+    "id": "4ddaae6b-7542-4d58-9d11-6a2deaf76126",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Urlaubssemester machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545406010
+  },
+  {
+    "id": "b836db1c-3209-4a7e-9324-a281be823d0d",
+    "data": [
+      {
+        "text": "Ist es möglich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Urlaubssemester zu machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545406010
+  },
+  {
+    "id": "3460bdd9-40d3-42ed-8e6f-8abaf2cf850c",
+    "data": [
+      {
+        "text": "Urlaubssemester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545406010
+  },
+  {
+    "id": "73e29481-526c-47fd-87ad-272a6ba1ec80",
+    "data": [
+      {
+        "text": "Welche Voraussetzungen müssen erfüllt sein, ",
+        "userDefined": false
+      },
+      {
+        "text": "um ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Urlaubssemester zu beantragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545239685
+  },
+  {
+    "id": "f01ee607-fd72-43ac-93ab-857ad637c078",
+    "data": [
+      {
+        "text": "Gibt es die Möglichkeit ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Urlaubssemester zu nehmen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545239685
+  },
+  {
+    "id": "3c5ae6c9-3b01-4b2b-9f8f-da83eb7ef4df",
+    "data": [
+      {
+        "text": "Wann kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Urlaubssemester beantragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545239685
+  },
+  {
+    "id": "303b1140-1aca-4998-89ef-46743161b865",
+    "data": [
+      {
+        "text": "Wie viele Urlaubssemester sind möglich und aus welchen Gründen können diese beantragt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545239685
+  }
+]

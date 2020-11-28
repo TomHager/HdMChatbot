@@ -1,0 +1,49 @@
+{
+  "id": "4ba32c82-c913-429f-9c7f-f78f774bcfbb",
+  "name": "Allgemein_ects_stundenanzahl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "32fc8d05-4a4f-4cf7-a24e-8c0cd9afe4f1",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "9b221ef3-0b4c-4d1c-8fdb-5d2a03437770",
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ein ECTS-Punkt steht für insgesamt 30 Stunden Arbeitsaufwand Dazu zählen Vorlesung + Vorbereitung + Nachbereitung + Prüfungsvorbereitung."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wie viel Zeit Du für die Prüfungsvorbereitung verwendest, liegt ganz bei Dir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548692218,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "07e9007b-31cb-47fe-94d7-8db6e1e94737",
+    "data": [
+      {
+        "text": "Was geht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "00694bcd-c192-4663-b741-538a1948c14d",
+    "data": [
+      {
+        "text": "huhu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3297bc0c-b27f-48a1-9586-3ada5bf6cb2e",
+    "data": [
+      {
+        "text": "bro whats up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dd3e00d-f1c9-46df-ae10-e3fbb9328d6d",
+    "data": [
+      {
+        "text": "hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "213ce75a-7574-40c6-99f9-722e82860357",
+    "data": [
+      {
+        "text": "hey bae",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d17919ff-2dd9-4c92-8644-c34da75f9630",
+    "data": [
+      {
+        "text": "hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1545128165
+  },
+  {
+    "id": "4dac71e4-f61d-48f9-b4db-d2317c84c3bc",
+    "data": [
+      {
+        "text": "hay",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51705804-5d6d-4e56-9da1-f3012edf3098",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cc78e66-7398-4ba5-aad8-03a2635991d8",
+    "data": [
+      {
+        "text": "Servus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "115e774d-8e83-4c58-97fe-6d90cfa995a8",
+    "data": [
+      {
+        "text": "Hi Joyce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545210367
+  },
+  {
+    "id": "0a869aa7-0b9d-4382-bbb8-7c8801f6434b",
+    "data": [
+      {
+        "text": "Hey ",
+        "userDefined": false
+      },
+      {
+        "text": "Joyce",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545210367
+  },
+  {
+    "id": "ccdc1fd0-3007-4f37-b9eb-c748821e72e5",
+    "data": [
+      {
+        "text": "ja hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "466827de-11f5-4945-959d-599cf3c5786e",
+    "data": [
+      {
+        "text": "ich grüße Dich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545235678
+  },
+  {
+    "id": "76ed1444-8159-492b-8585-e2412d31085b",
+    "data": [
+      {
+        "text": "hallöchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b4ebf56-cb93-4fbf-94d5-f369818100be",
+    "data": [
+      {
+        "text": "hallo Schatzi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fb98642-0dce-46e9-b8f1-9be358fcc418",
+    "data": [
+      {
+        "text": "hallo Schatz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9484cd98-a219-437e-bfe8-8efb249ab5a1",
+    "data": [
+      {
+        "text": "hallo hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95a67ce1-d57b-421e-8e34-f7bc2d44a867",
+    "data": [
+      {
+        "text": "grüß dich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

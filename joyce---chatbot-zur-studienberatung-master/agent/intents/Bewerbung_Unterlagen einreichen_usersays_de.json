@@ -1,0 +1,100 @@
+[
+  {
+    "id": "dc49edff-e434-461b-af82-ef86833172ae",
+    "data": [
+      {
+        "text": "Wann muss ich meine Bewerbung abgeben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d1d81577-20d8-407a-845c-3a54917ec6b2",
+    "data": [
+      {
+        "text": "Bewerbungsunterlagen einreichen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862215
+  },
+  {
+    "id": "95026400-4fea-41df-9d6a-1040e06ef5bb",
+    "data": [
+      {
+        "text": "Einreichung der Bewerbungsunterlagen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862215
+  },
+  {
+    "id": "81127f45-caba-49c1-9854-b9bad9647e47",
+    "data": [
+      {
+        "text": "Wo sende ich meine Bewerbungsunterlagen hin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862215
+  },
+  {
+    "id": "bdbbb488-0486-4477-83e0-0e66937c59de",
+    "data": [
+      {
+        "text": "Nenn mir die Adresse an die ich meine Unterlagen senden kann?",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862215
+  },
+  {
+    "id": "bf318399-8450-480f-961b-7731167ff849",
+    "data": [
+      {
+        "text": "Wie sende ich meine Bewerbungsunterlagen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862215
+  },
+  {
+    "id": "312cccfd-5feb-457d-a16a-8f460c88ac15",
+    "data": [
+      {
+        "text": "Wo kann ich meine Bewerbungsunterlagen einreichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862215
+  },
+  {
+    "id": "c37ca9f4-04fd-4df8-bf9f-d667fa5b2a3e",
+    "data": [
+      {
+        "text": "Wie und wo kann ich meine Bewerbungsunterlagen einreichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545862215
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d18751cb-5df4-48b2-a78e-ca79394eca08",
+    "data": [
+      {
+        "text": "Bis wann muss ich meine Bewerbung einreichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548429963
+  },
+  {
+    "id": "5885e1cd-f154-4d7d-9141-79ebb55fe965",
+    "data": [
+      {
+        "text": "Bis wann kann ich mich bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548429963
+  },
+  {
+    "id": "8867211e-db65-468a-957d-004f871da2e4",
+    "data": [
+      {
+        "text": "Wann Bewerbung abgeben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548429963
+  },
+  {
+    "id": "6075c2dd-9448-49a6-92d8-773d0d9a8183",
+    "data": [
+      {
+        "text": "Bis wann muss ich mich bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548429963
+  },
+  {
+    "id": "dc49edff-e434-461b-af82-ef86833172ae",
+    "data": [
+      {
+        "text": "Wann muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "meine",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " Bewerbung ",
+        "userDefined": false
+      },
+      {
+        "text": "abgeben",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

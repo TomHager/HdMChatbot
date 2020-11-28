@@ -1,0 +1,44 @@
+{
+  "id": "24b63a21-d8eb-4f89-b3ac-68359d35de8b",
+  "name": "HilfeAnfrage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "HilfeAnfrage-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a1d64005-9a0b-443a-9401-a2aac7601efa",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ich versuche gerne Dir zu helfen! Wenn Du mir eines dieser Themen nennst, kann ich dir einige Beispielfragen zeigen, die Du mir stellen kannst: \n• Allgemeines\n• Medienwirtschaft  \n• Auslandssemester \n• Praxissemester \n• Studieninhalte \n• Bewerbungsprozess \n• Zulassung \n• Numerus Clausus"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548234281,
+  "fallbackIntent": false,
+  "events": []
+}

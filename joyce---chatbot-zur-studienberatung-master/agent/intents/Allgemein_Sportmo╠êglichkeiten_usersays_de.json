@@ -1,0 +1,86 @@
+[
+  {
+    "id": "cc8f1880-de92-4800-b169-68bc31605f4a",
+    "data": [
+      {
+        "text": "Kannst Du mir Infos zum Hochschulsport geben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407910
+  },
+  {
+    "id": "e4cdf66f-701c-406f-8790-e59ea86fc346",
+    "data": [
+      {
+        "text": "Gibt es organisierte Sportgruppen an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407910
+  },
+  {
+    "id": "21acd960-d6b5-492b-9a5c-3554d74c5ec4",
+    "data": [
+      {
+        "text": "Sportmöglichkeiten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545407910
+  },
+  {
+    "id": "31a6fd2b-2ba9-4be0-9edc-dcefaf1b9c40",
+    "data": [
+      {
+        "text": "Was gibt es für Sportmöglichkeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545135108
+  },
+  {
+    "id": "0905bee9-8018-4a92-bacd-f2a81dd3b492",
+    "data": [
+      {
+        "text": "Gibt es Sportmöglichkeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545135108
+  },
+  {
+    "id": "dcd67328-109f-41d1-8518-f56eac7280cb",
+    "data": [
+      {
+        "text": "Gibt es Hochschulsport?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545135108
+  },
+  {
+    "id": "5f282e75-b014-40fc-be5c-72832155e53b",
+    "data": [
+      {
+        "text": "Welche Sportmöglichkeiten werden angeboten und wie kann ich mich dafür anmelden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545135108
+  }
+]

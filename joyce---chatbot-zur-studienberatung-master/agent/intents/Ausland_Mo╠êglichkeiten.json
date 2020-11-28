@@ -1,0 +1,41 @@
+{
+  "id": "89faa701-5bf3-4b1a-8be7-59377b9de360",
+  "name": "Ausland_Möglichkeiten",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "337d18bc-6ed8-456c-883c-aaad58ea9ccc",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Die HdM unterstützt Studierende dabei, einen Studienaufenthalt im Ausland einzuplanen. Es ist möglich, sich im Ausland erbrachte Leistungen anrechnen zu lassen, falls sie vom Umfang und Inhalt Lehrveranstaltungen der HdM entsprechen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wenn Du Interesse an einem Auslandssemester hast, wende Dich an das Akademische Auslandsamt der HdM, das Kontakte zu allen Partnerhochschulen der HdM pflegt: https://www.hdm-stuttgart.de/studierende/abteilungen/aaa"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548096126,
+  "fallbackIntent": false,
+  "events": []
+}

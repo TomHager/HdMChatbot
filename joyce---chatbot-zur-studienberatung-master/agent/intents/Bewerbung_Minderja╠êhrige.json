@@ -1,0 +1,53 @@
+{
+  "id": "6ccff4e8-c57f-444b-bc91-7a0e4d7de68b",
+  "name": "Bewerbung_Minderjährige",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b2dd1d4c-fda1-42fd-9cdb-7f9d30aae2bf",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "959cde99-ef9b-4548-b71e-fda9d22136dc",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "d19d0b99-63bf-42b0-afa2-5b0c7cdd0e04",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Wenn Du bereits das 16. Lebensjahr vollendet und eine Hochschulzugangsberechtigung erworben hast, kannst Du alle Handlungen im Zusammenhang mit der Bewerbung sowie Aufnahme, Durchführung und Beendigung des Studiums eigenständig vornehmen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547717938,
+  "fallbackIntent": false,
+  "events": []
+}

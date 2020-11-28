@@ -1,0 +1,174 @@
+[
+  {
+    "id": "b3f529e9-e0ed-41b8-a6f6-b9830d320034",
+    "data": [
+      {
+        "text": "Bist du nur ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Maschine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548863882
+  },
+  {
+    "id": "6e122de0-2962-4ef0-a7af-414fca786a09",
+    "data": [
+      {
+        "text": "Bist Du ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Maschine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548863882
+  },
+  {
+    "id": "375a11a1-ed86-46f7-a096-9b9a23c4d299",
+    "data": [
+      {
+        "text": "Bist du blöd?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548863882
+  },
+  {
+    "id": "e29edcae-b49f-4ef8-8971-ef3908713b2e",
+    "data": [
+      {
+        "text": "Du ",
+        "userDefined": false
+      },
+      {
+        "text": "dumm",
+        "alias": "Beleidigung",
+        "meta": "@Beleidigung",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548863882
+  },
+  {
+    "id": "e409b441-3d81-4d62-a6cd-a70bb28533d4",
+    "data": [
+      {
+        "text": "Warum bist Du ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " beschränkt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548863882
+  },
+  {
+    "id": "bda4f6b2-0fa9-4072-b4c8-26e538cf7218",
+    "data": [
+      {
+        "text": "Warum kannst Du mich nicht verstehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548863882
+  },
+  {
+    "id": "b82af7fc-3b69-4802-aaec-a6d13a918022",
+    "data": [
+      {
+        "text": "Wieso war das nicht deutlich genug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548863768
+  },
+  {
+    "id": "436208d8-9553-4d8a-a74a-d7aa8b1bd65a",
+    "data": [
+      {
+        "text": "Was ist das problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548863768
+  },
+  {
+    "id": "5699c1a9-aa33-4e9b-b4d8-82c43cb6685d",
+    "data": [
+      {
+        "text": "Wieso verstehst du das nicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548863768
+  },
+  {
+    "id": "eb43b848-8309-4539-8bed-9379ab4f0d7f",
+    "data": [
+      {
+        "text": "Warum weißt Du das nicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548863768
+  },
+  {
+    "id": "a970b24c-9f8d-4b29-8729-4b2bf21f33a0",
+    "data": [
+      {
+        "text": "Warum kann ich dazu nicht fragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548863768
+  }
+]

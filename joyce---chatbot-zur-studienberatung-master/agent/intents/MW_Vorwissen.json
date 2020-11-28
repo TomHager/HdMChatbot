@@ -1,0 +1,50 @@
+{
+  "id": "30f71af6-c45c-4971-9344-f8c7f972b806",
+  "name": "MW_Vorwissen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ad4bc9e2-be0a-4641-a974-a10ed2cf6a16",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "3626bfb0-d656-41bc-8493-8af3dcaa37d9",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "“Vorwissen” wird nicht vorausgesetzt. Grundlegendes Interesse für Medien und wirtschaftliche Themen und Zusammenhänge solltest Du allerdings mitbringen, sowie die Bereitschaft, Dich intensiv mit Themen rund um die Medien zu beschäftigen."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Möchtest Du erfahren, ob Du ein MW Held bist? Teste es hier: https://mw.hdm-stuttgart.de/medienwirtschaft/studiengang/bist-du-ein-mw-held/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548656384,
+  "fallbackIntent": false,
+  "events": []
+}

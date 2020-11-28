@@ -1,0 +1,294 @@
+[
+  {
+    "id": "c99a6b30-0ed8-4210-b150-b9c290b42a06",
+    "data": [
+      {
+        "text": "Was lernt man in Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7a44fd2-6258-4229-8a48-0530b97b0992",
+    "data": [
+      {
+        "text": "Was lerne ich in mw?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "652a9d9c-7ce8-42a4-8b40-e52f62e9319e",
+    "data": [
+      {
+        "text": "Was lerne ich im Studiengang Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548657018
+  },
+  {
+    "id": "5110fbd2-2bed-426e-a9bd-d5766e25078e",
+    "data": [
+      {
+        "text": "was lernen ich im Studiengang MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e2625e9-61ed-410c-a6fa-2da404ba39cf",
+    "data": [
+      {
+        "text": "Kann man Filmprojekte machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56596e65-bbf0-4188-8bba-aa5bf22c720f",
+    "data": [
+      {
+        "text": "kann ich kreativ werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7431e38-1c4f-4166-9ddb-d9e6a7d00625",
+    "data": [
+      {
+        "text": "Was bringt mir mw",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1c0baa2-9b96-4956-9b13-1aa63a347c4f",
+    "data": [
+      {
+        "text": "kann ich filme drehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ff3620f5-8599-4b03-a435-167ea7ec05c3",
+    "data": [
+      {
+        "text": "Erstes",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " Semester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548657018
+  },
+  {
+    "id": "24c57ded-4806-40ea-b9d4-973dbf3d2943",
+    "data": [
+      {
+        "text": "Wie viele Vorlesungen hat man im ",
+        "userDefined": false
+      },
+      {
+        "text": "ersten",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " Semester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548657018
+  },
+  {
+    "id": "1adb6312-4887-4fcc-bcd7-6c0036f7f92d",
+    "data": [
+      {
+        "text": "Welche Fächer gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb8a4da3-d68d-4cc6-a075-ef828220490e",
+    "data": [
+      {
+        "text": "Welche Module gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9faf70ce-f83b-4639-8448-c21c4c86dabf",
+    "data": [
+      {
+        "text": "Welche Fächer gibt es",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb8977ed-7d41-4c51-aa6f-7a45d3024dec",
+    "data": [
+      {
+        "text": "Studienverlaufsplan Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559668
+  },
+  {
+    "id": "1e8ed579-62c8-4cfc-a060-ed6ac7f2fd2f",
+    "data": [
+      {
+        "text": "Studienverlaufsplan MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559668
+  },
+  {
+    "id": "f1abcee0-c766-4750-8fd3-ec127f23b6c7",
+    "data": [
+      {
+        "text": "Aufbau MW Studiengang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546559668
+  },
+  {
+    "id": "633afc09-9021-417a-b9bb-7a0bddeea5c1",
+    "data": [
+      {
+        "text": "Wie sieht der Aufbau des MW Studiengangs aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545659203
+  },
+  {
+    "id": "821363ab-44ff-4930-8e4f-e1df1c44fc53",
+    "data": [
+      {
+        "text": "Wie sehen das Grund- und Hauptstudium von MW aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545659203
+  },
+  {
+    "id": "12cba2f0-f6f6-4a7c-b40b-fde69c880151",
+    "data": [
+      {
+        "text": "Wie sieht der Studienverlaufsplan von Medienwirtschaft aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545659203
+  },
+  {
+    "id": "9ff124ff-2595-45c7-acc6-9d52d6fbcf15",
+    "data": [
+      {
+        "text": "Wie ist Medienwirtschaft aufgebaut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547043968
+  },
+  {
+    "id": "1945740b-d887-4488-90c4-6443053a624b",
+    "data": [
+      {
+        "text": "Wie ist MW aufgebaut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547043968
+  },
+  {
+    "id": "3a53cc37-3180-4671-b64b-f2c7e112e7b7",
+    "data": [
+      {
+        "text": "Wie ist das Studium aufgebaut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547043968
+  },
+  {
+    "id": "c99382cf-11d0-4ef2-937b-4cfc1bf0cd6f",
+    "data": [
+      {
+        "text": "Wie ist das MW Studium aufgebaut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545659203
+  }
+]

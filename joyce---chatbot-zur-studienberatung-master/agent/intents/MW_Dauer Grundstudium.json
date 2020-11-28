@@ -1,0 +1,33 @@
+{
+  "id": "90102231-c044-4250-8dea-c4ac55aad55c",
+  "name": "MW_Dauer Grundstudium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Das Grundstudium dauert zwei Semester. Hier werden Grundlagen vermittelt, die wichtig für die darauf aufbauenden Inhalte im Hauptstudium sind."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Im Hauptstudium, kannst Deine Kurse größtenteils selbst wählen und Deinen Stundenplan nach Deinen Präferenzen und Talenten anpassen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547721513,
+  "fallbackIntent": false,
+  "events": []
+}

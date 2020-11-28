@@ -1,0 +1,113 @@
+[
+  {
+    "id": "ae12c3ae-cf17-4845-8c86-ba232165e0d4",
+    "data": [
+      {
+        "text": "Wann soll ich welche Fäche belegen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560545
+  },
+  {
+    "id": "ddec8872-b693-4784-8b81-da21cfa923b5",
+    "data": [
+      {
+        "text": "WIe verläuft ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " MW Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560545
+  },
+  {
+    "id": "b7b8e29e-5e22-4b17-9266-a0db0427c374",
+    "data": [
+      {
+        "text": "Studienverlaufsplan Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560545
+  },
+  {
+    "id": "56ac7472-626e-4caa-8776-9dfd3314aea2",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Übersicht wann welche Vorlesung belegt werden muss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690339
+  },
+  {
+    "id": "4156e8e4-c355-45e1-99a5-00d34601216a",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Reihenfolge für die Vorlesungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690339
+  },
+  {
+    "id": "82eceeb4-2159-4ee9-99f0-4750f7b3bbe0",
+    "data": [
+      {
+        "text": "Wann muss ich welche Vorlesung besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690339
+  },
+  {
+    "id": "4372211f-6012-45e6-b132-1d1badfafd22",
+    "data": [
+      {
+        "text": "Wie verläuft das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690339
+  }
+]

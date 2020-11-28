@@ -1,0 +1,37 @@
+{
+  "id": "7074fccb-cbee-43a8-828c-47c1080bed7c",
+  "name": "Zulassung_Wartesemester Chancen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6ddf10c4-ff71-4b33-8331-4b4bd0ba3a44",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Es gibt ein separates Zulassungsverfahren, dass sich nur an der Anzahl der Wartesemester orientiert. \nDie Wartesemester haben keinen Einfluss auf die Zulassung über die Verfahrensnote. Das heißt, die Wartesemester werden nicht auf Deine Note angerechnet. \nMehr Infos zur Studienplatzvergabe und den verschiedenen Zulassungsquoten findest Du hier: https://www.hdm-stuttgart.de/studieninteressierte/bewerber/studienplatzvergabe"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547693989,
+  "fallbackIntent": false,
+  "events": []
+}

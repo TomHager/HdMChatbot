@@ -1,0 +1,101 @@
+[
+  {
+    "id": "7f75f85e-ebdd-4972-8d3d-f98a49426242",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Vertretung für Studierende?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548429100
+  },
+  {
+    "id": "6e04a6c9-c0fc-4a81-921d-c2fa388f0e37",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Vertretung für Studenten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548429100
+  },
+  {
+    "id": "4c884bd5-4a45-4be0-b746-d525b1383e6b",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Studentenvertretung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548429100
+  },
+  {
+    "id": "30e53658-7e1f-47a8-8580-4762519ae6b2",
+    "data": [
+      {
+        "text": "Was macht die VS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60682ddc-c3b6-4fb6-81fc-7fa253f85fcc",
+    "data": [
+      {
+        "text": "Gibt es eine Studierendenvertretung an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea39bfe0-2596-42d9-879a-6119c05718bd",
+    "data": [
+      {
+        "text": "Gibt es so etwas wie eine SMV an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

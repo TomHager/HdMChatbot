@@ -1,0 +1,195 @@
+[
+  {
+    "id": "a57725b1-f9a0-4650-abef-1a05e91f928d",
+    "data": [
+      {
+        "text": "Wieso medienwirtschaft studieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8decfbe-ba55-47de-a2b8-3150182f2426",
+    "data": [
+      {
+        "text": "Warum studiert man? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97e454d1-e868-433f-a7b4-3f617adc5da7",
+    "data": [
+      {
+        "text": "Warum sollte ich mw studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722286
+  },
+  {
+    "id": "8ea07d5f-fc38-4ade-8dbb-38804ae2b6c4",
+    "data": [
+      {
+        "text": "Wieso sollte ich studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547313134
+  },
+  {
+    "id": "0bf68e8f-60d0-4eb2-9634-49213a20ccf2",
+    "data": [
+      {
+        "text": "Warum sollte ich Medienwirtschaft studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546905086
+  },
+  {
+    "id": "5a5ae86c-30eb-4573-b4c4-a3e629270fe1",
+    "data": [
+      {
+        "text": "Warum Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546905086
+  },
+  {
+    "id": "0f386d7d-d962-40e7-aa6d-d40bc087979b",
+    "data": [
+      {
+        "text": "Wie wichtig ist die Medienbranche ",
+        "userDefined": false
+      },
+      {
+        "text": "heutzutage",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545406802
+  },
+  {
+    "id": "f15b6a6c-414f-486a-9273-519134931be7",
+    "data": [
+      {
+        "text": "Was bringt ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Medienstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547722286
+  },
+  {
+    "id": "fd30104a-0950-4250-a5d8-e770e9363a52",
+    "data": [
+      {
+        "text": "Weshalb sollte ich was mit Medien studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545406802
+  },
+  {
+    "id": "8f3d2774-ef42-4cb4-ac4f-a71108a8ab5a",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "an einem",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Medienstudium interessant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545128826
+  },
+  {
+    "id": "09621225-4c87-4cdc-9a69-89bde3ccde2a",
+    "data": [
+      {
+        "text": "Warum irgendwas mit Medien?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545128826
+  },
+  {
+    "id": "dfa89cea-43d9-4552-ac44-820d17463ceb",
+    "data": [
+      {
+        "text": "Warum was mit Medien studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545128826
+  },
+  {
+    "id": "b89b380e-efbe-49b3-beac-634e62a9ed51",
+    "data": [
+      {
+        "text": "Warum überhaupt ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Medienstudium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545128826
+  }
+]

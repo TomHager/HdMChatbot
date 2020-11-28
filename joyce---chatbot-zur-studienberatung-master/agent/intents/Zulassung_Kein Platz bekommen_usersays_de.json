@@ -1,0 +1,136 @@
+[
+  {
+    "id": "9a563410-7a45-4436-801f-8a7df1ddf0ea",
+    "data": [
+      {
+        "text": "Absage bekommen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626644
+  },
+  {
+    "id": "d7f4c01b-cbff-436a-a823-28b502e7e10b",
+    "data": [
+      {
+        "text": "Kann ich mich nochmal bewerben wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Absage bekommen habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626644
+  },
+  {
+    "id": "71ffa698-fd36-42fb-84a9-ee490f9ad027",
+    "data": [
+      {
+        "text": "Was mache ich ",
+        "userDefined": false
+      },
+      {
+        "text": "nach einer",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Absage?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546626644
+  },
+  {
+    "id": "8e2dc5fe-1260-436e-bf3f-887536909733",
+    "data": [
+      {
+        "text": "Was wenn ich keinen Studienplatz bekommen habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545923698
+  },
+  {
+    "id": "f78e0018-f386-40e9-a871-49b781241a4c",
+    "data": [
+      {
+        "text": "Wie oft kann man sich bei der HdM bewerben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910948
+  },
+  {
+    "id": "55552cb9-6b9f-43fd-96b8-f25247db7896",
+    "data": [
+      {
+        "text": "Beeinflusst ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Absage ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " zukünftige Bewerbung an der HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910948
+  },
+  {
+    "id": "61a7a087-29ca-4ab7-8257-66ce9ef3d3c6",
+    "data": [
+      {
+        "text": "Ich habe keinen Studienplatz bekommen, was kann ich tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910948
+  },
+  {
+    "id": "51e2f144-4f5a-41e0-bc61-6fb56cf9230a",
+    "data": [
+      {
+        "text": "Was kann ich tun, wenn ich keinen Studienplatz bekommen habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545910948
+  }
+]

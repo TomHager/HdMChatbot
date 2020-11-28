@@ -1,0 +1,140 @@
+[
+  {
+    "id": "181d86f2-87ce-452e-a6d8-c7c8a12f463c",
+    "data": [
+      {
+        "text": "Benötigte Seiten BA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560402
+  },
+  {
+    "id": "8a5df725-00f1-488b-b144-740a72391680",
+    "data": [
+      {
+        "text": "Wie viele Seiten brauch ich ",
+        "userDefined": false
+      },
+      {
+        "text": "für eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " BA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560402
+  },
+  {
+    "id": "280bff14-32c9-4cbe-abcf-a88c9ccbb386",
+    "data": [
+      {
+        "text": "Seiten Bachelorarbeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546560402
+  },
+  {
+    "id": "532e65e1-908b-4ea3-a1ca-f91655f70d50",
+    "data": [
+      {
+        "text": "Ab wann hat man genug Seite ",
+        "userDefined": false
+      },
+      {
+        "text": "bei einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Abschlussarbeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690076
+  },
+  {
+    "id": "955ace54-2779-4c3b-80a2-bd3cc0ea4da3",
+    "data": [
+      {
+        "text": "Wie viel Seiten muss ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ausarbeitung ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Abschlussarbeit umfassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690076
+  },
+  {
+    "id": "9e1eae4e-54d8-49df-ac06-54bb81e9d54c",
+    "data": [
+      {
+        "text": "Wie viele Seiten brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "für eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Bachelorarbeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690076
+  },
+  {
+    "id": "41b89fa7-cba0-4982-b9bb-74bef94c947b",
+    "data": [
+      {
+        "text": "Welchen Umfang hat ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Bachelorarbeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545690076
+  }
+]

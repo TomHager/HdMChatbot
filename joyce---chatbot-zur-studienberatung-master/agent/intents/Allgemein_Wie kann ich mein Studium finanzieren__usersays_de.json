@@ -1,0 +1,108 @@
+[
+  {
+    "id": "39a628fe-dc13-401f-a377-e31d890b72bb",
+    "data": [
+      {
+        "text": "Wie geht das mit dem BaföG?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545410898
+  },
+  {
+    "id": "8d3aa122-6483-414c-9a55-24107df5a384",
+    "data": [
+      {
+        "text": "Wie finanziert man sich das Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545410898
+  },
+  {
+    "id": "642891df-b4f3-4d53-897f-0f54d8c2795d",
+    "data": [
+      {
+        "text": "Wie kann die Finanzierung ",
+        "userDefined": false
+      },
+      {
+        "text": "eines",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Studiums aussehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545410898
+  },
+  {
+    "id": "81a40834-cfaf-4c39-94aa-a01711a51d02",
+    "data": [
+      {
+        "text": "Studienfinanzierung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545410898
+  },
+  {
+    "id": "1819c4d4-57f0-4c3b-a24f-b11bf5cecf31",
+    "data": [
+      {
+        "text": "Bekomme ich BAföG?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545128491
+  },
+  {
+    "id": "66a185a6-766e-4587-a7b9-510cc9a01600",
+    "data": [
+      {
+        "text": "Gibt es finanzielle Unterstützung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545128491
+  },
+  {
+    "id": "6fd03b45-565c-4f93-9076-8285ac7399f1",
+    "data": [
+      {
+        "text": "Woher bekomme ich finanzielle Unterstützung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545128491
+  },
+  {
+    "id": "a589ddc4-efe7-45ac-bc85-c3bd052dae0a",
+    "data": [
+      {
+        "text": "Wie kann ich mein Studium finanzieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545128491
+  }
+]

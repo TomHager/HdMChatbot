@@ -1,0 +1,192 @@
+[
+  {
+    "id": "ab955f2a-61a7-49bb-a1c5-42369850fe16",
+    "data": [
+      {
+        "text": "gib mit indfos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f158527-49c7-4909-ab4b-9783cc774a18",
+    "data": [
+      {
+        "text": "Wo finde ich mehr Informationen über Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285928
+  },
+  {
+    "id": "8e40b5f3-9d76-4a45-a49b-dedd8fa5f5b3",
+    "data": [
+      {
+        "text": "Wo finde ich mehr Informationen über MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285928
+  },
+  {
+    "id": "1a9eacb0-d284-4fcb-90b0-8b0e2aeab75f",
+    "data": [
+      {
+        "text": "Wo finde ich mehr Infos über Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285928
+  },
+  {
+    "id": "e23b4897-e7b7-43da-8b9e-bce834e83dfa",
+    "data": [
+      {
+        "text": "Wo finde ich mehr Infos über MW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285928
+  },
+  {
+    "id": "3a78c307-0e59-4565-95e6-45f5f4637e17",
+    "data": [
+      {
+        "text": "Wo finde ich mehr Informationen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285928
+  },
+  {
+    "id": "959a9cfa-dc28-4dc9-a110-05b5de854f56",
+    "data": [
+      {
+        "text": "Wo finde ich mehr Infos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285928
+  },
+  {
+    "id": "6db3c457-bd1f-4049-943a-d1e1903f4e86",
+    "data": [
+      {
+        "text": "Wo finde ich mehr Infos übers Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285928
+  },
+  {
+    "id": "3aa5d9fc-87c5-4348-85d9-183250cfa5f1",
+    "data": [
+      {
+        "text": "Wo finde ich mehr Informationen übers Studium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547285928
+  },
+  {
+    "id": "a3fa3fb2-fa2c-44ad-b7db-987a729ca764",
+    "data": [
+      {
+        "text": "Gib mir weitere Infos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547040800
+  },
+  {
+    "id": "b0b11ed1-e7d9-47ec-b351-7507d9a542bb",
+    "data": [
+      {
+        "text": "Zeig mir die ",
+        "userDefined": false
+      },
+      {
+        "text": "aktuelle",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " SPO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547040800
+  },
+  {
+    "id": "4b56d012-74b1-4c87-84f2-fe68174b4a16",
+    "data": [
+      {
+        "text": "Wo kann ich all diese Infos nachlesen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547040800
+  },
+  {
+    "id": "1b279b88-9f42-488a-813c-b5b319faeada",
+    "data": [
+      {
+        "text": "Wo kann ich mich informieren, wenn ich weitere Informationen brauche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547040800
+  },
+  {
+    "id": "5467432c-2d29-4df6-b21b-8002e296ef15",
+    "data": [
+      {
+        "text": "Kannst Du mir die SPO zeigen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547040800
+  },
+  {
+    "id": "63286ee9-12c5-4c8d-80b1-f4e0e001da77",
+    "data": [
+      {
+        "text": "SPO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547040800
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "5c94c13f-b804-4a64-87cf-e45d13cc83cb",
+    "data": [
+      {
+        "text": "Kann ich danach ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Master machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547314256
+  },
+  {
+    "id": "27f4f96b-669d-46d2-8133-aca40fd37fd0",
+    "data": [
+      {
+        "text": "Gibt es auch ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Master?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547310634
+  },
+  {
+    "id": "f4667edc-bfc8-4851-8e06-bb9512937bf9",
+    "data": [
+      {
+        "text": "Was für Möglichkeiten habe ich, um nach de MW Studium weiter zu machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545404137
+  },
+  {
+    "id": "107e9bf2-677e-4191-bcba-8ab5bdb84f27",
+    "data": [
+      {
+        "text": "Und wie kann es nach dem Bachelor weiter gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545404137
+  },
+  {
+    "id": "db8e7d8d-641d-458c-add1-126183e42a4b",
+    "data": [
+      {
+        "text": "Und wie geht es nach dem Bachelor weiter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545404137
+  },
+  {
+    "id": "a3e19e90-550c-4662-ad55-a126094bd2f6",
+    "data": [
+      {
+        "text": "Welche Masterstudiengänge eignen sich ",
+        "userDefined": false
+      },
+      {
+        "text": "nach einem",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " Bachelor in Medienwirtschaft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545239080
+  },
+  {
+    "id": "95d43368-d177-4fb0-8fac-bfe239a986b6",
+    "data": [
+      {
+        "text": "Was habe ich für Möglichkeiten wenn ich meinen Bachelor abgeschlossen habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545239080
+  },
+  {
+    "id": "dd3fbb93-717b-499d-b205-17984129a0ec",
+    "data": [
+      {
+        "text": "Wie kann ich nach dem Bachelor weiter studieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545239080
+  },
+  {
+    "id": "387ffb6a-bdc2-48b8-b092-9864bfa38e3f",
+    "data": [
+      {
+        "text": "Was kann ich nach dem Bachelor an der HdM machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545239080
+  },
+  {
+    "id": "37a4486d-ef4d-447f-b2fa-1bdfb7204188",
+    "data": [
+      {
+        "text": "Welche weiteren Studienmöglichkeiten gibt es nach dem Bachelor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545239080
+  }
+]
